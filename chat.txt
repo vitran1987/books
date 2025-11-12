@@ -1,0 +1,1 @@
+please add this project to remote repo at git@github.com:vitran1987/books.git to manage revisions

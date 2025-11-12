@@ -1,0 +1,232 @@
+CHƯƠNG MỚI: BÍ MẬT PHÍA SAU NỀN TẢNG GIÁO DỤC TRỰC TUYẾN MIỄN PHÍ
+Làm thế nào các công ty giáo dục online duy trì mô hình kinh doanh với giá bằng không
+
+Khi Sal Khan bắt đầu đăng tải các video dạy toán học miễn phí lên YouTube vào năm 2006 để giúp đỡ em họ, ông không hề nghĩ rằng mình đang khởi xướng một cuộc cách mạng trong ngành giáo dục. Ngày nay, Khan Academy - tổ chức phi lợi nhuận mà ông sáng lập - cung cấp hơn 10.000 video bài giảng miễn phí, phục vụ hàng triệu học sinh trên toàn thế giới mỗi tháng, tất cả đều hoàn toàn miễn phí. Không có quảng cáo xâm nhập. Không có phí ẩn. Không có giới hạn về số lượng bài học bạn có thể xem.
+
+Điều này nghe có vẻ như phép màu kinh tế. Làm thế nào một tổ chức có thể sản xuất hàng nghìn giờ nội dung giáo dục chất lượng cao, duy trì cơ sở hạ tầng công nghệ phức tạp, thuê đội ngũ giáo viên và kỹ sư tài năng, tất cả trong khi không thu một xu nào từ người học? Và Khan Academy không phải là trường hợp duy nhất. Coursera cung cấp hàng nghìn khóa học từ các trường đại học hàng đầu thế giới. edX, được thành lập bởi Harvard và MIT, mang giáo dục đại học đến với hàng triệu người. Tất cả đều có phiên bản hoàn toàn miễn phí.
+
+Câu trả lời nằm trong sự tiến hóa mới nhất của khái niệm "Miễn phí" mà chúng ta đã khám phá trong quyển sách này. Nhưng trong lĩnh vực giáo dục, Miễn phí không chỉ là một chiến thuật kinh doanh - nó còn là một sứ mệnh đạo đức và một cuộc cách mạng công nghệ đang biến đổi cách thức con người tiếp cận kiến thức.
+
+CUỘC CÁCH MẠNG GIÁ BẰNG KHÔNG TRONG GIÁO DỤC
+
+Trước khi đi sâu vào cách thức các nền tảng này duy trì hoạt động, chúng ta cần hiểu tại sao giáo dục trực tuyến miễn phí lại trở thành hiện tượng toàn cầu. Ba yếu tố chính đã tạo nên cơn bão hoàn hảo này:
+
+Thứ nhất là chi phí biên của việc phân phối kiến thức kỹ thuật số đã giảm xuống gần bằng không. Như chúng ta đã thấy với định luật Moore, khi chi phí lưu trữ, băng thông và năng lực xử lý giảm theo cấp số nhân, việc cung cấp một bài giảng video cho một triệu người học không tốn kém hơn nhiều so với việc cung cấp cho một nghìn người. Một khi nội dung đã được sản xuất, chi phí để phân phối nó đến thêm một học sinh nữa hầu như bằng không.
+
+Thứ hai là sự bùng nổ của nhu cầu học tập suốt đời. Trong nền kinh tế tri thức ngày nay, kỹ năng của bạn năm năm trước có thể đã lỗi thời. Công nhân phải liên tục học hỏi để theo kịp với công nghệ mới, phương pháp mới, và yêu cầu công việc mới. Giáo dục không còn là thứ bạn hoàn thành một lần trong đời - nó là một quá trình liên tục. Và với chi phí giáo dục truyền thống tăng vọt, nhiều người đơn giản không thể chi trả cho việc học liên tục ở các trường đại học truyền thống.
+
+Thứ ba là khoảng cách giáo dục toàn cầu. Có hàng trăm triệu người trên thế giới thiếu cơ hội tiếp cận giáo dục chất lượng. Họ sống ở các vùng xa xôi, không đủ khả năng chi trả, hoặc bị loại trừ khỏi hệ thống giáo dục chính thống vì nhiều lý do khác nhau. Đối với những người này, giáo dục trực tuyến miễn phí không chỉ là tiện lợi - nó là cửa sổ duy nhất dẫn đến kiến thức và cơ hội.
+
+MÔ HÌNH KINH TẾ CỦA KHAN ACADEMY: MIỄN PHÍ THUẦN TÚY
+
+Khan Academy đại diện cho hình thức thuần túy nhất của Miễn phí trong giáo dục. Là một tổ chức phi lợi nhuận 501(c)(3), Khan Academy không tìm kiếm lợi nhuận. Tất cả nội dung của họ - từ toán học cấp tiểu học đến vi tích phân đại học, từ khoa học đến lịch sử nghệ thuật - đều hoàn toàn miễn phí, không quảng cáo, và luôn như vậy.
+
+Vậy họ tồn tại bằng cách nào? Câu trả lời nằm ở một hình thức Miễn phí cổ xưa: từ thiện và tài trợ.
+
+Khan Academy hoạt động dựa trên sự hỗ trợ của các nhà tài trợ lớn tin tưởng vào sứ mệnh cung cấp giáo dục miễn phí cho toàn thế giới. Các nhà tài trợ chính bao gồm Bill và Melinda Gates Foundation, Google, Bank of America, và nhiều cá nhân giàu có khác. Năm 2023, ngân sách hoạt động của Khan Academy là khoảng 80 triệu USD, toàn bộ đến từ quyên góp.
+
+Nhưng đây không phải là kiểu từ thiện truyền thống nơi người giàu đơn thuần cho đi tiền. Đó là đầu tư chiến lược vào việc dân chủ hóa giáo dục. Bill Gates từng giải thích tại sao ông tài trợ cho Khan Academy: "Tôi thích xem các video của Sal Khan vì chúng rõ ràng, hấp dẫn, và hiệu quả. Đây là tương lai của giáo dục. Và nó phải là miễn phí."
+
+Mô hình này hoạt động vì ba lý do:
+
+1. Hiệu ứng mạng lưới: Càng nhiều người sử dụng Khan Academy, nền tảng này càng có giá trị. Giáo viên chia sẻ với nhau cách sử dụng hiệu quả. Học sinh giúp đỡ lẫn nhau. Phụ huynh kể cho nhau nghe. Mỗi người dùng mới làm tăng giá trị cho mọi người khác. Và Miễn phí là cách nhanh nhất để tối đa hóa hiệu ứng mạng lưới này.
+
+2. Sứ mệnh công cộng: Các nhà tài trợ không tìm kiếm lợi nhuận tài chính mà là lợi ích xã hội. Họ đo lường thành công không phải bằng doanh thu mà bằng số lượng học sinh được giúp đỡ, số bài học được hoàn thành, và sự cải thiện trong kết quả học tập. Một nghiên cứu năm 2014 cho thấy học sinh sử dụng Khan Academy 30 phút mỗi tuần cải thiện điểm toán trung bình 5%.
+
+3. Chi phí công nghệ giảm: Như chúng ta đã thấy trong chương về kinh tế kỹ thuật số, chi phí để lưu trữ và phân phối video giảm liên tục. YouTube, nơi Khan Academy lưu trữ video, cung cấp băng thông miễn phí. Dịch vụ đám mây ngày càng rẻ. Điều này có nghĩa là 80 triệu USD có thể đi rất xa - phục vụ hàng trăm triệu học sinh mỗi năm.
+
+Nhưng mô hình phi lợi nhuận có giới hạn của nó. Nó đòi hỏi dòng tài trợ ổn định, điều không phải lúc nào cũng đảm bảo. Và nó phụ thuộc vào lòng hào phóng của một số ít người giàu có. Đó là lý do tại sao các nền tảng thương mại như Coursera và edX đã phát triển các mô hình kinh doanh khác nhau.
+
+MÔ HÌNH FREEMIUM CỦA COURSERA VÀ EDX: MIỄN PHÍ GẶP GỠ TRUNG CẤP
+
+Coursera và edX đại diện cho một biến thể khác của Miễn phí: mô hình "freemium". Hai nền tảng này cung cấp hầu hết nội dung giáo dục miễn phí, nhưng thu phí cho các tính năng cao cấp. Đây là một ví dụ hoàn hảo về "Miễn phí 3" mà chúng ta đã thảo luận trước đó trong sách này.
+
+Cách thức hoạt động như sau:
+
+Lớp miễn phí: Bạn có thể ghi danh vào hầu như bất kỳ khóa học nào trên Coursera hoặc edX mà không phải trả tiền. Bạn xem video bài giảng, đọc tài liệu, làm bài tập. Bạn học từ các giáo sư Harvard, Stanford, MIT - những trường đại học mà học phí hàng năm có thể lên đến 70.000 USD. Tất cả miễn phí.
+
+Nhưng có một số giới hạn. Trong hầu hết trường hợp, bạn không nhận được chứng chỉ hoàn thành. Bạn có thể không được chấm điểm một số bài tập. Và bạn không có quyền truy cập vào một số tài nguyên cao cấp.
+
+Lớp trả phí: Nếu bạn muốn chứng chỉ được xác minh - một văn bằng chính thức cho thấy bạn đã hoàn thành khóa học - bạn phải trả tiền, thường từ 49 đến 99 USD cho một khóa học. Nếu bạn muốn theo đuổi một "chuyên ngành" (một chuỗi các khóa học liên quan), bạn có thể đăng ký với khoảng 39-79 USD mỗi tháng. Và nếu bạn muốn bằng cấp đầy đủ - học sĩ, thạc sĩ, thậm chí tiến sĩ - bạn sẽ trả hàng nghìn hoặc hàng chục nghìn đô la, mặc dù vẫn rẻ hơn nhiều so với học tại trường.
+
+Con số nói lên điều gì? Trên Coursera, khoảng 5-7% người học nâng cấp lên phiên bản trả phí. Đó là tỷ lệ chuyển đổi điển hình trong mô hình freemium. Nhưng với hàng chục triệu người dùng, 5-7% đó tạo ra doanh thu đáng kể. Năm 2023, Coursera báo cáo doanh thu 636 triệu USD.
+
+Tại sao mô hình này hoạt động? Nó khai thác phương trình thời gian/tiền bạc mà chúng ta đã thảo luận trong chương về tâm lý học của Miễn phí.
+
+Đối với sinh viên nghèo ở Ấn Độ hay Kenya, thời gian là thứ họ có nhiều nhưng tiền thì khan hiếm. Họ sẵn sàng học miễn phí mà không cần chứng chỉ, chỉ vì kiến thức. Họ có thể xem video nhiều lần, ghi chép cẩn thận, tự kiểm tra kiến thức của mình.
+
+Nhưng đối với một chuyên gia công nghệ ở Thung lũng Silicon muốn học máy học để thăng tiến trong sự nghiệp, thời gian quý hơn tiền. Họ muốn cấu trúc, muốn được chấm điểm, muốn chứng chỉ để đưa vào CV. 99 USD cho một chứng chỉ từ Stanford là một món hời so với giá trị nó mang lại cho sự nghiệp của họ.
+
+Đây là điều kỳ diệu của mô hình freemium trong giáo dục: nó phục vụ cả hai nhóm người dùng mà không loại trừ ai. Người nghèo vẫn học được kiến thức. Người giàu trả tiền cho sự tiện lợi và công nhận chính thức. Và doanh thu từ nhóm thứ hai tài trợ cho việc cung cấp miễn phí cho nhóm thứ nhất.
+
+Nhưng vẫn còn một điều gì đó sâu sắc hơn đang diễn ra ở đây. Coursera và edX đang đánh vào một nhu cầu tâm lý căn bản: nhu cầu được công nhận. Việc học một khóa học là tuyệt vời, nhưng việc có thể chứng minh bạn đã học nó - với một chứng chỉ có thể chia sẻ trên LinkedIn, đưa cho nhà tuyển dụng, hoặc đơn giản là treo trên tường - đó là điều có giá trị hoàn toàn khác.
+
+Và đây là nơi chúng ta thấy một dạng Miễn phí tinh vi: Coursera và edX đang cho đi kiến thức (thứ vô hạn và có thể sao chép miễn phí) nhưng bán công nhận (thứ khan hiếm và có giá trị). Họ đã tách biệt giáo dục thành hai thành phần và định giá chúng khác nhau.
+
+MÔ HÌNH ĐỐI TÁC DOANH NGHIỆP: NƠI MIỄN PHÍ GẶP GỠ B2B
+
+Nhưng còn một nguồn doanh thu khác mà các nền tảng giáo dục trực tuyến ngày càng khai thác: doanh nghiệp.
+
+Coursera for Business cung cấp cho công ty quyền truy cập vào thư viện khóa học của họ cho nhân viên. Giá có thể từ 399 USD mỗi người dùng mỗi năm cho các công ty nhỏ đến hàng triệu đô la cho các hợp đồng doanh nghiệp lớn với các tập đoàn Fortune 500. edX có một dịch vụ tương tự.
+
+Từ góc độ doanh nghiệp, đây là một món hời. Đào tạo nội bộ truyền thống có thể tốn hàng nghìn đô la mỗi nhân viên. Thuê huấn luyện viên bên ngoài còn đắt hơn. Nhưng với Coursera, một công ty có thể cung cấp cho toàn bộ lực lượng lao động quyền truy cập vào hàng nghìn khóa học từ các trường đại học hàng đầu với một phần nhỏ chi phí đó.
+
+Và từ góc độ Coursera, doanh nghiệp là nguồn doanh thu ổn định, có thể dự đoán. Trong khi người dùng cá nhân có thể tham gia và rời đi, hợp đồng doanh nghiệp thường kéo dài nhiều năm. Năm 2023, Coursera có hơn 1.000 khách hàng doanh nghiệp, bao gồm Google, L'Oreal, và Verizon.
+
+Đây là một hình thức khác của hỗ trợ chéo: người học cá nhân được hưởng lợi từ nội dung miễn phí được tài trợ một phần bởi doanh nghiệp trả tiền. Và vòng tròn tiếp tục: khi nhiều cá nhân sử dụng Coursera, uy tín của nền tảng tăng lên, làm cho nó hấp dẫn hơn đối với doanh nghiệp.
+
+MÔ HÌNH QUẢNG CÁO ẨN: NƠI MIỄN PHÍ ĐỤNG ĐỘ ĐẠO ĐỨC
+
+Một số nền tảng giáo dục trực tuyến khác đã thử nghiệm với quảng cáo, nhưng với kết quả hỗn hợp. Udemy, một đối thủ cạnh tranh khác trong không gian này, đôi khi hiển thị quảng cáo. Các nền tảng nhỏ hơn cũng vậy.
+
+Nhưng có một lý do tại sao các nền tảng hàng đầu như Khan Academy, Coursera, và edX tránh quảng cáo truyền thống: nó gây xao nhãng và làm giảm trải nghiệm học tập. Nghiên cứu cho thấy rằng việc ngắt quãng - như quảng cáo xuất hiện giữa video bài giảng - làm giảm đáng kể việc ghi nhớ và hiểu bài.
+
+Hơn nữa, có vấn đề đạo đức. Nếu một sinh viên đang học về lịch sử thế chiến thứ hai và đột nhiên gặp quảng cáo về kem chống nắng, điều đó không chỉ xao nhãng - nó còn làm giảm giá trị của việc học. Giáo dục khác với giải trí. Một video YouTube về mèo hài hước có thể có quảng cáo, nhưng một bài giảng về vi tích phân cần được tôn trọng như một không gian thiêng liêng cho tâm trí.
+
+Tuy nhiên, một số hình thức "quảng cáo" tinh vi hơn đã xuất hiện. Chẳng hạn, nhiều khóa học trên Coursera được tài trợ bởi các công ty công nghệ. Google có khóa học về phân tích dữ liệu. IBM có khóa học về trí tuệ nhân tạo. Đây có phải là quảng cáo? Theo một cách nào đó, có. Nhưng chúng cũng là giáo dục hợp pháp, do các chuyên gia thực sự giảng dạy.
+
+Ranh giới đang mờ dần. Và đó là một phần của cách mà Miễn phí đang tiến hóa trong thời đại kỹ thuật số. Nội dung được tài trợ, tiếp thị nội dung, và giáo dục đích thực đang hòa quyện vào nhau theo những cách mà có khi chính người tạo ra cũng không hoàn toàn nhận ra.
+
+CHI PHÍ THỰC SỰ CỦA MIỄN PHÍ: DOANH THU DỮ LIỆU
+
+Nhưng còn một khía cạnh khác của kinh tế giáo dục trực tuyến mà chúng ta cần thảo luận: dữ liệu.
+
+Mỗi khi bạn xem một video trên Khan Academy, làm một bài quiz trên Coursera, hoặc tương tác với một bài tập trên edX, bạn đang tạo ra dữ liệu. Dữ liệu về cách bạn học, thứ bạn vật lộn, tốc độ bạn tiến bộ. Đây là dữ liệu vô cùng quý giá.
+
+Cho đến nay, hầu hết các nền tảng lớn đã kháng cự việc bán dữ liệu này. Khan Academy, như một tổ chức phi lợi nhuận, cam kết không bao giờ bán dữ liệu sinh viên. Coursera và edX cũng có chính sách bảo mật nghiêm ngặt.
+
+Nhưng họ sử dụng dữ liệu nội bộ để cải thiện sản phẩm của mình. Họ biết video nào học sinh xem nhiều lần (một dấu hiệu cho thấy nó khó hoặc được giảng dạy kém). Họ biết bài tập nào học sinh làm sai nhiều nhất. Họ có thể cá nhân hóa đường học tập dựa trên hiệu suất trước đó của bạn.
+
+Đây là một hình thức giá trị xuất phát từ Miễn phí mà rất ít người nhận ra: khi bạn sử dụng một dịch vụ miễn phí, bạn không chỉ là người tiêu dùng. Bạn cũng là người sản xuất - sản xuất dữ liệu giúp cải thiện dịch vụ cho mọi người.
+
+Trong một số trường hợp, dữ liệu này còn được sử dụng cho nghiên cứu. Các giáo sư nghiên cứu cách người học tương tác với vật liệu, tìm kiếm các mô hình trong dữ liệu lớn. Coursera đã xuất bản hàng chục bài báo học thuật dựa trên dữ liệu từ nền tảng của họ. Một số nghiên cứu này đã dẫn đến những hiểu biết mới về cách học, đang thay đổi cả giáo dục trực tuyến và truyền thống.
+
+Vậy là chúng ta có một vòng lặp phản hồi: Càng nhiều người sử dụng nền tảng miễn phí, càng nhiều dữ liệu được tạo ra. Càng nhiều dữ liệu, nền tảng càng được cải thiện. Nền tảng càng tốt, càng nhiều người sử dụng nó. Và cứ thế tiếp tục.
+
+NGHỊCH LÝ CỦA QUY MÔ: TẠI SAO LỚN LÀ KHÁC
+
+Một yếu tố quan trọng làm cho giáo dục trực tuyến miễn phí hoạt động là quy mô. Điều này quay trở lại với kinh tế học cơ bản mà chúng ta đã thảo luận trong suốt quyển sách này: khi chi phí biên gần bằng không, quy mô là mọi thứ.
+
+Hãy xét ví dụ của Khan Academy. Chi phí để sản xuất một video bài giảng - thuê hoạ sĩ, viết kịch bản, thu âm, chỉnh sửa - có thể là 5.000 USD. Nếu chỉ có 100 người xem video đó, chi phí mỗi lượt xem là 50 USD - quá đắt. Nhưng nếu 10 triệu người xem nó, chi phí mỗi lượt xem chỉ là 0,0005 USD - hầu như bằng không.
+
+Đây là lý do tại sao các nền tảng nhỏ thường đấu tranh. Nếu bạn chỉ có vài nghìn người dùng, bạn không thể tạo ra đủ doanh thu từ mô hình freemium để bù đắp chi phí sản xuất nội dung chất lượng cao. Nhưng nếu bạn có hàng triệu người dùng, toán học hoạt động đẹp đẽ.
+
+Đây cũng là lý do tại sao chúng ta thấy sự hợp nhất trong ngành này. Các nền tảng nhỏ bị mua lại bởi các nền tảng lớn hơn hoặc đơn giản là biến mất. Coursera đã hợp nhất với nhiều nền tảng khu vực. edX đã sáp nhập với 2U. Chỉ những người chơi có quy mô mới tồn tại.
+
+Nhưng quy mô không chỉ về kinh tế học. Nó còn về hiệu ứng mạng lưới. Một nền tảng có 50 triệu người dùng có thể tạo ra các diễn đàn thảo luận sôi động, các nhóm học tập, và các cơ hội kết nối đồng nghiệp mà một nền tảng nhỏ hơn không thể. Học sinh giúp đỡ lẫn nhau, trả lời câu hỏi của nhau, chia sẻ tài nguyên. Giáo viên chia sẻ kế hoạch bài học và chiến lược. Toàn bộ hệ sinh thái xuất hiện.
+
+Và điều này dẫn đến một nghịch lý thú vị: trong khi giáo dục truyền thống hưởng lợi từ lớp học nhỏ (tỷ lệ sinh viên trên giáo viên thấp được coi là tốt hơn), giáo dục trực tuyến hưởng lợi từ quy mô khổng lồ. Một video bài giảng tuyệt vời không trở nên tồi tệ hơn khi một triệu người xem nó thay vì một nghìn. Trên thực tế, nó có thể trở nên tốt hơn, vì nhiều người nghĩa là nhiều phản hồi hơn, giúp người tạo ra cải thiện nó.
+
+TRÍ TUỆ NHÂN TẠO VÀ TƯƠNG LAI CỦA HỌC MIỄN PHÍ
+
+Sự phát triển gần đây nhất trong giáo dục trực tuyến miễn phí là việc tích hợp trí tuệ nhân tạo. Và đây là nơi mọi thứ trở nên thực sự hấp dẫn.
+
+Vào năm 2023, Khan Academy đã ra mắt "Khanmigo", một gia sư AI được xây dựng trên công nghệ GPT-4 của OpenAI. Đây không phải là chatbot điển hình. Nó được thiết kế cụ thể cho giáo dục, được lập trình để không chỉ đưa ra câu trả lời mà hướng dẫn học sinh đến với câu trả lời thông qua các câu hỏi Socrates.
+
+Điều này đại diện cho một bước tiến lớn trong việc dân chủ hóa giáo dục. Trong lịch sử, gia sư cá nhân là đặc quyền của người giàu. Một gia sư con người tốt có thể tính 100 USD một giờ hoặc hơn. Nhưng một gia sư AI có thể phục vụ hàng triệu học sinh đồng thời, với chi phí biên gần bằng không.
+
+Tất nhiên, có một vấn đề: trong khi nội dung video có chi phí biên bằng không một khi được sản xuất, AI vẫn có chi phí tính toán. Mỗi lần một học sinh tương tác với Khanmigo, nó tốn tiền để chạy các thuật toán AI. Đó là lý do tại sao, không giống như phần còn lại của Khan Academy, Khanmigo không hoàn toàn miễn phí - nó tính phí thuê bao 9 USD mỗi tháng.
+
+Nhưng điều này cho chúng ta thấy tương lai của kinh tế giáo dục trực tuyến. Khi AI trở nên rẻ hơn (và nó đang trở nên rẻ hơn, theo cùng đường cong hàm mũ như các công nghệ kỹ thuật số khác), ngay cả gia sư cá nhân AI cuối cùng cũng có thể trở nên miễn phí. Chúng ta đang hướng tới một thế giới nơi mọi người, bất kể thu nhập, có thể có gia sư chuyên gia riêng có sẵn 24/7.
+
+Coursera và edX cũng đang thử nghiệm với AI. Họ sử dụng nó để cá nhân hóa đường học tập, đề xuất khóa học dựa trên sở thích và hiệu suất của bạn, và thậm chí chấm điểm các bài luận và dự án phức tạp. AI đang làm giảm chi phí cung cấp giáo dục chất lượng cao trong khi đồng thời làm tăng khả năng cá nhân hóa nó.
+
+TƯƠNG LAI CỦA HỌC: TỪ MIỄN PHÍ ĐẾN VÔ GIÁ
+
+Vậy tương lai của giáo dục trực tuyến miễn phí trông như thế nào? Tôi tin rằng chúng ta đang hướng tới một thế giới nơi kiến thức cơ bản - các sự kiện, kỹ năng, khái niệm - hoàn toàn miễn phí và phổ biến. Nhưng các lớp học cao hơn của giáo dục - công nhận, cộng đồng, kết nối, và trải nghiệm - sẽ vẫn có giá.
+
+Hãy nghĩ về nó như một kim tự tháp:
+
+Ở tầng đáy - tầng rộng nhất - là kiến thức thuần túy. Video, bài viết, bài quiz. Tất cả miễn phí. Bất kỳ ai có kết nối internet đều có thể truy cập.
+
+Tầng thứ hai là công nhận. Chứng chỉ, phù hiệu, văn bằng. Những thứ này có chi phí, nhưng không nhiều - từ vài chục đến vài nghìn đô la.
+
+Tầng thứ ba là cộng đồng. Quyền truy cập vào các mạng lưới độc quyền của cựu học viên, các sự kiện trực tiếp, cố vấn từ các chuyên gia. Chi phí này cao hơn.
+
+Và ở đỉnh kim tự tháp là trải nghiệm. Cơ hội học với các giáo sư hàng đầu trong môi trường truyền thống, tiến hành nghiên cứu gốc, tham gia vào các dự án thực tế. Đây là thứ đắt nhất.
+
+Điều kỳ diệu là người học có thể chọn mức độ họ muốn leo lên kim tự tháp dựa trên nhu cầu và phương tiện của họ. Một sinh viên nghèo ở Bangladesh có thể học kiến thức ở tầng đáy miễn phí và sử dụng nó để cải thiện cuộc sống của họ. Một chuyên gia ở New York có thể trả tiền cho chứng chỉ ở tầng thứ hai để thăng tiến sự nghiệp. Một doanh nhân giàu có có thể trả cho chương trình điều hành ở đỉnh để xây dựng mạng lưới và nhận ra những hiểu biết mới.
+
+Mỗi người được phục vụ. Không ai bị loại trừ. Và doanh thu từ các tầng trên tài trợ cho việc cung cấp miễn phí ở các tầng dưới.
+
+BÀI HỌC ĐẠO ĐỨC: TẠI SAO MỘT SỐ ĐIỀU NÊN MIỄN PHÍ
+
+Nhưng có một điều sâu sắc hơn đang diễn ra ở đây, vượt ra ngoài kinh tế học. Sự trỗi dậy của giáo dục trực tuyến miễn phí đặt ra một câu hỏi đạo đức căn bản: Có một số thứ nên miễn phí không, không phải vì chúng không có giá trị, mà chính vì chúng quá có giá trị để để giá cả trở thành rào cản?
+
+Hầu hết các xã hội đều quyết định rằng giáo dục tiểu học nên được cung cấp miễn phí (hoặc gần như miễn phí) cho tất cả trẻ em. Chúng ta tài trợ nó thông qua thuế vì chúng ta tin rằng một xã hội có giáo dục là điều tốt cho tất cả mọi người, không chỉ những ai có thể chi trả.
+
+Nhưng ở một số quốc gia, giáo dục đại học miễn phí hoặc gần như miễn phí (Đức, Na Uy, Phần Lan). Ở những nơi khác (Hoa Kỳ, Anh), nó rất đắt. Và trong thế giới đang phát triển, hàng triệu người đơn giản không có quyền truy cập vào giáo dục chất lượng ở bất kỳ cấp độ nào.
+
+Giáo dục trực tuyến miễn phí đang thách thức những giả định này. Nó cho thấy rằng có thể cung cấp giáo dục chất lượng cao cho hàng tỷ người với chi phí hợp lý. Nó đang buộc chúng ta phải suy nghĩ lại về vai trò của giá cả trong giáo dục.
+
+Và đây là nơi chúng ta quay trở lại với chủ đề trung tâm của quyển sách này: Miễn phí không phải là về không có gì. Nó về sự thừa thãi. Khi một cái gì đó trở nên đủ rẻ, nó vượt qua một ngưỡng tâm lý và trở nên miễn phí trong tâm trí người tiêu dùng. Và một khi điều đó xảy ra, mọi thứ thay đổi.
+
+Với giáo dục trực tuyến, chúng ta đã vượt qua ngưỡng đó. Chi phí để phân phối kiến thức trực tuyến đã giảm đến mức mà việc tính phí cho nó trong nhiều trường hợp là phản tác dụng. Bạn có thể kiếm được nhiều tiền hơn - và tạo ra nhiều giá trị xã hội hơn - bằng cách cho nó đi miễn phí và tìm các cách khác để kiếm tiền.
+
+THÁCH THỨC VÀ PHẢN BÁC
+
+Tất nhiên, không phải tất cả mọi thứ đều hoàn hảo trong thế giới giáo dục trực tuyến miễn phí. Có những thách thức và phản bác hợp pháp.
+
+Thứ nhất là tỷ lệ hoàn thành. Hầu hết các khóa học trực tuyến miễn phí có tỷ lệ hoàn thành khủng khiếp - thường dưới 10%. Người ta ghi danh với những ý định tốt nhất nhưng rồi cuộc sống xảy ra, động lực giảm sút, và họ từ bỏ. Các nhà phê bình cho rằng điều này cho thấy giáo dục trực tuyến không hiệu quả.
+
+Nhưng những người ủng hộ phản bác rằng đây là cách sai để đo lường thành công. Trong giáo dục truyền thống, chúng ta tính tỷ lệ hoàn thành vì học sinh đã trả tiền và cam kết với một lịch trình. Nhưng với giáo dục trực tuyến miễn phí, người học có tự do hoàn toàn. Họ có thể lấy những gì họ cần và rời đi. Nếu ai đó ghi danh vào khóa học lập trình và chỉ xem đủ để giải quyết vấn đề công việc của họ, đó có phải là thất bại không? Hoặc đó là chính xác loại học tập đúng lúc mà nền kinh tế hiện đại đòi hỏi?
+
+Thử thách thứ hai là chất lượng. Không phải tất cả giáo dục trực tuyến miễn phí đều tốt. Bất kỳ ai cũng có thể đăng video bài giảng trên YouTube. Làm thế nào người học phân biệt được giữa nội dung chất lượng cao và chất lượng thấp?
+
+Đây là nơi uy tín của các nền tảng như Khan Academy, Coursera, và edX trở nên quan trọng. Họ quản lý nội dung, hợp tác với các trường đại học hàng đầu, và duy trì các tiêu chuẩn. Nhưng vẫn có rất nhiều "rác" giáo dục trực tuyến. Người học cần phải thông minh và phê phán.
+
+Thách thức thứ ba là khoảng cách kỹ thuật số. Giáo dục trực tuyến miễn phí tuyệt vời... nếu bạn có internet. Nhưng hàng tỷ người vẫn không có kết nối đáng tin cậy. Đối với họ, "miễn phí" vẫn là xa vời.
+
+Tuy nhiên, thách thức này đang dần biến mất. Chi phí internet di động đang giảm nhanh chóng. Các sáng kiến như Starlink của Elon Musk hứa hẹn mang internet băng thông rộng đến những khu vực xa xôi nhất. Trong một thập kỷ, gần như mọi người trên hành tinh sẽ có quyền truy cập internet.
+
+Và cuối cùng, có câu hỏi về bằng cấp. Một chứng chỉ từ Coursera có giá trị bằng bằng cử nhân từ đại học truyền thống không? Ngày nay, câu trả lời thường là không. Các nhà tuyển dụng vẫn ưa thích bằng cấp truyền thống.
+
+Nhưng điều này đang thay đổi. Các công ty công nghệ như Google, Apple, và IBM đã loại bỏ yêu cầu bằng đại học cho nhiều vị trí. Họ quan tâm đến kỹ năng nhiều hơn bằng cấp. Và khi thế hệ lớn lên với giáo dục trực tuyến vào lực lượng lao động, nhận thức sẽ thay đổi.
+
+KẾT LUẬN: CUỘC CÁCH MẠNG ĐANG ĐẾN
+
+Chúng ta đang sống trong một thời điểm đặc biệt trong lịch sử giáo dục. Lần đầu tiên, bất kỳ ai, ở bất cứ đâu, có kết nối internet, có thể học bất cứ điều gì từ bất kỳ ai. Các rào cản về địa lý, kinh tế, và xã hội đang sụp đổ.
+
+Đứa trẻ ở một ngôi làng nghèo ở Kenya có thể học vi tích phân từ cùng các giáo sư dạy ở MIT. Một bà mẹ đơn thân ở Mỹ nông thôn có thể học lập trình và bắt đầu sự nghiệp mới trong khi con cô đi ngủ. Một người cao tuổi muốn học về lịch sử nghệ thuật chỉ vì niềm vui có thể làm như vậy mà không phải lo lắng về chi phí.
+
+Đây không phải là sự cường điệu. Đó là hiện thực diễn ra ngay bây giờ, được thực hiện bởi hàng chục triệu người trên toàn thế giới. Và nó chỉ mới bắt đầu.
+
+Như chúng ta đã thấy trong suốt quyển sách này, Miễn phí là một lực lượng mạnh mẽ. Nó phá vỡ các mô hình kinh doanh cũ và tạo ra những mô hình mới. Nó dân chủ hóa quyền truy cập vào những thứ từng là đặc quyền của người giàu. Và nó buộc chúng ta phải suy nghĩ lại về các giả định cơ bản về giá trị, giá cả, và thương mại.
+
+Trong giáo dục, Miễn phí không chỉ là một chiến lược kinh doanh. Nó là một tuyên ngôn đạo đức. Đó là niềm tin rằng kiến thức không nên bị giữ lại khỏi những ai không thể chi trả cho nó. Rằng giáo dục là quyền của con người, không phải là đặc quyền. Rằng một xã hội có giáo dục là một xã hội tốt hơn cho tất cả mọi người.
+
+Các công ty giáo dục trực tuyến đã tìm ra cách làm cho điều này vừa có thể về mặt kỹ thuật (nhờ vào công nghệ kỹ thuật số) vừa bền vững về mặt kinh tế (thông qua sự kết hợp của từ thiện, freemium, doanh nghiệp B2B, và các mô hình khác). Họ đã chứng minh rằng bạn có thể làm tốt trong khi làm điều tốt.
+
+Nhưng câu chuyện chưa kết thúc. Chúng ta vẫn đang ở những ngày đầu của cuộc cách mạng giáo dục này. AI sẽ làm cho giáo dục cá nhân hóa hơn và hiệu quả hơn. Thực tế ảo có thể tạo ra trải nghiệm học tập nhập vai mà chúng ta không thể tưởng tượng được. Blockchain có thể tạo ra các hệ thống bằng cấp mới được công nhận toàn cầu.
+
+Và trong tất cả những điều này, nguyên tắc cơ bản sẽ vẫn giữ nguyên: khi chi phí biên của một thứ gì đó tiếp cận bằng không, giá cả tối ưu cũng tiếp cận bằng không. Giáo dục đã trở thành điều đó. Và thế giới đang tốt đẹp hơn vì nó.
+
+Vậy lần tới khi bạn xem một video Khan Academy miễn phí, theo một khóa học Coursera, hoặc khám phá một chủ đề mới trên edX, hãy dành một chút thời gian để suy ngẫm về điều kỳ diệu của nó. Bạn đang tham gia vào một trong những thí nghiệm xã hội tham vọng nhất trong lịch sử loài người: dân chủ hóa tri thức ở quy mô toàn cầu.
+
+Và không giống như nhiều thí nghiệm khác, thí nghiệm này đang hoạt động.
+
+KẾT LUẬN CHƯƠNG
+
+Như chúng ta đã thấy, các nền tảng giáo dục trực tuyến miễn phí không phải là phép màu - chúng là sản phẩm của sự hội tụ giữa công nghệ kỹ thuật số (làm cho chi phí phân phối gần bằng không), các mô hình kinh doanh sáng tạo (từ từ thiện đến freemium đến B2B), và một cam kết đạo đức với việc dân chủ hóa giáo dục.
+
+Các bài học chúng ta có thể rút ra từ lĩnh vực này áp dụng rộng hơn nhiều so với chỉ giáo dục:
+
+1. Khi chi phí biên tiếp cận bằng không, Miễn phí trở thành không thể tránh khỏi và mong muốn.
+
+2. Miễn phí không có nghĩa là không có doanh thu - nó chỉ có nghĩa là tìm các cách gián tiếp hơn để kiếm tiền.
+
+3. Quy mô là mọi thứ trong kinh tế kỹ thuật số. Nền tảng lớn nhất sẽ giành chiến thắng vì chúng có thể chia sẻ chi phí cố định trên nhiều người dùng nhất.
+
+4. Dữ liệu là một sản phẩm phụ có giá trị của Miễn phí, ngay cả khi nó không được bán mà chỉ được sử dụng để cải thiện dịch vụ.
+
+5. Một số thứ có thể nên miễn phí không phải vì chúng vô giá trị mà vì chúng quá có giá trị để để giá cả trở thành rào cản.
+
+Trong thế giới nơi kiến thức là nguồn lực quý giá nhất, việc làm cho nó miễn phí và phổ cập không chỉ là điều tốt để làm - đó là điều thông minh để làm. Nó tạo ra một xã hội có trình độ cao hơn, lực lượng lao động năng động hơn, và một nền kinh tế sáng tạo hơn. Tất cả mọi người đều hưởng lợi.
+
+Đó là lời hứa - và ngày càng trở thành hiện thực - của giáo dục trực tuyến miễn phí. Và đó chỉ là một ví dụ về cách Miễn phí đang định hình lại thế giới chúng ta sống.
+
+Như Sal Khan đã nói: "Với một kết nối internet, bạn có thể học bất cứ điều gì, ở bất cứ đâu, vào bất kỳ lúc nào. Đó là quyền lực. Và nó nên thuộc về tất cả mọi người."
+
+Cuộc cách mạng Miễn phí trong giáo dục đang làm cho tầm nhìn đó trở thành hiện thực. Và nó mới chỉ bắt đầu.
+
+--- HẾT CHƯƠNG ---

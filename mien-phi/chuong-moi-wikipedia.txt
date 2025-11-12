@@ -1,0 +1,902 @@
+CHƯƠNG MỚI: WIKIPEDIA - NỀN TẢNG TRI THỨC MIỄN PHÍ VĨ ĐẠI NHẤT
+
+Một Thí Nghiệm Táo Bạo Về "Miễn Phí"
+
+Hãy tưởng tượng bạn đang ngồi trong một cuộc họp ban giám đốc vào năm 2000. Một người đàn ông tên Jimmy Wales đứng dậy và trình bày ý tưởng của mình: "Chúng ta sẽ tạo ra một bộ bách khoa toàn thư trực tuyến lớn nhất thế giới. Nó sẽ hoàn toàn miễn phí. Bất kỳ ai cũng có thể đọc nó. Bất kỳ ai cũng có thể chỉnh sửa nó. Chúng ta sẽ không bán quảng cáo. Chúng ta sẽ không thu phí đăng ký. Chúng ta sẽ chỉ nhờ vào sự đóng góp tự nguyện của mọi người."
+
+Nếu bạn là một nhà đầu tư truyền thống, bạn có thể sẽ nghĩ rằng ý tưởng này điên rồ. Làm thế nào một tổ chức có thể tồn tại khi tất cả mọi thứ đều miễn phí? Làm thế nào bạn có thể tin tưởng nội dung được viết bởi những người vô danh trên internet? Làm thế nào bạn có thể cạnh tranh với những đối thủ lớn như Encyclopedia Britannica, một thương hiệu đã tồn tại hơn 200 năm?
+
+Nhưng hơn hai thập kỷ sau, Wikipedia đã trở thành một trong những trang web được truy cập nhiều nhất trên thế giới, với hơn 15 tỷ lượt xem mỗi tháng. Nó có hơn 60 triệu bài viết bằng 300 ngôn ngữ khác nhau. Encyclopedia Britannica? Họ đã ngừng xuất bản phiên bản in vào năm 2012 và không thể cạnh tranh với Wikipedia. Đây không chỉ là câu chuyện về sự thành công của một website miễn phí - đây là câu chuyện về cách mà "miễn phí" có thể thay đổi cả một ngành công nghiệp, và làm thế nào một mô hình kinh tế phi truyền thống có thể không chỉ tồn tại mà còn thịnh vượng.
+
+Wikipedia là minh chứng sống động cho nhiều nguyên lý mà chúng ta đã thảo luận trong cuốn sách này: tâm lý của "miễn phí", sức mạnh của cộng đồng, kinh tế học của thông tin kỹ thuật số, và khả năng của các mô hình kinh doanh phi truyền thống. Nhưng Wikipedia còn làm được nhiều hơn thế - nó đã chứng minh rằng "miễn phí" có thể là nền tảng cho một trong những kho tri thức vĩ đại nhất mà nhân loại từng tạo ra.
+
+Sự Ra Đời Của Một Cuộc Cách Mạng
+
+Câu chuyện của Wikipedia bắt đầu vào ngày 15 tháng 1 năm 2001, khi Jimmy Wales và Larry Sanger ra mắt dự án này như một phần bổ sung cho Nupedia - một dự án bách khoa toàn thư trực tuyến được viết bởi các chuyên gia. Nupedia có quy trình biên tập nghiêm ngặt, với bảy bước kiểm duyệt. Kết quả? Sau một năm, họ chỉ hoàn thành được 21 bài viết. Quá chậm. Quá tốn kém. Không bền vững.
+
+Wikipedia ra đời như một thí nghiệm táo bạo: Điều gì sẽ xảy ra nếu chúng ta để mọi người tự do viết và chỉnh sửa? Điều gì sẽ xảy ra nếu chúng ta tin tưởng vào "trí tuệ của đám đông"? Ban đầu, đây chỉ là một công cụ phụ trợ để tạo nội dung nhanh hơn cho Nupedia. Nhưng điều kỳ diệu đã xảy ra.
+
+Trong vòng một năm, Wikipedia đã có 20.000 bài viết bằng 18 ngôn ngữ. Năm 2003, số lượng bài viết đã vượt qua 100.000. Năm 2005, Wikipedia có một triệu bài viết. Tốc độ tăng trưởng này là không tưởng - và hoàn toàn do sức mạnh của "miễn phí" kết hợp với sự đóng góp tự nguyện của cộng đồng.
+
+Đến năm 2003, Wales nhận ra rằng Nupedia đã hoàn toàn bị Wikipedia vượt mặt. Ông quyết định đóng cửa Nupedia và tập trung hoàn toàn vào Wikipedia. Đây là một quyết định quan trọng: chọn mô hình "miễn phí, mở, cộng đồng" thay vì mô hình "chuyên gia, kiểm duyệt, chậm rãi". Quyết định này đã định hình tương lai của tri thức trực tuyến.
+
+Nhưng một câu hỏi lớn vẫn còn đó: Làm thế nào để duy trì một dự án như vậy mà không có doanh thu? Câu trả lời nằm ở việc thành lập Wikimedia Foundation vào tháng 6 năm 2003.
+
+Wikimedia Foundation: Tổ Chức Phi Lợi Nhuận Đằng Sau Wikipedia
+
+Để hiểu cách Wikipedia duy trì mô hình miễn phí của mình, chúng ta phải hiểu Wikimedia Foundation - tổ chức phi lợi nhuận điều hành Wikipedia và các dự án chị em của nó (như Wiktionary, Wikimedia Commons, Wikibooks, và nhiều dự án khác).
+
+Wikimedia Foundation được thành lập như một tổ chức từ thiện 501(c)(3) theo luật Hoa Kỳ. Điều này có nghĩa là nó không phải trả thuế thu nhập và các khoản đóng góp cho nó có thể được khấu trừ thuế. Nhưng quan trọng hơn, điều này có nghĩa là Wikimedia Foundation không có chủ sở hữu, không có cổ đông, và không có động lực lợi nhuận. Sứ mệnh của nó không phải là kiếm tiền - mà là "trao quyền và thu hút mọi người trên toàn thế giới để thu thập và phát triển nội dung giáo dục theo giấy phép tự do hoặc trong phạm vi công cộng, và phổ biến nó hiệu quả và toàn cầu."
+
+Đây là một điểm khác biệt cơ bản với hầu hết các mô hình "miễn phí" mà chúng ta đã thảo luận trong cuốn sách này. Google cung cấp tìm kiếm miễn phí nhưng kiếm tiền từ quảng cáo. Facebook miễn phí nhưng bán dữ liệu người dùng cho nhà quảng cáo. Spotify có phiên bản miễn phí nhưng hy vọng bạn sẽ nâng cấp lên phiên bản trả phí. Wikipedia? Nó không có bất kỳ mô hình kiếm tiền nào trong số đó.
+
+Vậy Wikipedia lấy tiền từ đâu?
+
+Mô Hình Tài Chính: Sức Mạnh Của Những Khoản Đóng Góp Nhỏ
+
+Câu trả lời ngắn gọn: từ các khoản quyên góp. Nhưng câu trả lời đầy đủ phức tạp và thú vị hơn nhiều.
+
+Mỗi năm, thường vào tháng 12, người dùng Wikipedia trên khắp thế giới sẽ nhìn thấy một biểu ngữ nhỏ ở đầu trang: "Wikipedia cần sự giúp đỡ của bạn." Hoặc "Nếu mọi người đọc Wikipedia quyên góp $3, chúng tôi sẽ có đủ tiền trong một giờ." Đây là chiến dịch gây quỹ hàng năm của Wikimedia Foundation - và nó hiệu quả đến kinh ngạc.
+
+Vào năm 2021-2022, Wikimedia Foundation đã huy động được hơn 165 triệu đô la từ hơn 6 triệu lần đóng góp. Năm 2022-2023, con số này tăng lên 180 triệu đô la. Hãy để những con số này thấm vào: một tổ chức không bán bất cứ thứ gì, không có quảng cáo, không có mô hình đăng ký, đã huy động được gần 200 triệu đô la mỗi năm - chỉ bằng cách yêu cầu.
+
+Điều làm cho mô hình này thú vị hơn nữa là quy mô của các khoản đóng góp. Khoản đóng góp trung bình chỉ khoảng $15. Hầu hết mọi người đóng góp từ $3 đến $25. Đây không phải là những nhà hảo tâm giàu có viết séc triệu đô la - đây là hàng triệu người bình thường, mỗi người đóng góp một khoản tiền nhỏ vì họ tin vào sứ mệnh của Wikipedia.
+
+Đây là một ví dụ hoàn hảo về "kinh tế học của sự dồi dào" mà chúng ta đã thảo luận trước đó. Trong thế giới vật lý, nếu bạn muốn xây dựng một bộ bách khoa toàn thư, bạn cần in sách, vận chuyển chúng, bán chúng qua các cửa hàng. Mỗi bản sao có chi phí cận biên đáng kể. Nhưng trong thế giới kỹ thuật số, một khi bài viết Wikipedia được viết, chi phí để phục vụ nó cho một người hoặc một tỷ người gần như không khác biệt. Chi phí cận biên tiến gần đến không.
+
+Điều này tạo ra một động lực học thú vị: Wikipedia không cần mọi người đóng góp. Nó chỉ cần một tỷ lệ nhỏ người dùng đóng góp. Với 15 tỷ lượt xem trang mỗi tháng (180 tỷ lượt xem mỗi năm), nếu chỉ 3-4% trong số đó quyên góp trung bình $15, đó là đủ để điều hành toàn bộ hoạt động.
+
+Nhưng tiền đó được sử dụng để làm gì? Đây là nơi nhiều người ngạc nhiên. Wikipedia không chỉ là một website đơn giản - đằng sau nó là một cơ sở hạ tầng công nghệ phức tạp và một tổ chức toàn cầu.
+
+Chi Phí Của "Miễn Phí": Vận Hành Wikipedia
+
+Vào năm 2022-2023, Wikimedia Foundation đã chi khoảng 170 triệu đô la. Hãy phân tích xem tiền đó đi đâu:
+
+1. Công nghệ và Cơ sở hạ tầng (khoảng 30% ngân sách): Wikipedia phục vụ 15 tỷ lượt xem trang mỗi tháng. Điều này đòi hỏi hàng trăm máy chủ trên khắp thế giới, băng thông khổng lồ, và cơ sở hạ tầng công nghệ phức tạp. Wikipedia phải luôn hoạt động 24/7, nhanh chóng, và đáng tin cậy. Chi phí máy chủ, lưu trữ, băng thông, và bảo trì công nghệ là đáng kể.
+
+2. Nhân sự (khoảng 40% ngân sách): Mặc dù nội dung Wikipedia được tạo ra bởi tình nguyện viên, Wikimedia Foundation có hơn 700 nhân viên. Họ làm gì? Một số làm việc về công nghệ - phát triển phần mềm MediaWiki (nền tảng chạy Wikipedia), duy trì cơ sở hạ tầng, cải thiện công cụ cho người biên tập. Một số làm việc về pháp lý - bảo vệ Wikipedia khỏi các vụ kiện, đàm phán các vấn đề bản quyền, bảo vệ quyền riêng tư của người dùng. Một số làm việc về cộng đồng - hỗ trợ tình nguyện viên, tổ chức sự kiện, phát triển chương trình giáo dục.
+
+3. Chương trình Cộng đồng và Tài trợ (khoảng 15% ngân sách): Wikimedia Foundation cung cấp tài trợ cho các chương trình cộng đồng trên toàn thế giới - từ việc tổ chức hackathon cho các nhà phát triển, đến hỗ trợ các nhóm biên tập viên địa phương, đến các chương trình giáo dục để dạy sinh viên cách đóng góp cho Wikipedia.
+
+4. Các Chi phí Khác (15%): Bao gồm quản lý, pháp lý, gây quỹ, và dự phòng.
+
+Khi bạn nhìn vào những con số này, bạn nhận ra rằng "miễn phí" không có nghĩa là "không có chi phí". Wikipedia miễn phí cho người dùng, nhưng nó có chi phí vận hành thực tế và đáng kể. Sự khác biệt là cách thức tài trợ: thay vì kiếm tiền từ người dùng thông qua quảng cáo hoặc phí đăng ký, Wikipedia được tài trợ bởi chính những người tin vào giá trị của nó.
+
+Tài Sản Vô Giá: 260,000 Tình Nguyện Viên
+
+Nhưng tiền không phải là tài sản lớn nhất của Wikipedia. Tài sản thực sự là con người - hơn 260,000 biên tập viên tích cực hàng tháng, làm việc hoàn toàn miễn phí.
+
+Hãy suy nghĩ về điều này: Hơn một phần tư triệu người, trên khắp thế giới, mỗi tháng dành thời gian của họ để viết, chỉnh sửa, cải thiện các bài viết Wikipedia - và họ không nhận được một xu nào. Tại sao? Tại sao ai đó lại dành thời gian quý báu của mình để làm việc miễn phí?
+
+Câu trả lời nằm ở tâm lý học của động lực nội tại - một chủ đề mà chúng ta đã khám phá trước đó trong cuốn sách này. Khi tiền không liên quan, động lực khác xuất hiện: niềm tự hào, sự thành thạo, mục đích, cộng đồng. Những biên tập viên Wikipedia không được trả lương, nhưng họ nhận được một thứ gì đó có giá trị hơn: sự thỏa mãn khi biết rằng họ đang đóng góp vào tri thức nhân loại.
+
+Nghiên cứu về động lực của biên tập viên Wikipedia đã tiết lộ một số lý do chính:
+
+- Chủ nghĩa vị tha: Nhiều người muốn chia sẻ kiến thức của họ với thế giới. Họ là chuyên gia về một chủ đề nào đó - có thể là lịch sử địa phương, động vật có vú biển, nhạc jazz thời kỳ bebop - và họ muốn đảm bảo rằng thông tin chính xác về chủ đề đó có sẵn cho mọi người.
+
+- Học hỏi và Phát triển: Một số người biên tập Wikipedia để học. Quá trình nghiên cứu và viết về một chủ đề giúp họ hiểu sâu hơn về nó. Họ học bằng cách dạy.
+
+- Cộng đồng: Wikipedia có một cộng đồng sôi động của những người có chung đam mê về tri thức. Nhiều biên tập viên thích cảm giác là một phần của một thứ gì đó lớn hơn bản thân họ.
+
+- Danh tiếng: Trong cộng đồng Wikipedia, biên tập viên tốt được tôn trọng. Có một hệ thống cấp bậc phi chính thức - từ người dùng mới đến biên tập viên có kinh nghiệm đến quản trị viên. Sự công nhận này, mặc dù không có giá trị tiền tệ, có ý nghĩa đối với nhiều người.
+
+- Quyền lực và Kiểm soát: Wikipedia cho phép mọi người có tiếng nói trong việc xác định tri thức được trình bày như thế nào. Điều này là quyền lực - quyền lực dân chủ hóa tri thức.
+
+Nhưng làm thế nào Wikipedia đảm bảo chất lượng khi ai cũng có thể chỉnh sửa? Đây là một trong những câu hỏi phổ biến nhất về Wikipedia - và câu trả lời là một hệ thống tự quản lý phức tạp và hiệu quả đáng kinh ngạc.
+
+Tự Quản Lý: Làm Thế Nào Wikipedia Duy Trì Chất Lượng
+
+Khi bạn nghe lần đầu tiên rằng "ai cũng có thể chỉnh sửa Wikipedia", phản ứng đầu tiên thường là hoài nghi. Điều gì ngăn cản mọi người phá hoại? Điều gì ngăn cản thông tin sai lệch? Điều gì ngăn cản spam và quảng cáo?
+
+Câu trả lời là: cộng đồng. Wikipedia có một hệ thống tự quản lý phức tạp dựa trên niềm tin, nhưng cũng có kiểm tra và cân bằng.
+
+Giám sát Thường xuyên: Mỗi thay đổi trên Wikipedia được ghi lại trong lịch sử phiên bản. Các biên tập viên có kinh nghiệm thường xuyên giám sát các thay đổi gần đây, đặc biệt là trên các trang quan trọng. Nếu ai đó phá hoại một bài viết - chẳng hạn như thay đổi ngày sinh của một người nổi tiếng hoặc thêm thông tin sai - thường chỉ trong vài phút, một biên tập viên khác sẽ nhận ra và hoàn nguyên thay đổi đó.
+
+Công cụ Tự động: Wikipedia sử dụng các bot - chương trình tự động - để phát hiện và hoàn nguyên phá hoại rõ ràng. Ví dụ, nếu ai đó thêm từ tục tĩu vào một bài viết, hoặc xóa một phần lớn nội dung, bot có thể tự động đánh dấu hoặc hoàn nguyên thay đổi đó.
+
+Quy tắc và Hướng dẫn: Wikipedia có một bộ chính sách và hướng dẫn rộng lớn được phát triển bởi cộng đồng theo thời gian. Các nguyên tắc cốt lõi bao gồm:
+- Quan điểm trung lập (NPOV - Neutral Point of View): Bài viết phải trình bày tất cả các quan điểm quan trọng một cách công bằng
+- Có thể xác minh (Verifiability): Thông tin phải được trích dẫn từ các nguồn đáng tin cậy
+- Không nghiên cứu gốc (No Original Research): Wikipedia không phải là nơi để xuất bản nghiên cứu mới, chỉ tổng hợp kiến thức hiện có
+- Giả định thiện chí (Assume Good Faith): Tin rằng biên tập viên đang cố gắng giúp đỡ, không phá hoại
+
+Cấp bậc và Quyền hạn: Không phải tất cả biên tập viên đều có cùng quyền hạn. Người dùng mới có thể chỉnh sửa hầu hết các trang, nhưng một số trang nhạy cảm (như trang của nhân vật chính trị đang hoạt động) có thể được "bảo vệ bán phần" - chỉ cho phép biên tập viên đã đăng ký và có lịch sử chỉnh sửa tốt. "Quản trị viên" (administrators) là những biên tập viên được cộng đồng tin tưởng, có quyền hạn bổ sung như khóa trang, chặn người dùng phá hoại, và xóa nội dung vi phạm bản quyền.
+
+Thảo luận và Đồng thuận: Mỗi bài viết Wikipedia có một "trang thảo luận" (talk page) đằng sau nó, nơi các biên tập viên có thể tranh luận về nội dung, nguồn trích dẫn, và cách trình bày. Khi có tranh chấp, cộng đồng làm việc để đạt được sự đồng thuận. Nếu không thể đạt được đồng thuận, có các quy trình hòa giải và trọng tài.
+
+Hệ thống này không hoàn hảo - Wikipedia đã có những sai sót và tranh cãi nổi tiếng. Nhưng các nghiên cứu đã cho thấy rằng về độ chính xác, Wikipedia có thể sánh ngang với các bách khoa toàn thư truyền thống. Một nghiên cứu nổi tiếng của tạp chí Nature vào năm 2005 so sánh các bài viết khoa học trên Wikipedia với Encyclopedia Britannica và phát hiện rằng số lượng lỗi tương đương nhau.
+
+Điều kỳ diệu ở đây là "trí tuệ của đám đông" thực sự hoạt động. Với đủ người nhìn vào một vấn đề, với đủ quan điểm khác nhau, với đủ kiểm tra và cân bằng, chất lượng xuất hiện - không phải từ kiểm soát từ trên xuống, mà từ sự tự tổ chức từ dưới lên.
+
+Không Có Quảng Cáo: Một Cam Kết Triệt Để
+
+Một trong những quyết định quan trọng nhất trong lịch sử Wikipedia là cam kết không bao giờ có quảng cáo. Đây là một quyết định đáng chú ý vì nó đi ngược lại với hầu hết các website "miễn phí" khác.
+
+Hãy nghĩ về điều này: Wikipedia là một trong 10 website được truy cập nhiều nhất trên thế giới. Nó có 15 tỷ lượt xem trang mỗi tháng. Nếu Wikipedia quyết định đặt quảng cáo, họ có thể dễ dàng kiếm được hàng tỷ đô la mỗi năm - nhiều hơn gấp mười lần ngân sách hiện tại của họ. Vậy tại sao họ không làm vậy?
+
+Câu trả lời nằm ở sứ mệnh và văn hóa. Jimmy Wales và cộng đồng Wikipedia tin rằng quảng cáo sẽ làm suy yếu tính trung lập và độc lập của Wikipedia. Nếu Wikipedia phụ thuộc vào doanh thu quảng cáo, họ có thể phải đối mặt với áp lực - thậm chí là áp lực tinh vi và vô thức - để làm hài lòng các nhà quảng cáo. Một bài viết về tác hại của thuốc lá có thể gây khó chịu cho các công ty thuốc lá. Một bài viết chỉ trích một công ty công nghệ có thể gây vấn đề nếu công ty đó là nhà quảng cáo lớn.
+
+Hơn nữa, quảng cáo sẽ thay đổi trải nghiệm người dùng. Wikipedia được biết đến với giao diện sạch sẽ, tập trung vào nội dung. Không có banner nhấp nháy, không có video tự động phát, không có quảng cáo pop-up. Đây là một phần của cam kết đặt tri thức lên hàng đầu, không phải lợi nhuận.
+
+Quyết định này cũng có ý nghĩa triết học sâu sắc hơn. Bằng cách không có quảng cáo, Wikipedia khẳng định rằng tri thức không phải là một hàng hóa để được mua bán. Nó là một quyền con người cơ bản - một thứ gì đó mà mọi người nên có quyền truy cập, bất kể khả năng chi trả hoặc sự sẵn lòng chịu đựng quảng cáo của họ.
+
+Tất nhiên, quyết định này có cái giá của nó. Nó có nghĩa là Wikipedia phải phụ thuộc hoàn toàn vào quyên góp - một nguồn thu nhập ít ổn định hơn doanh thu quảng cáo. Nó có nghĩa là Wikipedia không thể mở rộng nhanh chóng như nó có thể với nguồn tài trợ lớn hơn. Nhưng đó là một sự đánh đổi mà cộng đồng Wikipedia sẵn sàng thực hiện - sự độc lập và tính toàn vẹn đổi lấy sự tăng trưởng chậm hơn và sự bất ổn tài chính.
+
+Đa Dạng Hóa Thu Nhập: Wikimedia Enterprise
+
+Mặc dù cam kết không có quảng cáo và không thu phí người dùng cá nhân, Wikimedia Foundation đã bắt đầu khám phá các nguồn thu nhập mới trong những năm gần đây - một cách cẩn thận và có nguyên tắc.
+
+Vào năm 2021, Wikimedia Foundation ra mắt Wikimedia Enterprise - một dịch vụ trả phí dành cho các công ty lớn muốn sử dụng dữ liệu Wikipedia với khối lượng lớn và độ tin cậy cao. Ví dụ, Google sử dụng thông tin Wikipedia trong Knowledge Panels (các hộp thông tin bên cạnh kết quả tìm kiếm). Amazon Alexa trích dẫn Wikipedia để trả lời câu hỏi. Các công ty công nghệ lớn phụ thuộc vào Wikipedia như một nguồn tri thức đáng tin cậy.
+
+Trước đây, các công ty này chỉ đơn giản là lấy dữ liệu Wikipedia miễn phí - họ có quyền làm vậy vì Wikipedia được xuất bản theo giấy phép Creative Commons. Nhưng Wikimedia Enterprise cung cấp một dịch vụ cao cấp: API tốc độ cao hơn, dữ liệu được cấu trúc tốt hơn, hỗ trợ kỹ thuật, và đảm bảo thời gian hoạt động. Các công ty trả tiền không phải cho nội dung - nội dung vẫn miễn phí - mà cho cơ sở hạ tầng và dịch vụ.
+
+Đây là một bước đi thông minh. Nó cho phép Wikimedia Foundation kiếm tiền từ các công ty lớn đang kiếm lợi từ Wikipedia, mà không ảnh hưởng đến người dùng cá nhân. Google và Amazon có thể đủ khả năng trả tiền cho dịch vụ cao cấp; sinh viên ở Kenya hoặc giáo viên ở Việt Nam thì không. Bằng cách phân biệt giữa người dùng thương mại quy mô lớn và người dùng cá nhân, Wikipedia có thể duy trì cam kết miễn phí của mình cho mọi người trong khi vẫn tạo ra nguồn thu bền vững.
+
+Dự kiến vào năm 2024-2025, Wikimedia Enterprise có thể đóng góp 10-15% ngân sách của Wikimedia Foundation. Đây vẫn là thiểu số so với quyên góp cá nhân, nhưng nó cung cấp một nguồn thu ổn định và có thể dự đoán.
+
+Quỹ Tín Thác: Lập Kế Hoạch Cho Tương Lai
+
+Một chiến lược quan trọng khác cho sự bền vững lâu dài của Wikipedia là Wikimedia Endowment - một quỹ tín thác được thiết lập vào năm 2016.
+
+Mục tiêu ban đầu của quỹ này là huy động 100 triệu đô la để tạo ra một "tấm đệm tài chính" cho Wikipedia. Ý tưởng là: nếu vì một lý do nào đó, quyên góp giảm mạnh (có thể do suy thoái kinh tế, hoặc thay đổi trong thói quen sử dụng internet), quỹ này có thể cung cấp tài chính khẩn cấp để giữ cho Wikipedia hoạt động.
+
+Vào năm 2021, quỹ đã đạt được mục tiêu 100 triệu đô la. Giờ đây, mục tiêu mới là 140 triệu đô la vào năm 2026. Quỹ này được đầu tư một cách bảo thủ, và lợi nhuận đầu tư có thể được sử dụng để hỗ trợ hoạt động của Wikipedia.
+
+Đây là một hình thức "miễn phí" rất khác với những gì chúng ta thấy trong hầu hết các công ty công nghệ. Các công ty như Facebook hay Google có thể sống trong hiện tại, biết rằng doanh thu quảng cáo sẽ tiếp tục đến. Nhưng Wikipedia, với mô hình quyên góp của mình, phải lập kế hoạch cho tương lai không chắc chắn. Quỹ tín thác là một dạng bảo hiểm - đảm bảo rằng ngay cả trong trường hợp xấu nhất, tri thức sẽ vẫn có thể truy cập miễn phí.
+
+Tác Động Toàn Cầu: Tri Thức Cho Mọi Người, Bằng Mọi Ngôn Ngữ
+
+Một trong những khía cạnh đáng chú ý nhất của Wikipedia là phạm vi toàn cầu của nó. Wikipedia không chỉ tồn tại bằng tiếng Anh - nó tồn tại bằng hơn 300 ngôn ngữ.
+
+Wikipedia tiếng Anh là lớn nhất, với hơn 6,7 triệu bài viết. Nhưng Wikipedia tiếng Cebuano (một ngôn ngữ ở Philippines) có hơn 6 triệu bài viết (phần lớn được tạo ra bởi bot). Wikipedia tiếng Đức có gần 3 triệu bài viết. Wikipedia tiếng Pháp có hơn 2,5 triệu. Wikipedia tiếng Việt có hơn 1,2 triệu bài viết.
+
+Điều này có ý nghĩa sâu sắc. Trong lịch sử, tri thức luôn bị giới hạn bởi ngôn ngữ. Nếu bạn chỉ nói tiếng Việt, bạn chỉ có thể truy cập tri thức được viết bằng tiếng Việt. Encyclopedia Britannica không bao giờ được dịch sang tiếng Việt - nó quá đắt, thị trường quá nhỏ. Nhưng Wikipedia tiếng Việt tồn tại vì cộng đồng tình nguyện viên người Việt đã tạo ra nó.
+
+Điều này dân chủ hóa tri thức theo cách chưa từng có. Một đứa trẻ ở vùng nông thôn Việt Nam, với điện thoại thông minh và kết nối internet, có thể truy cập thông tin về lượng tử vật lý, lịch sử thế giới, hoặc sinh học phân tử - tất cả bằng tiếng Việt, tất cả miễn phí. Đây là một điều mà thế hệ trước không thể tưởng tượng được.
+
+Wikimedia Foundation cũng có các chương trình đặc biệt để mở rộng Wikipedia ở các nước đang phát triển. "Wikipedia Zero" (hiện đã kết thúc nhưng từng là một chương trình quan trọng) hợp tác với các nhà mạng di động để cung cấp truy cập miễn phí vào Wikipedia mà không tính phí dữ liệu. Trong các quốc gia nơi dữ liệu di động đắt đỏ, đây là một trở ngại lớn đối với việc truy cập tri thức. Bằng cách loại bỏ trở ngại này, Wikipedia trở nên thực sự miễn phí - không chỉ về tiền bản quyền mà còn về chi phí truy cập.
+
+Thách Thức: Sự Thiên Lệch và Khoảng Trống Nội Dung
+
+Tất nhiên, Wikipedia không hoàn hảo. Một trong những thách thức lớn nhất là sự thiên lệch trong nội dung và cộng đồng người đóng góp.
+
+Nghiên cứu đã cho thấy rằng hơn 80% biên tập viên Wikipedia là nam giới. Kết quả? Wikipedia có nhiều bài viết hơn về các chủ đề được nam giới quan tâm và ít bài viết hơn về các chủ đề liên quan đến phụ nữ. Có nhiều bài viết hơn về các cầu thủ bóng đá nam hơn về các nhà khoa học nữ. Có nhiều bài viết hơn về vũ khí quân sự hơn về văn học nữ quyền.
+
+Tương tự, phần lớn biên tập viên Wikipedia là người phương Tây, được giáo dục tốt, và đến từ các nước phát triển. Điều này tạo ra sự thiên lệch địa lý. Có nhiều bài viết hơn về các thị trấn nhỏ ở Mỹ hơn về các thành phố lớn ở châu Phi. Có nhiều thông tin hơn về nhạc rock phương Tây hơn về nhạc truyền thống châu Á.
+
+Wikimedia Foundation nhận thức được vấn đề này và đã triển khai nhiều sáng kiến ​​để giải quyết nó:
+
+- Art+Feminism: Một chiến dịch toàn cầu tổ chức các sự kiện "edit-a-thon" tập trung vào việc tạo và cải thiện các bài viết về phụ nữ và nghệ thuật.
+
+- Wiki Loves Africa: Một cuộc thi ảnh và bài viết nhằm tăng cường nội dung về châu Phi trên Wikipedia.
+
+- Education Programs: Các chương trình hợp tác với trường đại học để khuyến khích sinh viên đóng góp cho Wikipedia như một phần của khóa học của họ, mở rộng đa dạng của những người đóng góp.
+
+Nhưng đây vẫn là một thách thức lớn. Làm thế nào để đảm bảo rằng "tri thức miễn phí cho mọi người" thực sự đại diện cho "mọi người", không chỉ một nhóm nhỏ?
+
+Thách Thức Thứ Hai: Thông Tin Sai Lệch và Chiến Tranh Thông Tin
+
+Trong thời đại "fake news" và thông tin sai lệch, Wikipedia phải đối mặt với những thách thức ngày càng tăng từ những người cố gắng thao túng nội dung vì mục đích chính trị hoặc thương mại.
+
+Các chính trị gia muốn các bài viết về họ trông tốt hơn. Các công ty muốn xóa thông tin tiêu cực khỏi các bài viết về sản phẩm của họ. Các chính phủ độc quyền muốn kiểm soát câu chuyện về lịch sử và sự kiện hiện tại. Ngay cả các tổ chức tình báo đã bị phát hiện cố gắng chỉnh sửa Wikipedia.
+
+Wikipedia đã chiến đấu chống lại điều này bằng sự kết hợp giữa con người và công nghệ. Các biên tập viên có kinh nghiệm giám sát các bài viết nhạy cảm. Các công cụ phát hiện "conflict of interest editing" (chỉnh sửa có xung đột lợi ích) - ví dụ, khi ai đó từ địa chỉ IP của một công ty chỉnh sửa bài viết về công ty đó. Các chính sách nghiêm ngặt về nguồn trích dẫn đảm bảo rằng tuyên bố phải được hỗ trợ bởi bằng chứng.
+
+Nhưng đây là một cuộc chạy đua vũ trang không ngừng nghỉ. Khi công nghệ AI trở nên tinh vi hơn, khả năng tạo ra thông tin sai lệch đáng tin cậy cũng tăng lên. Wikipedia sẽ cần phải không ngừng đổi mới để duy trì tính toàn vẹn của mình.
+
+Thách Thức Thứ Ba: Sự Suy Giảm Của Biên Tập Viên
+
+Một thách thức ít được chú ý hơn nhưng có thể quan trọng hơn là: số lượng biên tập viên hoạt động trên Wikipedia (ít nhất là Wikipedia tiếng Anh) đã tăng chậm lại và trong một số năm thậm chí giảm.
+
+Vào đầu những năm 2000, số lượng biên tập viên Wikipedia tăng theo cấp số nhân. Nhưng khoảng năm 2007, sự tăng trưởng này bắt đầu chậm lại. Một số nghiên cứu cho rằng có một số lý do:
+
+- Wikipedia đã "trưởng thành": Hầu hết các chủ đề chính đã có bài viết. Người mới khó tìm được điều gì đó để đóng góp.
+
+- Rào cản gia nhập: Khi Wikipedia phát triển, nó cũng phát triển các quy tắc, hướng dẫn, và văn hóa phức tạp. Người mới có thể cảm thấy sợ hãi bởi tất cả điều này.
+
+- "Chủ nghĩa quan liêu": Một số người cảm thấy Wikipedia đã trở nên quá cứng nhắc, với quá nhiều quy tắc và quá nhiều tranh luận về quy trình thay vì nội dung.
+
+- Sự thay đổi trong cách sử dụng internet: Thế hệ mới có thể quen với việc đóng góp nội dung trên TikTok hay Instagram hơn là viết bài viết bách khoa toàn thư dài.
+
+Đây là một thách thức lâu dài. Nếu không có dòng chảy liên tục của biên tập viên mới, Wikipedia có thể trở nên lỗi thời. Wikimedia Foundation đã đầu tư vào việc làm cho giao diện người dùng dễ sử dụng hơn, tạo ra các công cụ chỉnh sửa trực quan hơn, và phát triển các chương trình để chào đón người mới. Nhưng đây vẫn là một vấn đề chưa được giải quyết hoàn toàn.
+
+Bài Học Từ Wikipedia: "Miễn Phí" Có Thể Bền Vững
+
+Vậy, những bài học nào chúng ta có thể rút ra từ câu chuyện của Wikipedia về "miễn phí"?
+
+Bài học 1: "Miễn phí" không có nghĩa là "không có chi phí" - nó có nghĩa là "được tài trợ khác đi"
+
+Wikipedia miễn phí cho người dùng, nhưng nó không phải là miễn phí để vận hành. Nó có chi phí thực tế - máy chủ, băng thông, nhân viên. Sự khác biệt là cách thức tài trợ: thay vì kiếm tiền từ người dùng trực tiếp (thông qua phí đăng ký) hoặc gián tiếp (thông qua quảng cáo), Wikipedia được tài trợ bởi những người tin vào sứ mệnh của nó.
+
+Bài học 2: Cộng đồng là tài sản lớn nhất
+
+Tiền của Wikipedia đến từ quyên góp, nhưng giá trị của nó đến từ cộng đồng. Hơn 260,000 biên tập viên tình nguyện mỗi tháng đóng góp hàng triệu giờ lao động miễn phí. Nếu phải trả lương cho công việc này theo mức lương thị trường, nó sẽ trị giá hàng tỷ đô la. Wikipedia hoạt động vì mọi người muốn đóng góp - vì mục đích, vì cộng đồng, vì niềm tự hào trong công việc của họ.
+
+Bài học 3: Động lực nội tại mạnh hơn động lực bên ngoài
+
+Khi Wikipedia bắt đầu trả tiền cho mọi người để viết bài (như Nupedia đã làm), họ có được 21 bài viết trong một năm. Khi họ để mọi người đóng góp miễn phí vì đam mê, họ có được hàng triệu bài viết. Tiền không phải lúc nào cũng là động lực tốt nhất. Đôi khi, mục đích, thành thạo, và quyền tự chủ là động lực mạnh mẽ hơn.
+
+Bài học 4: Tính minh bạch xây dựng lòng tin
+
+Wikipedia công khai về tài chính của mình. Bạn có thể xem chính xác họ kiếm được bao nhiêu và chi tiêu vào đâu. Mỗi chỉnh sửa được ghi lại trong lịch sử phiên bản. Mỗi quyết định quan trọng được thảo luận công khai. Sự minh bạch này tạo ra lòng tin - và lòng tin là điều khiến mọi người quyên góp và đóng góp.
+
+Bài học 5: Giá trị của sự độc lập
+
+Bằng cách từ chối quảng cáo và duy trì như một tổ chức phi lợi nhuận, Wikipedia bảo vệ sự độc lập của mình. Nó không phải làm hài lòng nhà quảng cáo, cổ đông, hoặc chủ sở hữu. Sứ mệnh duy nhất của nó là cung cấp tri thức miễn phí. Sự độc lập này có giá trị - cả về mặt đạo đức và thực tế.
+
+Bài học 6: Quy mô có thể làm cho "miễn phí" bền vững
+
+Wikipedia có thể sống sót với quyên góp vì nó có quy mô. Với 15 tỷ lượt xem trang mỗi tháng, ngay cả khi chỉ một phần nhỏ quyên góp, đó cũng là đủ. Nếu Wikipedia nhỏ hơn nhiều, mô hình này có thể không hoạt động. Quy mô tạo ra hiệu quả kinh tế của "miễn phí".
+
+Bài học 7: "Miễn phí" cần phải được bảo vệ
+
+Wikipedia phải liên tục chiến đấu để duy trì tính miễn phí của mình - chống lại thông tin sai lệch, chống lại áp lực thương mại, chống lại sự mỏi mệt của biên tập viên. "Miễn phí" không phải là trạng thái tự nhiên - nó cần phải được chủ động duy trì.
+
+So Sánh Với Các Mô Hình "Miễn Phí" Khác
+
+Để hiểu rõ hơn về sự độc đáo của Wikipedia, hãy so sánh nó với các mô hình "miễn phí" khác mà chúng ta đã thảo luận trong cuốn sách này:
+
+Wikipedia vs Google (Quảng cáo hỗ trợ):
+Google cung cấp tìm kiếm miễn phí và kiếm tiền từ quảng cáo. Sản phẩm là miễn phí, nhưng người dùng "trả" bằng sự chú ý của họ và dữ liệu của họ. Wikipedia hoàn toàn ngược lại - không có quảng cáo, không thu thập dữ liệu người dùng để bán. Sự đánh đổi? Google giàu có hơn nhiều và có thể đầu tư hàng tỷ đô la vào R&D. Wikipedia phải cẩn thận với từng đô la.
+
+Wikipedia vs Spotify (Freemium):
+Spotify có phiên bản miễn phí (với quảng cáo) và phiên bản trả phí (không quảng cáo, nhiều tính năng hơn). Hy vọng là người dùng miễn phí cuối cùng sẽ nâng cấp. Wikipedia không có phiên bản "premium". Mọi người đều có cùng trải nghiệm, dù họ quyên góp $0 hay $1000.
+
+Wikipedia vs Open Source Software như Linux (Mô hình cộng đồng):
+Cả hai đều dựa vào đóng góp tình nguyện và có triết lý "mở". Nhưng có một sự khác biệt: nhiều nhà phát triển Linux được các công ty trả lương (Red Hat, IBM, Google) để làm việc trên Linux vì nó có lợi cho kinh doanh của họ. Wikipedia không có động lực kinh doanh trực tiếp như vậy - nó thuần túy là phi lợi nhuận.
+
+Wikipedia vs Khan Academy (Phi lợi nhuận giáo dục):
+Cả hai đều là tổ chức phi lợi nhuận cung cấp giáo dục miễn phí. Cả hai đều dựa vào quyên góp. Nhưng Khan Academy có một người sáng lập nổi tiếng (Sal Khan) với khuôn mặt công khai mạnh mẽ, trong khi Wikipedia là cộng đồng phân tán. Khan Academy tạo nội dung tập trung; Wikipedia tạo nội dung phi tập trung.
+
+Tương Lai Của Wikipedia: Thách Thức Và Cơ Hội
+
+Nhìn về phía trước, Wikipedia đối mặt với cả thách thức và cơ hội trong thập kỷ tới.
+
+Trí tuệ nhân tạo: Đối thủ hay Đồng minh?
+
+Sự phát triển của AI tạo sinh như ChatGPT và các mô hình ngôn ngữ lớn (LLM) đặt ra câu hỏi thú vị về tương lai của Wikipedia. Nếu bạn có thể hỏi ChatGPT bất kỳ câu hỏi nào và nhận được câu trả lời tức thì, liệu bạn còn cần Wikipedia không?
+
+Câu trả lời có thể là "có" - nhưng vai trò có thể thay đổi. AI như ChatGPT được đào tạo trên dữ liệu internet, bao gồm Wikipedia. Wikipedia là một trong những nguồn tri thức có cấu trúc tốt nhất, đáng tin cậy nhất trên internet. Không có Wikipedia, chất lượng của AI sẽ giảm đi.
+
+Hơn nữa, AI có vấn đề "ảo giác" - đôi khi nó tạo ra thông tin nghe có vẻ đúng nhưng thực ra là sai. Wikipedia, với hệ thống trích dẫn và xác minh nguồn của mình, cung cấp một lớp đáng tin cậy mà AI hiện tại không thể.
+
+Tuy nhiên, AI cũng có thể giúp Wikipedia. Các công cụ AI có thể:
+- Giúp phát hiện phá hoại và thông tin sai lệch nhanh hơn
+- Đề xuất cải tiến cho các bài viết
+- Dịch nội dung giữa các ngôn ngữ một cách tự động
+- Giúp người mới bắt đầu chỉnh sửa dễ dàng hơn
+
+Wikipedia đã bắt đầu thử nghiệm một số công cụ AI, nhưng cẩn thận và có kiểm soát - nhớ rằng nội dung phải luôn được xác minh bởi con người.
+
+Thế hệ mới: Thu hút Z và Alpha
+
+Thế hệ Z (sinh từ 1997-2012) và thế hệ Alpha (sinh từ 2013 trở đi) lớn lên trong thế giới rất khác với thế hệ đã xây dựng Wikipedia. Họ quen với video ngắn TikTok, câu trả lời tức thì từ AI, giao diện đẹp mắt và tương tác.
+
+Wikipedia, với giao diện văn bản chủ yếu và văn hóa biên tập phức tạp, có thể cảm thấy lỗi thời đối với họ. Làm thế nào Wikipedia có thể giữ được sự liên quan?
+
+Một số chiến lược có thể bao gồm:
+- Tích hợp nhiều nội dung đa phương tiện hơn (video, âm thanh, tương tác)
+- Làm cho giao diện chỉnh sửa trực quan và dễ sử dụng hơn
+- Tạo ra "lối vào" dễ dàng hơn cho người mới (ví dụ, chỉnh sửa nhỏ, đơn giản trước khi làm việc lớn hơn)
+- Kết nối với nền tảng mà thế hệ trẻ đang sử dụng
+
+Mở rộng sang "Kiến thức có cấu trúc"
+
+Wikipedia hiện tại chủ yếu là văn bản tự do - các bài viết được viết bằng câu và đoạn văn. Nhưng Wikimedia Foundation đang đầu tư vào "Wikidata" - một cơ sở dữ liệu tri thức có cấu trúc.
+
+Ví dụ, thay vì chỉ có một bài viết văn bản về "Paris" nói rằng "Paris là thủ đô của Pháp với dân số 2,2 triệu", Wikidata lưu trữ thông tin này dưới dạng dữ liệu có cấu trúc: Paris (thành phố) → thủ đô của → Pháp; Paris → dân số → 2,2 triệu.
+
+Điều này có nhiều lợi thế:
+- Máy móc có thể đọc và sử dụng dữ liệu dễ dàng hơn
+- Dễ dàng cập nhật (thay đổi một con số trong cơ sở dữ liệu thay vì chỉnh sửa nhiều bài viết)
+- Có thể tự động dịch (con số và quan hệ giống nhau trong mọi ngôn ngữ)
+- Cho phép các truy vấn phức tạp (ví dụ: "Liệt kê tất cả các thủ đô châu Âu có dân số trên 1 triệu")
+
+Wikidata có thể là tương lai của tri thức có cấu trúc - một lớp dữ liệu nền tảng mà cả con người và máy móc đều có thể sử dụng.
+
+Tính bền vững môi trường
+
+Một thách thức ít được nói đến nhưng ngày càng quan trọng là tác động môi trường. Trung tâm dữ liệu tiêu thụ một lượng điện khổng lồ. Wikipedia, với hàng trăm máy chủ phục vụ 15 tỷ lượt xem trang mỗi tháng, có dấu chân carbon đáng kể.
+
+Wikimedia Foundation đã cam kết giảm tác động môi trường của mình:
+- Sử dụng các trung tâm dữ liệu được cấp nguồn bằng năng lượng tái tạo nơi có thể
+- Tối ưu hóa mã để giảm sử dụng máy chủ
+- Cân nhắc tác động môi trường trong quyết định cơ sở hạ tầng
+
+Đây là một ví dụ thú vị về cách "miễn phí" cho người dùng không có nghĩa là "miễn phí" cho hành tinh. Mọi lượt xem trang Wikipedia đều có chi phí carbon nhỏ - và với quy mô của Wikipedia, những chi phí nhỏ này cộng lại.
+
+Kiểm duyệt và Tự do Thông tin
+
+Ở một số quốc gia, Wikipedia bị chặn hoặc bị kiểm duyệt. Chính phủ Trung Quốc đã chặn Wikipedia (tất cả các ngôn ngữ) từ năm 2019. Thổ Nhĩ Kỳ đã chặn nó trong gần ba năm. Các quốc gia khác đã chặn các bài viết cụ thể hoặc ngôn ngữ cụ thể.
+
+Đây là một thách thức cơ bản đối với sứ mệnh của Wikipedia: Làm thế nào bạn có thể cung cấp "tri thức miễn phí cho mọi người" khi một số chính phủ chủ động ngăn chặn quyền truy cập?
+
+Wikimedia Foundation đã chiến đấu chống lại kiểm duyệt thông qua:
+- Vận động pháp lý và chính trị
+- Hỗ trợ công nghệ như HTTPS (mã hóa) để làm cho việc kiểm duyệt chọn lọc khó khăn hơn
+- Phát triển các phương pháp truy cập thay thế cho người dùng trong các quốc gia kiểm duyệt
+
+Nhưng đây là một cuộc đấu tranh liên tục - và một lời nhắc nhở rằng "miễn phí" không chỉ là về giá cả, mà còn về tự do.
+
+Giá Trị Thực Sự Của Wikipedia: Ngoài Tiền Bạc
+
+Khi chúng ta nói về "miễn phí", chúng ta thường nghĩ về nó theo thuật ngữ kinh tế. Nhưng giá trị thực sự của Wikipedia vượt ra ngoài số liệu tài chính.
+
+Dân chủ hóa Tri thức
+
+Trong hầu hết lịch sử nhân loại, tri thức đã là đặc quyền. Bạn cần phải giàu có để mua sách. Bạn cần phải sống gần thư viện. Bạn cần phải biết ngôn ngữ đúng. Wikipedia đã phá vỡ những rào cản này. Bất kỳ ai có kết nối internet - ngày càng là mọi người trên hành tinh - đều có thể truy cập vào kho tri thức khổng lồ.
+
+Điều này có tác động thực tế và sâu sắc. Một sinh viên y khoa ở Bangladesh có thể học về bệnh hiếm gặp. Một giáo viên ở Peru có thể tìm hiểu về phương pháp giảng dạy mới. Một nhà khoa học ở Kenya có thể nghiên cứu các lý thuyết vật lý mới nhất. Tất cả miễn phí. Tất cả có thể truy cập.
+
+Bảo tồn Tri thức
+
+Wikipedia không chỉ làm cho tri thức có thể truy cập được - nó còn bảo tồn nó. Ngôn ngữ đang chết đi, văn hóa đang biến mất, lịch sử đang bị lãng quên. Wikipedia bằng nhiều ngôn ngữ nhỏ hơn đang ghi lại tri thức địa phương, truyền thống văn hóa, và lịch sử cộng đồng có thể sẽ bị mất.
+
+Ví dụ, Wikipedia bằng tiếng Yoruba (một ngôn ngữ ở Tây Phi) có hơn 25,000 bài viết. Wikipedia bằng tiếng Quechua (ngôn ngữ của người Inca, vẫn được nói ở Peru và Bolivia) có hơn 20,000 bài viết. Những bài viết này không chỉ dịch từ tiếng Anh - nhiều trong số chúng ghi lại tri thức địa phương độc đáo.
+
+Giáo dục và Phát triển
+
+Nhiều nghiên cứu đã cho thấy tác động của Wikipedia đối với giáo dục. Sinh viên sử dụng nó để nghiên cứu. Giáo viên sử dụng nó như một nguồn tài liệu. Trong một số quốc gia đang phát triển, Wikipedia có thể là nguồn thông tin bách khoa toàn thư duy nhất có sẵn.
+
+Hơn nữa, quá trình đóng góp cho Wikipedia có giá trị giáo dục. Học cách nghiên cứu một chủ đề, tìm nguồn đáng tin cậy, viết rõ ràng, và tham gia thảo luận xây dựng - tất cả những kỹ năng này có giá trị vượt xa Wikipedia.
+
+Mô hình cho sự hợp tác toàn cầu
+
+Wikipedia chứng minh rằng mọi người từ khắp nơi trên thế giới, với ngôn ngữ, văn hóa, và quan điểm chính trị khác nhau, có thể làm việc cùng nhau để tạo ra một thứ gì đó có giá trị. Các biên tập viên từ Mỹ và Iran, từ Israel và Palestine, từ Ấn Độ và Pakistan - tất cả đều đóng góp cho cùng một dự án.
+
+Điều này không luôn luôn dễ dàng. Có tranh luận, đôi khi gay gắt. Nhưng có một cam kết chung với tri thức và sự thật giúp vượt qua sự khác biệt. Trong một thế giới ngày càng phân cực, điều này là đáng chú ý.
+
+Phản đề cho chủ nghĩa tư bản giám sát
+
+Trong thời đại mà hầu hết các dịch vụ internet "miễn phí" đi kèm với giám sát, theo dõi, và khai thác dữ liệu, Wikipedia là một ngoại lệ đáng hoan nghênh. Nó không theo dõi bạn (ngoài các cookie kỹ thuật tối thiểu). Nó không bán dữ liệu của bạn. Nó không tạo hồ sơ về bạn để nhắm mục tiêu quảng cáo.
+
+Wikipedia chứng minh rằng một dịch vụ internet lớn có thể tồn tại mà không cần mô hình kinh doanh dựa trên giám sát. Đây là một mô hình thay thế quan trọng - một lời nhắc nhở rằng internet không nhất thiết phải như vậy.
+
+Kinh Tế Học Của Wikipedia: Phân Tích Sâu Hơn
+
+Hãy đi sâu hơn vào kinh tế học của Wikipedia, bởi vì nó tiết lộ một số điều thú vị về "miễn phí".
+
+Chi phí cận biên bằng không
+
+Chúng ta đã thảo luận điều này trước đó, nhưng nó đáng được nhấn mạnh: trong thế giới kỹ thuật số, chi phí cận biên - chi phí để phục vụ một người dùng bổ sung - gần như bằng không. Một khi một bài viết Wikipedia được viết, chi phí để một triệu người đọc nó so với một người đọc nó là không đáng kể.
+
+Điều này là lý do cơ bản tại sao "miễn phí" có thể hoạt động trong thế giới kỹ thuật số. Trong thế giới vật lý, nếu bạn cho đi một chiếc bánh miễn phí, bạn mất chi phí làm bánh đó. Nhưng nếu bạn cho đi một bài viết Wikipedia miễn phí, bạn không mất gì - và nếu một triệu người lấy nó, bạn vẫn không mất gì thêm.
+
+Tất nhiên, có chi phí cố định (máy chủ, nhân viên) - nhưng những chi phí này không tăng tuyến tính với số lượng người dùng. Bạn có thể phục vụ 10 lần nhiều người dùng hơn mà không cần 10 lần nhiều máy chủ hơn.
+
+Kinh tế học của sự chú ý
+
+Trong một thế giới tràn ngập thông tin, sự khan hiếm thực sự là sự chú ý. Google, Facebook, TikTok - tất cả đều cạnh tranh cho sự chú ý của bạn vì đó là cách họ kiếm tiền (thông qua quảng cáo).
+
+Wikipedia cũng muốn sự chú ý của bạn - nhưng vì lý do khác. Nó muốn bạn đọc để học hỏi. Và nó muốn một số người trong số bạn trở thành biên tập viên, đóng góp thời gian và chuyên môn của bạn.
+
+Đây là một hình thức "kinh tế học tặng cho" (gift economy) - một hệ thống nơi giá trị được trao đổi mà không có kỳ vọng về sự bù đắp trực tiếp. Bạn viết một bài viết Wikipedia không phải vì bạn sẽ được trả tiền, mà vì bạn muốn đóng góp. Người khác đọc nó và học hỏi. Có thể trong tương lai, họ cũng sẽ đóng góp một cái gì đó.
+
+Hiệu quả so với công bằng
+
+Một câu hỏi thú vị: Liệu mô hình Wikipedia có "hiệu quả" không theo nghĩa kinh tế?
+
+Nếu bạn đo lường hiệu quả bằng "lợi nhuận tối đa hóa", thì không - Wikipedia để lại hàng tỷ đô la trên bàn bằng cách không có quảng cáo. Nếu Wikipedia là một công ty tư nhân, nó sẽ đáng giá hàng chục tỷ đô la.
+
+Nhưng nếu bạn đo lường hiệu quả bằng "giá trị xã hội tối đa hóa", thì có - Wikipedia tạo ra giá trị to lớn cho xã hội với chi phí tương đối thấp. Tỷ lệ giá trị được tạo ra (hàng tỷ lượt xem trang, hàng triệu bài viết) so với chi phí (170 triệu đô la một năm) là đáng kinh ngạc.
+
+Điều này nhấn mạnh một điểm quan trọng: hiệu quả kinh tế và giá trị xã hội không phải lúc nào cũng căn chỉnh. Đôi khi, mô hình không hiệu quả nhất về mặt lợi nhuận là mô hình hiệu quả nhất về mặt xã hội.
+
+Ngoại ứng mạng và hiệu ứng phụ
+
+Wikipedia được hưởng lợi từ hiệu ứng mạng lưới mạnh mẽ: càng nhiều người sử dụng nó, càng có nhiều người đóng góp; càng nhiều người đóng góp, nội dung càng tốt; nội dung càng tốt, càng nhiều người sử dụng nó. Đây là một vòng lặp tích cực.
+
+Nhưng không giống như hiệu ứng mạng lưới trong các nền tảng như Facebook (nơi giá trị được nắm giữ bởi công ty), hiệu ứng mạng lưới của Wikipedia tạo ra giá trị công cộng. Mọi người đều được hưởng lợi - không chỉ cổ đông hoặc người sáng lập.
+
+Chi phí giao dịch và sự tin tưởng
+
+Trong kinh tế học, "chi phí giao dịch" là chi phí để thực hiện một trao đổi kinh tế. Wikipedia có chi phí giao dịch cực kỳ thấp: không cần đăng ký (để đọc), không cần thanh toán, không cần thương lượng. Bạn chỉ cần nhấp và đọc.
+
+Điều này được kích hoạt bởi sự tin tưởng - sự tin tưởng rằng thông tin sẽ ở đó, rằng nó sẽ chính xác hợp lý, rằng nó sẽ không biến mất đằng sau một bức tường trả phí vào ngày mai. Sự tin tưởng này đã được xây dựng trong hơn hai thập kỷ kiên định tuân thủ sứ mệnh.
+
+Ứng Dụng Thực Tiễn: Điều Gì Có Thể Học Từ Wikipedia?
+
+Nếu bạn là một doanh nhân, một tổ chức phi lợi nhuận, hoặc thậm chí chỉ là một người quan tâm đến "miễn phí" như một chiến lược, Wikipedia cung cấp một số bài học thực tế:
+
+1. Xác định rõ sứ mệnh của bạn
+
+Wikipedia thành công vì nó có một sứ mệnh rõ ràng và hấp dẫn: cung cấp tri thức miễn phí cho mọi người. Sứ mệnh này định hướng mọi quyết định. Khi một cơ hội kiếm tiền (như quảng cáo) xung đột với sứ mệnh, sứ mệnh thắng.
+
+Nếu bạn muốn xây dựng một thứ gì đó "miễn phí" và bền vững, bạn cần một sứ mệnh mạnh mẽ hơn là chỉ "kiếm tiền". Sứ mệnh đó sẽ thu hút những người hỗ trợ, biện minh cho sự tồn tại của bạn, và hướng dẫn bạn qua những quyết định khó khăn.
+
+2. Xây dựng cộng đồng từ đầu
+
+Wikipedia không phải là một sản phẩm được tạo ra bởi một công ty và sau đó được "mở" cho cộng đồng. Nó là cộng đồng ngay từ đầu. Mọi quyết định chính - chính sách biên tập, cấu trúc quản trị, thậm chí cả logo - đều được cộng đồng thảo luận và quyết định.
+
+Nếu bạn muốn một cộng đồng tích cực, bạn phải cho họ quyền sở hữu thực sự - không chỉ quyền sử dụng, mà quyền định hình và quản lý.
+
+3. Minh bạch tạo ra lòng tin
+
+Wikipedia công khai về tài chính, về quyết định, về tranh luận. Sự minh bạch này có thể khiến mọi thứ lộn xộn - đôi khi bạn thấy các cuộc tranh luận gay gắt, sự không đồng ý, những sai lầm. Nhưng nó cũng tạo ra lòng tin sâu sắc.
+
+Trong thời đại hoài nghi, minh bạch là một tài sản quý giá.
+
+4. Quy mô có thể làm cho mô hình phi truyền thống khả thi
+
+Wikipedia có thể sống với quyên góp vì nó có quy mô khổng lồ. Nếu bạn có một dự án nhỏ hơn nhiều, mô hình tương tự có thể không hoạt động - bạn có thể cần ít người dùng hơn để đóng góp phần trăm cao hơn, hoặc bạn có thể cần các nguồn thu nhập bổ sung.
+
+Hiểu quy mô cần thiết cho mô hình của bạn để hoạt động.
+
+5. "Miễn phí" không có nghĩa là "không có giá trị"
+
+Một trong những thách thức lớn nhất của Wikipedia là làm cho mọi người hiểu rằng chỉ vì nó miễn phí không có nghĩa là nó không có chi phí. Mỗi năm, trong chiến dịch gây quỹ, Wikipedia phải giải thích lại: "Có, chúng tôi thực sự cần tiền của bạn. Không, chúng tôi không chỉ đang xin tiền một cách vô duyên."
+
+Nếu bạn cung cấp một thứ gì đó miễn phí, bạn cần phải thường xuyên truyền đạt giá trị của nó và tại sao nó cần được hỗ trợ.
+
+6. Bảo vệ độc lập của bạn
+
+Quyết định của Wikipedia không có quảng cáo là cơ bản cho sự độc lập của nó. Điều này có nghĩa là thu nhập thấp hơn, nhưng nó cũng có nghĩa là tự do hoàn toàn.
+
+Suy nghĩ cẩn thận về những gì bạn sẵn sàng đánh đổi cho tăng trưởng hoặc doanh thu. Đôi khi, "không" nói với tiền dễ dàng là quyết định tốt nhất dài hạn.
+
+7. Lập kế hoạch cho tính bền vững dài hạn
+
+Wikimedia Endowment cho thấy tư duy dài hạn. Thay vì chi tiêu tất cả tiền quyên góp hàng năm, Wikipedia đang xây dựng một quỹ cho tương lai. Đây là tư duy thế hệ - không chỉ suy nghĩ về năm tới, mà về thập kỷ và thế kỷ tới.
+
+Nếu bạn xây dựng một thứ gì đó có ý nghĩa lâu dài, hãy lập kế hoạch cho tính bền vững lâu dài.
+
+Triết Lý Của "Miễn Phí": Wikipedia Và Ý Nghĩa Sâu Xa
+
+Cuối cùng, Wikipedia không chỉ là về kinh tế hay công nghệ. Nó là về triết lý - về những gì chúng ta tin tưởng về tri thức, cộng đồng, và xã hội.
+
+Tri thức là quyền con người
+
+Lập trường của Wikipedia là tri thức không nên là đặc quyền của người giàu hoặc may mắn. Nó nên có sẵn cho mọi người, bất kể họ sinh ra ở đâu, gia đình họ có bao nhiêu tiền, hoặc ngôn ngữ họ nói là gì.
+
+Đây là một lập trường triết học sâu sắc - và một lập trường cấp tiến. Nó thách thức ý tưởng rằng tri thức là một hàng hóa để được mua bán theo giá thị trường. Thay vào đó, nó khẳng định tri thức như một quyền công dân cơ bản.
+
+Tin tưởng vào tập thể
+
+Wikipedia tin rằng nếu bạn trao quyền cho mọi người - nếu bạn tin tưởng họ với trách nhiệm - họ thường sẽ vượt lên trên kỳ vọng. Có, một số người sẽ phá hoại. Một số người sẽ lạm dụng hệ thống. Nhưng tổng thể, tập thể sẽ tự điều chỉnh, tự cải thiện, tự quản trị.
+
+Đây là niềm tin dân chủ cơ bản - không phải dân chủ chính trị, mà dân chủ tri thức. Mọi người có khả năng đóng góp vào tri thức tập thể.
+
+Sức mạnh của việc cho đi
+
+Wikipedia chứng minh rằng bạn có thể xây dựng một thứ gì đó vĩ đại bằng cách cho đi - cho đi tri thức, cho đi thời gian, cho đi chuyên môn. Bạn không cần phải "bán" mọi thứ. Bạn không cần phải "kiếm tiền từ" mọi người.
+
+Trong một thế giới ám ảnh với kiếm tiền, với "chuyển đổi người dùng thành khách hàng", với "tối ưu hóa doanh thu", Wikipedia là một lời nhắc nhở rằng có những cách khác. Bạn có thể xây dựng dựa trên sự hào phóng, niềm tin, và mục đích chia sẻ.
+
+Kháng cự với sự thương mại hóa
+
+Quyết định của Wikipedia không bán quảng cáo, không bán dữ liệu người dùng, không "tối ưu hóa cho sự tương tác" - tất cả những điều này là hình thức kháng cự với sự thương mại hóa của internet.
+
+Hầu hết internet đã trở thành một cỗ máy quảng cáo khổng lồ. Mọi nhấp chuột được theo dõi. Mọi hành vi được phân tích. Mọi sự chú ý được kiếm tiền. Wikipedia nói: "Không phải chúng tôi." Đây là một hành động kháng cự yên lặng nhưng mạnh mẽ.
+
+Bảo tồn cho thế hệ tương lai
+
+Có một câu hỏi thú vị: Liệu Wikipedia có còn tồn tại trong 100 năm nữa không? Trong 500 năm? Trong 1000 năm?
+
+Encyclopedia Britannica tồn tại trong hơn 250 năm. Thư viện Alexandria (cổ đại) tồn tại trong gần 700 năm trước khi bị phá hủy. Các văn bản Phật giáo đã được bảo tồn trong hơn 2000 năm.
+
+Wikimedia Foundation nghĩ về những thời gian này. Làm thế nào để đảm bảo rằng Wikipedia - kiến thức tập thể của thế kỷ 21 của chúng ta - sẽ có sẵn cho các thế hệ tương lai? Đây là lý do cho quỹ tín thác, cho việc lưu trữ cẩn thận, cho việc sao lưu phân tán. Đây là tư duy di sản.
+
+Kết Luận: Wikipedia Như Một Bằng Chứng Về Khả Năng
+
+Khi Jimmy Wales bắt đầu Wikipedia vào năm 2001, hầu hết mọi người nghĩ nó sẽ thất bại. Làm thế nào bạn có thể xây dựng một bách khoa toàn thư đáng tin cậy khi ai cũng có thể chỉnh sửa? Làm thế nào bạn có thể cạnh tranh với Encyclopedia Britannica mà không có tiền? Làm thế nào bạn có thể duy trì một trang web lớn mà không có quảng cáo?
+
+Hơn hai thập kỷ sau, những câu hỏi này đã được trả lời. Wikipedia không chỉ sống sót - nó đã thịnh vượng. Nó đã trở thành một trong những trang web quan trọng nhất trên thế giới. Encyclopedia Britannica đã ngừng xuất bản bản in. Wikipedia đã chứng minh những người hoài nghi sai.
+
+Nhưng Wikipedia không chỉ chứng minh rằng một mô hình kinh doanh cụ thể có thể hoạt động. Nó chứng minh điều gì đó sâu sắc hơn nhiều về bản chất con người và xã hội:
+
+Nó chứng minh rằng mọi người muốn đóng góp. Khi được cơ hội, khi được trao quyền, khi được tin tưởng - mọi người sẽ chia sẻ kiến thức của họ, giúp đỡ người khác, và xây dựng một thứ gì đó lớn hơn bản thân họ.
+
+Nó chứng minh rằng cộng đồng có thể tự quản lý. Không cần sự kiểm soát từ trên xuống cứng nhắc. Với các quy tắc đúng, văn hóa đúng, và công cụ đúng - cộng đồng có thể tạo ra trật tự từ hỗn loạn, chất lượng từ sự đa dạng.
+
+Nó chứng minh rằng tri thức có thể được dân chủ hóa. Trong hầu hết lịch sử, tri thức đã là quyền lực của một số ít - các tăng lữ trong tu viện, các học giả trong trường đại học, các nhà xuất bản với máy in. Wikipedia đã làm cho tri thức trở nên dân chủ - mọi người có thể đọc, mọi người có thể viết.
+
+Nó chứng minh rằng "miễn phí" có thể bền vững. Không phải mọi thứ cần phải được kiếm tiền từ. Không phải mọi người dùng cần phải được chuyển đổi thành khách hàng. Có những mô hình khác - mô hình dựa trên quyên góp, trên tình nguyện, trên niềm tin vào giá trị công cộng.
+
+Nó chứng minh rằng internet có thể là một lực lượng cho điều tốt. Trong thời đại khi chúng ta lo lắng về thông tin sai lệch, ghét bỏ trực tuyến, và nghiện mạng xã hội - Wikipedia là một lời nhắc nhở rằng internet cũng có thể là một công cụ cho giáo dục, cho sự hiểu biết, cho kết nối con người.
+
+Wikipedia không hoàn hảo. Nó có những thiên lệch, những khoảng trống, những thách thức. Nhưng nó tồn tại - một kỳ quan của thế kỷ 21, một di sản của thời đại chúng ta, một món quà cho các thế hệ tương lai.
+
+Và có thể quan trọng nhất, nó là một bằng chứng về khả năng. Nó cho thấy những gì có thể xảy ra khi chúng ta chọn cộng đồng hơn là lợi nhuận, khi chúng ta chọn tri thức hơn là quyền lực, khi chúng ta chọn chia sẻ hơn là tích trữ.
+
+Trong các chương trước, chúng ta đã khám phá nhiều mô hình "miễn phí" - từ Gillette tặng dao cạo râu, đến Google bán quảng cáo, đến Spotify với freemium. Mỗi mô hình có logic kinh tế riêng của nó. Nhưng Wikipedia là một loại "miễn phí" khác - một loại không dựa trên chiến lược kinh doanh tinh vi, mà dựa trên niềm tin đơn giản rằng tri thức nên thuộc về mọi người.
+
+Và điều kỳ diệu? Nó hoạt động.
+
+Khi bạn đọc những dòng này, có lẽ trên một trang Wikipedia (vì đó là nơi nhiều người đến để học hỏi), hãy dành một chút thời gian để đánh giá cao điều kỳ diệu này. Hàng triệu người đã đóng góp thời gian của họ để tạo ra kho tri thức này. Hàng triệu người khác đã quyên góp tiền của họ để duy trì nó. Tất cả để bạn - và hàng tỷ người khác - có thể học hỏi miễn phí.
+
+Đây không chỉ là một mô hình kinh doanh. Đây là một hành động của niềm hy vọng, một hành động của niềm tin, một hành động của sự hào phóng tập thể. Đây là "miễn phí" ở hình thức cao quý nhất của nó - không phải là một chiến thuật marketing, mà là một cam kết với lý tưởng rằng tri thức là quyền của mọi người.
+
+Và nếu Wikipedia có thể làm được điều này - nếu một nhóm tình nguyện viên có thể tạo ra một trong những nguồn tri thức vĩ đại nhất mà nhân loại từng biết, và làm cho nó miễn phí cho tất cả mọi người - thì điều gì khác là có thể?
+
+Đó là câu hỏi mà Wikipedia để lại cho chúng ta. Không chỉ là một bách khoa toàn thư, mà là một lời nhắc nhở về những gì chúng ta có thể đạt được khi chúng ta làm việc cùng nhau, khi chúng ta chia sẻ một cách tự do, khi chúng ta tin vào sức mạnh của cộng đồng.
+
+Đó là di sản thực sự của Wikipedia. Và đó là lý do tại sao nó quan trọng.
+
+Phụ Lục: Những Câu Chuyện Đằng Sau Wikipedia
+
+Để hiểu đầy đủ hơn về Wikipedia, hãy khám phá một số câu chuyện và ví dụ cụ thể cho thấy cách nó hoạt động trong thực tế.
+
+Câu Chuyện 1: Cuộc Chiến Chỉnh Sửa Vĩ Đại
+
+Không phải tất cả các tương tác trên Wikipedia đều hòa bình. Đôi khi, có "edit wars" (cuộc chiến chỉnh sửa) - khi hai hoặc nhiều biên tập viên liên tục hoàn nguyên các thay đổi của nhau.
+
+Một trong những cuộc chiến chỉnh sửa nổi tiếng nhất là về... liệu con mèo nên được gọi là "con mèo" hay "mèo đực/mèo cái". Nghe có vẻ tầm thường, nhưng cuộc tranh luận này kéo dài nhiều năm, với hàng trăm biên tập viên tham gia, hàng nghìn bình luận trên trang thảo luận.
+
+Cuối cùng, cộng đồng đã phải tổ chức một "Request for Comment" (Yêu cầu Bình luận) chính thức - một quá trình có cấu trúc để đạt được sự đồng thuận. Sau nhiều tháng thảo luận, một quyết định đã được đưa ra và được ghi lại trong hướng dẫn phong cách.
+
+Câu chuyện này minh họa cả tốt và xấu của Wikipedia. Xấu: đôi khi quy trình có thể chậm chạp và dường như lãng phí thời gian cho những vấn đề nhỏ. Tốt: ngay cả những tranh chấp nhỏ nhất cũng được giải quyết thông qua thảo luận và đồng thuận, không phải quyền lực độc đoán.
+
+Câu Chuyện 2: Khi Wikipedia Nhanh Hơn Tin Tức
+
+Vào tháng 1 năm 2009, chuyến bay US Airways 1549 gặp sự cố và phải hạ cánh khẩn cấp trên sông Hudson ở New York. Phi công Chesley "Sully" Sullenberger đã điều khiển máy bay hạ cánh an toàn, cứu sống tất cả 155 người trên máy bay.
+
+Trong vòng vài phút sau sự cố, một bài viết Wikipedia về vụ việc đã được tạo ra. Trong khi các phương tiện truyền thông vẫn đang cố gắng xác nhận chi tiết, các biên tập viên Wikipedia đã tập hợp thông tin từ các báo cáo trực tiếp, phát thanh của bộ điều khiển không lưu, và mạng xã hội.
+
+Trong vòng một giờ, bài viết đã có thông tin chi tiết về chuyến bay, phi công, nguyên nhân (va chạm với chim), và diễn biến hạ cánh. Các phương tiện truyền thông chính thống bắt đầu trích dẫn Wikipedia như một nguồn.
+
+Đây không phải là trường hợp duy nhất. Với các sự kiện đang diễn ra - thảm họa thiên nhiên, sự kiện chính trị, qua đời của người nổi tiếng - Wikipedia thường được cập nhật nhanh hơn nhiều nguồn tin chính thống. Tại sao? Bởi vì có hàng nghìn biên tập viên trên khắp thế giới, sẵn sàng đóng góp ngay lập tức, không cần phải chờ quy trình biên tập chính thức.
+
+Tất nhiên, tốc độ này đi kèm với rủi ro - đôi khi thông tin ban đầu không chính xác và phải được sửa chữa sau. Nhưng nhờ vào mô hình mở, những lỗi này thường được phát hiện và sửa chữa nhanh chóng.
+
+Câu Chuyện 3: Wikipedia và Giáo Dục
+
+Trong nhiều năm, giáo viên đã có mối quan hệ phức tạp với Wikipedia. Nhiều người cấm học sinh của họ trích dẫn Wikipedia, lập luận rằng "ai cũng có thể chỉnh sửa nó" nên nó không đáng tin cậy.
+
+Nhưng một số giáo viên đã có cách tiếp cận khác: thay vì cấm Wikipedia, họ dạy học sinh cách sử dụng nó đúng cách - và thậm chí cách đóng góp cho nó.
+
+Chương trình "Wikipedia Education Program" đã hợp tác với hàng nghìn giảng viên đại học trên toàn thế giới để biến việc chỉnh sửa Wikipedia thành một phần của khóa học. Sinh viên được giao nhiệm vụ nghiên cứu một chủ đề, tìm nguồn học thuật đáng tin cậy, và viết hoặc cải thiện một bài viết Wikipedia.
+
+Kết quả? Sinh viên học được kỹ năng nghiên cứu có giá trị, hiểu về đánh giá nguồn và viết rõ ràng. Wikipedia nhận được nội dung chất lượng cao về các chủ đề học thuật. Và tri thức học thuật - thường bị nhốt trong các tạp chí trả phí - trở nên có thể tiếp cận với công chúng.
+
+Một giáo sư sinh học đã yêu cầu sinh viên viết về các loài bị đe dọa. Kết quả là hàng chục bài viết chi tiết về động vật mà trước đây chỉ được đề cập trong các tạp chí chuyên môn. Một giáo sư lịch sử đã yêu cầu sinh viên viết về phụ nữ trong lịch sử - giúp thu hẹp khoảng cách giới tính trong nội dung Wikipedia.
+
+Câu Chuyện 4: Cuộc Chiến Chống Quảng Cáo Lén Lút
+
+Vào năm 2013, một vụ bê bối nổ ra: Wiki-PR, một công ty PR, đã bị phát hiện đang chạy một mạng lưới tài khoản Wikipedia để viết bài quảng cáo ngụy trang như bài viết bách khoa toàn thư.
+
+Các công ty trả tiền cho Wiki-PR để tạo hoặc chỉnh sửa bài viết về họ, loại bỏ thông tin tiêu cực, và thêm nội dung quảng cáo. Đây là vi phạm rõ ràng các chính sách của Wikipedia về xung đột lợi ích và quan điểm trung lập.
+
+Cộng đồng Wikipedia phản ứng mạnh mẽ. Các biên tập viên tình nguyện đã dành hàng nghìn giờ để điều tra, xác định hàng trăm tài khoản liên quan đến Wiki-PR, và loại bỏ hoặc sửa chữa nội dung quảng cáo. Wikimedia Foundation đã gửi thư ngừng và từ chối cho Wiki-PR, và cuối cùng công ty đã đóng cửa.
+
+Nhưng vấn đề không kết thúc ở đó. "Paid editing" (chỉnh sửa có trả phí) vẫn là một thách thức liên tục. Có cả một ngành công nghiệp của các công ty và cá nhân được thuê để quản lý danh tiếng trên Wikipedia. Một số làm điều này một cách minh bạch và tuân theo các nguyên tắc; một số khác cố gắng lén lút.
+
+Wikipedia đã phát triển các công cụ ngày càng tinh vi để phát hiện chỉnh sửa có trả phí - phân tích mẫu chỉnh sửa, theo dõi địa chỉ IP, và sử dụng học máy để đánh dấu nội dung đáng ngờ. Nhưng đây là một cuộc chạy đua vũ trang không ngừng nghỉ.
+
+Câu chuyện này nhấn mạnh một điểm quan trọng: giá trị của Wikipedia - sự trung lập, độc lập, và đáng tin cậy - phải được bảo vệ tích cực chống lại những người muốn khai thác nó vì lợi ích.
+
+Câu Chuyện 5: Wikipedia Trong Khủng Hoảng
+
+Khi đại dịch COVID-19 bùng phát vào đầu năm 2020, Wikipedia trở thành một trong những nguồn thông tin quan trọng nhất về virus, triệu chứng, và phòng ngừa.
+
+Bài viết "COVID-19 pandemic" trở thành một trong những bài viết được xem nhiều nhất trong lịch sử Wikipedia, với hàng trăm triệu lượt xem. Nhưng quan trọng hơn, nó cũng trở thành một trong những bài viết được chỉnh sửa nhiều nhất - với hàng nghìn biên tập viên trên toàn thế giới làm việc để cập nhật thông tin khi tình hình phát triển từng giờ.
+
+Điều khiến Wikipedia đặc biệt có giá trị trong khủng hoảng này là cam kết của nó với nguồn đáng tin cậy và xác minh. Trong khi mạng xã hội tràn ngập thông tin sai lệch về "phương thuốc kỳ diệu" và thuyết âm mưu, Wikipedia yêu cầu mỗi tuyên bố phải được trích dẫn từ các nguồn y tế đáng tin cậy như WHO, CDC, và các nghiên cứu được đánh giá ngang hàng.
+
+Các biên tập viên y tế chuyên nghiệp, các bác sĩ, và các nhà khoa học đã tình nguyện thời gian của họ để đảm bảo thông tin chính xác. Các bài viết được dịch sang hàng trăm ngôn ngữ, mang thông tin cứu mạng đến với mọi người trên toàn thế giới.
+
+Đây là một ví dụ mạnh mẽ về giá trị của "miễn phí" trong thời khủng hoảng. Khi mọi người cần thông tin đáng tin cậy nhất, họ không phải trả tiền cho nó, không phải đăng ký, không phải vượt qua paywall. Nó chỉ ở đó - miễn phí, có thể truy cập, đáng tin cậy.
+
+Câu Chuyện 6: Các Wikipedian Nổi Tiếng
+
+Không phải tất cả biên tập viên Wikipedia đều ẩn danh. Một số đã trở nên nổi tiếng trong cộng đồng - và đôi khi bên ngoài nó.
+
+Steven Pruitt đã thực hiện hơn 4 triệu chỉnh sửa trên Wikipedia tiếng Anh - nhiều hơn bất kỳ ai khác. Ông đã tạo hoặc cải thiện hơn một phần ba tất cả các bài viết trên Wikipedia tiếng Anh. Công việc chính của ông là một chuyên gia về hải quan, nhưng đam mê của ông là đảm bảo rằng thông tin trên Wikipedia chính xác và được trích dẫn tốt. Năm 2019, TIME Magazine vinh danh ông là một trong những người có ảnh hưởng nhất trên internet.
+
+Justin Knapp (tên người dùng: Koavf) là người đầu tiên đạt một triệu chỉnh sửa trên Wikipedia tiếng Anh. Ông đã dành trung bình 3-4 giờ mỗi ngày, trong nhiều năm, để cải thiện các bài viết.
+
+Emijrp (tên thật: Emilio J. Rodríguez Posada) đã tạo ra hơn 1,5 triệu bài viết Wikipedia - phần lớn sử dụng bot để tạo bài viết ngắn từ cơ sở dữ liệu. Ông là lý do tại sao Wikipedia tiếng Tây Ban Nha và một số ngôn ngữ khác có hàng triệu bài viết.
+
+Những người này đại diện cho cực điểm của sự cống hiến - nhưng họ không đơn độc. Có hàng nghìn biên tập viên khác, ít nổi tiếng hơn, nhưng vẫn đóng góp hàng trăm hoặc hàng nghìn giờ làm việc. Họ là những người hùng thầm lặng của kinh tế học "miễn phí" - những người làm việc không vì tiền, mà vì đam mê.
+
+Câu Chuyện 7: Wikipedia Và Chính Trị
+
+Wikipedia cố gắng trung lập, nhưng điều đó không có nghĩa là nó không bị chính trị hóa. Các bài viết về các nhân vật chính trị, sự kiện gây tranh cãi, và vấn đề nhạy cảm thường là chiến trường cho các quan điểm cạnh tranh.
+
+Trong các cuộc bầu cử, các chiến dịch chính trị thường cố gắng chỉnh sửa các bài viết về ứng cử viên của họ để làm cho họ trông tốt hơn, hoặc chỉnh sửa các bài viết về đối thủ để làm cho họ trông tồi tệ hơn. Wikipedia có các chính sách nghiêm ngặt chống lại điều này, nhưng việc thực thi không phải lúc nào cũng dễ dàng.
+
+Một nghiên cứu đã phát hiện rằng trong kỳ bầu cử tổng thống Mỹ năm 2016, các bài viết về Donald Trump và Hillary Clinton bị chỉnh sửa hàng nghìn lần, với các biên tập viên từ cả hai phía cố gắng định hình câu chuyện. Các biên tập viên trung lập đã dành hàng nghìn giờ để duy trì quan điểm cân bằng và đảm bảo rằng tất cả các tuyên bố đều được trích dẫn từ các nguồn đáng tin cậy.
+
+Ở một số quốc gia, chính phủ đã bị bắt gặp đang cố gắng chỉnh sửa Wikipedia. Nhân viên trong các văn phòng chính phủ đã bị phát hiện đang thay đổi các bài viết về lịch sử quốc gia, chính sách chính phủ, hoặc các nhà lãnh đạo. Wikipedia theo dõi địa chỉ IP và đã tạo ra một số "bảng xấu hổ" nổi tiếng - liệt kê các chỉnh sửa đáng ngờ từ địa chỉ IP của chính phủ hoặc công ty.
+
+Đây là một lời nhắc nhở rằng tri thức không bao giờ thực sự "trung lập" - nó luôn là kết quả của các cuộc đàm phán, tranh luận, và đấu tranh giữa các quan điểm khác nhau. Giá trị của Wikipedia không phải là nó đạt được sự trung lập hoàn hảo (điều này có lẽ là không thể), mà là nó làm cho quá trình này minh bạch và mở cửa cho sự tham gia.
+
+Câu Chuyện 8: Wikipedia Và Nghệ Thuật
+
+Không phải tất cả các dự án Wikipedia đều về văn bản. "Wiki Loves Monuments" là cuộc thi ảnh lớn nhất thế giới, được Guinness công nhận. Mỗi năm, các nhiếp ảnh gia tình nguyện trên toàn thế giới chụp ảnh các di tích văn hóa và tải lên Wikimedia Commons (kho lưu trữ hình ảnh miễn phí của Wikipedia).
+
+Năm 2011, cuộc thi đầu tiên đã nhận được hơn 168,000 ảnh từ 5,000 người tham gia ở 18 quốc gia. Năm 2015, nó đã mở rộng ra hơn 50 quốc gia và nhận được hơn 350,000 ảnh.
+
+Điều đẹp đẽ về chương trình này là nó không chỉ làm phong phú Wikipedia - nó còn tạo ra một kho lưu trữ khổng lồ các hình ảnh di sản văn hóa, tất cả đều có giấy phép miễn phí. Bất kỳ ai - sinh viên, giáo viên, nhà nghiên cứu, nhà thiết kế - đều có thể sử dụng những hình ảnh này miễn phí.
+
+Hơn nữa, chương trình này đã giúp ghi lại các di tích đang bị đe dọa. Sau khi ISIS phá hủy Palmyra ở Syria, các ảnh trên Wikimedia Commons trở thành một trong những bản ghi lưu trữ quan trọng nhất về những gì đã mất đi.
+
+Những Con Số Đáng Kinh Ngạc: Wikipedia Trong Thống Kê
+
+Đôi khi, cách tốt nhất để hiểu quy mô và tác động của Wikipedia là thông qua con số:
+
+Quy mô nội dung:
+- Hơn 60 triệu bài viết trên tất cả các ngôn ngữ
+- Wikipedia tiếng Anh: 6,7+ triệu bài viết
+- Nếu in ra, Wikipedia tiếng Anh sẽ chiếm khoảng 2,8 triệu trang
+- Nếu bạn đọc một bài viết mỗi phút, 24/7, bạn sẽ cần 13 năm để đọc hết Wikipedia tiếng Anh (và trong thời gian đó, hàng triệu bài viết mới sẽ được thêm vào)
+
+Tầm với toàn cầu:
+- 15 tỷ lượt xem trang mỗi tháng (180 tỷ mỗi năm)
+- Có sẵn bằng hơn 300 ngôn ngữ
+- Là một trong 10 trang web được truy cập nhiều nhất trên thế giới
+- Có thể truy cập từ hầu hết mọi quốc gia (ngoại trừ những nơi bị kiểm duyệt)
+
+Cộng đồng:
+- Hơn 260,000 biên tập viên hoạt động mỗi tháng
+- Hơn 120,000 biên tập viên đã đóng góp ít nhất 10 chỉnh sửa trong tháng qua
+- Hơn 1,000 quản trị viên trên Wikipedia tiếng Anh
+- Hàng tỷ chỉnh sửa tổng cộng kể từ khi thành lập
+
+Giá trị kinh tế:
+- Ngân sách hàng năm: ~170 triệu đô la
+- Quyên góp trung bình: $15
+- Hơn 6 triệu lượt quyên góp mỗi năm
+- Nếu phải trả lương thị trường cho tất cả các biên tập viên tình nguyện: có thể lên đến hàng tỷ đô la mỗi năm
+
+Tác động giáo dục:
+- Được sử dụng bởi sinh viên ở hơn 200 quốc gia
+- Hơn 30,000 sinh viên đã tham gia Wikipedia Education Program
+- Hàng triệu giáo viên sử dụng Wikipedia như tài nguyên giảng dạy
+
+Những con số này không chỉ ấn tượng - chúng còn đại diện cho một trong những thành tựu hợp tác lớn nhất trong lịch sử nhân loại. Không có dự án nào trước đây đã tập hợp nhiều người như vậy, từ nhiều nền văn hóa như vậy, để tạo ra một thứ gì đó có giá trị cho tất cả mọi người.
+
+So Sánh Với Các Nền Tảng Tri Thức Khác
+
+Để đánh giá đầy đủ sự độc đáo của Wikipedia, hãy so sánh nó với các nền tảng tri thức khác:
+
+Wikipedia vs Encyclopedia Britannica:
+- Britannica (phiên bản in): 40 triệu từ, chi phí hàng nghìn đô la
+- Wikipedia tiếng Anh: hơn 4 tỷ từ, miễn phí
+- Britannica: được viết bởi khoảng 4,000 chuyên gia được trả lương
+- Wikipedia: được viết bởi hàng triệu tình nguyện viên
+- Britannica: cập nhật mỗi vài năm (phiên bản in), thường xuyên hơn (phiên bản trực tuyến)
+- Wikipedia: cập nhật theo thời gian thực
+- Kết quả: Britannica đã ngừng xuất bản phiên bản in vào năm 2012
+
+Wikipedia vs Google:
+- Cả hai đều miễn phí cho người dùng
+- Google: kiếm tiền từ quảng cáo, giá trị hàng nghìn tỷ đô la
+- Wikipedia: không có quảng cáo, ngân sách 170 triệu đô la
+- Google: công ty tư nhân với cổ đông
+- Wikipedia: tổ chức phi lợi nhuận thuộc về "nhân loại"
+- Google: thu thập dữ liệu người dùng để cá nhân hóa quảng cáo
+- Wikipedia: không thu thập hoặc bán dữ liệu người dùng
+
+Wikipedia vs Quora/Reddit (Cộng đồng Q&A):
+- Tất cả đều dựa vào đóng góp của cộng đồng
+- Quora/Reddit: tổ chức câu hỏi và câu trả lời, thảo luận
+- Wikipedia: tổ chức tri thức bách khoa toàn thư có cấu trúc
+- Quora/Reddit: có quảng cáo và/hoặc mô hình đăng ký cao cấp
+- Wikipedia: không có quảng cáo, không có mô hình freemium
+- Quora/Reddit: chất lượng nội dung biến động lớn
+- Wikipedia: tiêu chuẩn chất lượng và trích dẫn nghiêm ngặt
+
+Wikipedia vs ChatGPT/AI:
+- ChatGPT: được đào tạo trên dữ liệu internet, bao gồm Wikipedia
+- ChatGPT: có thể tạo ra thông tin sai lệch ("ảo giác")
+- Wikipedia: mọi tuyên bố phải được trích dẫn từ nguồn đáng tin cậy
+- ChatGPT: hộp đen - không rõ thông tin đến từ đâu
+- Wikipedia: mọi thông tin đều có nguồn trích dẫn công khai
+- Mối quan hệ: Tương lai có thể là cộng sinh - AI giúp cải thiện Wikipedia, Wikipedia cung cấp dữ liệu đào tạo đáng tin cậy cho AI
+
+Tương Lai Của Tri Thức: Ngoài Wikipedia
+
+Wikipedia đã định hình lại cách chúng ta nghĩ về tri thức trong thời đại kỹ thuật số. Nhưng nó cũng đặt ra câu hỏi về tương lai: Tiếp theo là gì?
+
+Tri thức đa phương tiện:
+Wikipedia hiện tại chủ yếu là văn bản. Nhưng thế hệ tương lai có thể mong đợi nhiều video, âm thanh, tương tác 3D, và thực tế ảo hơn. Làm thế nào Wikipedia có thể phát triển để đáp ứng điều này trong khi vẫn duy trì cam kết với nội dung miễn phí, mở?
+
+Tri thức được cá nhân hóa:
+Hiện tại, mọi người đều nhìn thấy cùng một bài viết Wikipedia. Nhưng với AI, có thể cá nhân hóa cách thức tri thức được trình bày - điều chỉnh theo mức độ chuyên môn, ngữ cảnh văn hóa, hoặc mục đích học tập của người đọc. Điều này có thể cải thiện học tập, nhưng cũng có rủi ro tạo ra "bong bóng lọc" tri thức.
+
+Tri thức được xác minh bằng blockchain:
+Một số người đề xuất sử dụng công nghệ blockchain để tạo ra các hệ thống tri thức không thể thay đổi và có thể xác minh. Điều này có thể giúp chống lại thông tin sai lệch, nhưng cũng có thể làm cho việc sửa lỗi khó khăn hơn.
+
+Tri thức phi tập trung:
+Wikipedia là tập trung ở nghĩa rằng nó được lưu trữ trên các máy chủ của Wikimedia Foundation. Một số dự án đang khám phá các mô hình hoàn toàn phi tập trung - nơi tri thức được lưu trữ trên một mạng lưới peer-to-peer, không thể bị kiểm duyệt hoặc đóng cửa bởi bất kỳ cơ quan nào.
+
+Tri thức được AI tạo ra:
+Trong tương lai, AI có thể tạo ra và cập nhật các bài viết bách khoa toàn thư tự động. Nhưng ai sẽ xác minh tính chính xác? Làm thế nào chúng ta đảm bảo rằng AI không tạo ra thiên lệch hoặc thông tin sai lệch?
+
+Những câu hỏi này không có câu trả lời dễ dàng. Nhưng Wikipedia - với hơn hai thập kỷ kinh nghiệm trong việc quản lý tri thức cộng đồng - có vị trí tốt để khám phá chúng.
+
+Lời Kêu Gọi Hành Động: Bạn Có Thể Làm Gì?
+
+Sau khi đọc về Wikipedia, bạn có thể tự hỏi: "Tôi có thể làm gì để hỗ trợ?"
+
+1. Quyên góp tiền:
+Ngay cả một khoản quyên góp nhỏ cũng giúp ích. Nếu mỗi người đọc Wikipedia quyên góp $3, Wikipedia sẽ có đủ tiền cho cả năm chỉ trong vài giờ. Hãy truy cập donate.wikimedia.org.
+
+2. Đóng góp tri thức:
+Bạn không cần phải là chuyên gia để đóng góp cho Wikipedia. Bạn có thể:
+- Sửa lỗi chính tả hoặc ngữ pháp
+- Thêm trích dẫn cho các tuyên bố chưa có nguồn
+- Cập nhật thông tin lỗi thời
+- Tạo bài viết về chủ đề bạn am hiểu
+- Dịch bài viết giữa các ngôn ngữ
+- Thêm ảnh từ Wikimedia Commons vào bài viết
+
+3. Chia sẻ tri thức:
+Khi bạn tìm thấy thông tin hữu ích trên Wikipedia, hãy chia sẻ nó. Khi bạn sử dụng Wikipedia cho nghiên cứu, hãy trích dẫn nó một cách công bằng (và kiểm tra các nguồn trích dẫn để có thông tin sâu hơn).
+
+4. Bảo vệ Wikipedia:
+Khi bạn nhìn thấy phá hoại hoặc thông tin sai lệch, hãy báo cáo nó. Khi bạn nghe ai đó nói "Wikipedia không đáng tin cậy", hãy giải thích cách nó thực sự hoạt động.
+
+5. Giáo dục người khác:
+Dạy học sinh, đồng nghiệp, hoặc bạn bè của bạn cách sử dụng Wikipedia một cách hiệu quả - không chỉ đọc, mà hiểu các nguồn trích dẫn, đánh giá chất lượng thông tin, và có thể đóng góp.
+
+6. Tham gia cộng đồng:
+Wikipedia có nhiều dự án cộng đồng - từ WikiProjects tập trung vào các chủ đề cụ thể, đến các sự kiện edit-a-thon địa phương. Tìm một cộng đồng phù hợp với sở thích của bạn.
+
+7. Sử dụng và đề xuất các dự án Wikimedia khác:
+Ngoài Wikipedia, còn có Wiktionary (từ điển), Wikiquote (trích dẫn), Wikibooks (sách giáo khoa), Wikiversity (tài nguyên học tập), Wikimedia Commons (ảnh và phương tiện), và nhiều hơn nữa. Tất cả đều miễn phí, mở, và dựa vào cộng đồng.
+
+Mỗi hành động nhỏ đóng góp vào việc duy trì một trong những tài nguyên công cộng vĩ đại nhất của nhân loại.
+
+Suy Ngẫm Cuối Cùng: Di Sản Của "Miễn Phí"
+
+Khi bạn gõ "wikipedia.org" vào trình duyệt của mình và truy cập vào một kho tri thức khổng lồ mà không phải trả một xu, không phải xem quảng cáo, không phải đăng ký - hãy dành một chút thời gian để đánh giá cao điều kỳ diệu này.
+
+Wikipedia đại diện cho một tầm nhìn khác về internet - một tầm nhìn nơi thông tin được chia sẻ một cách tự do, nơi cộng đồng tự quản lý, nơi tri thức là một quyền chứ không phải là một đặc quyền. Đây không phải là tầm nhìn chi phối - hầu hết internet được điều khiển bởi các tập đoàn lớn tìm cách kiếm tiền từ sự chú ý của bạn. Nhưng nó là một tầm nhìn tồn tại, một lựa chọn thay thế, một bằng chứng về khả năng.
+
+Trong cuốn sách này, chúng ta đã khám phá nhiều mô hình "miễn phí" - từ những dao cạo râu của Gillette đến âm nhạc streaming của Spotify. Mỗi mô hình đều có logic kinh tế riêng của nó. Nhưng Wikipedia là đặc biệt vì nó nhắc nhở chúng ta rằng "miễn phí" không chỉ là một chiến lược kinh doanh. Nó có thể là một cam kết đạo đức, một tuyên bố triết học, một hành động của niềm tin vào tốt đẹp của con người.
+
+Khi bạn tiếp tục hành trình của mình - dù bạn là một doanh nhân tìm kiếm mô hình kinh doanh, một nhà giáo dục tìm kiếm tài nguyên, hay chỉ đơn giản là một công dân của thế giới kỹ thuật số - hãy nhớ bài học của Wikipedia:
+
+"Miễn phí" có thể bền vững nếu nó được xây dựng trên nền tảng vững chắc của cộng đồng, mục đích, và tin tưởng.
+
+Tri thức, khi được chia sẻ một cách tự do, không giảm đi - nó nhân lên.
+
+Những thứ vĩ đại nhất đôi khi không được xây dựng bởi những người giàu nhất, mà bởi những người quan tâm nhiều nhất.
+
+Đó là di sản của Wikipedia. Và trong một thế giới ngày càng bị chi phối bởi lợi nhuận và tư nhân hóa, đó là một di sản đáng được trân trọng, bảo vệ, và lan truyền.
+
+Tri thức là quyền lực. Wikipedia đã làm cho quyền lực đó miễn phí cho tất cả mọi người. Và điều đó, cuối cùng, có thể là hình thức "miễn phí" mạnh mẽ nhất của tất cả.
+
+Phụ Lục Bổ Sung: Hướng Dẫn Chi Tiết Về Wikipedia
+
+Làm Thế Nào Để Bắt Đầu Đóng Góp Cho Wikipedia
+
+Nhiều người muốn đóng góp cho Wikipedia nhưng không biết bắt đầu từ đâu. Đây là hướng dẫn từng bước:
+
+Bước 1: Tạo tài khoản
+Mặc dù bạn có thể chỉnh sửa mà không cần tài khoản, việc tạo tài khoản miễn phí sẽ giúp bạn xây dựng danh tiếng trong cộng đồng và truy cập các công cụ bổ sung.
+
+Bước 2: Bắt đầu nhỏ
+Đừng cố gắng viết một bài viết hoàn chỉnh ngay lần đầu tiên. Thay vào đó:
+- Sửa lỗi chính tả trong các bài viết bạn đọc
+- Thêm liên kết nội bộ đến các bài viết liên quan
+- Cập nhật thông tin lỗi thời đơn giản (ví dụ: tuổi của ai đó)
+- Thêm trích dẫn cho các tuyên bố chưa có nguồn
+
+Bước 3: Học các quy tắc cơ bản
+Wikipedia có năm trụ cột cơ bản:
+1. Wikipedia là một bách khoa toàn thư
+2. Wikipedia được viết từ quan điểm trung lập
+3. Wikipedia là nội dung tự do mà bất kỳ ai cũng có thể sử dụng, chỉnh sửa, và phân phối
+4. Các biên tập viên phải đối xử với nhau một cách tôn trọng và lịch sự
+5. Wikipedia không có quy tắc cứng nhắc
+
+Bước 4: Tìm kiếm hỗ trợ
+- Sử dụng "Teahouse" - một diễn đàn thân thiện cho người mới
+- Tham gia "WikiProject" - các nhóm biên tập viên tập trung vào các chủ đề cụ thể
+- Đọc các hướng dẫn và tutorial được cộng đồng tạo ra
+- Đặt câu hỏi trên trang thảo luận của bài viết
+
+Bước 5: Thực hành đánh giá nguồn
+Một trong những kỹ năng quan trọng nhất là biết nguồn nào đáng tin cậy:
+- Ưu tiên: Sách học thuật, tạp chí được đánh giá ngang hàng, nguồn tin tức uy tín
+- Cẩn thận với: Blog cá nhân, diễn đàn, mạng xã hội, nguồn với xung đột lợi ích rõ ràng
+- Tránh: Nguồn tự xuất bản không được xác minh, nguồn cực đoan thiên vị
+
+Bước 6: Hiểu về bản quyền
+Wikipedia yêu cầu nội dung tự do:
+- Không sao chép/dán từ các trang web bản quyền
+- Chỉ tải lên ảnh mà bạn sở hữu hoặc có giấy phép tự do
+- Viết lại bằng từ ngữ của riêng bạn, ngay cả khi trích dẫn nguồn
+
+Bước 7: Tham gia thảo luận
+Khi có bất đồng:
+- Sử dụng trang thảo luận, không "edit war"
+- Giả định thiện chí - tin rằng người khác đang cố gắng giúp đỡ
+- Tìm kiếm sự đồng thuận, không phải chiến thắng
+- Sử dụng nguồn đáng tin cậy để hỗ trợ quan điểm của bạn
+
+Các Dự Án Wikimedia Khác Đáng Khám Phá
+
+Wikipedia không phải là dự án duy nhất của Wikimedia Foundation. Hệ sinh thái bao gồm:
+
+Wiktionary - Từ điển và từ điển đồng nghĩa đa ngôn ngữ
+Giống như Wikipedia nhưng cho định nghĩa từ, phát âm, từ nguyên, và dịch thuật. Có sẵn bằng hơn 170 ngôn ngữ.
+
+Wikimedia Commons - Kho lưu trữ phương tiện miễn phí
+Hơn 90 triệu tệp phương tiện (ảnh, video, âm thanh) được cấp phép tự do. Bất kỳ ai cũng có thể sử dụng cho bất kỳ mục đích nào, kể cả thương mại.
+
+Wikibooks - Sách giáo khoa và sách hướng dẫn miễn phí
+Các sách giáo khoa mở có thể được chỉnh sửa, in, và phân phối miễn phí. Đặc biệt hữu ích cho giáo dục ở các nước đang phát triển nơi sách giáo khoa đắt đỏ.
+
+Wikiquote - Bộ sưu tập trích dẫn
+Trích dẫn được xác minh từ mọi người nổi tiếng, sách, phim, và các tác phẩm sáng tạo khác.
+
+Wikisource - Thư viện văn bản gốc
+Văn bản nguồn miễn phí - sách cổ, tài liệu lịch sử, văn bản pháp lý. Đặc biệt có giá trị cho các nhà nghiên cứu.
+
+Wikispecies - Thư mục các loài sinh học
+Cơ sở dữ liệu mở về phân loại sinh học - hữu ích cho các nhà sinh vật học và người yêu thiên nhiên.
+
+Wikivoyage - Hướng dẫn du lịch miễn phí
+Thay thế miễn phí, mở cho các hướng dẫn du lịch thương mại như Lonely Planet.
+
+Wikinews - Nguồn tin tức cộng đồng
+Tin tức được viết bởi cộng đồng, với trọng tâm vào báo cáo gốc và trung lập.
+
+Wikiversity - Nền tảng học tập
+Tài nguyên học tập miễn phí, khóa học, và dự án nghiên cứu.
+
+Wikidata - Cơ sở dữ liệu tri thức có cấu trúc
+Dữ liệu có thể đọc được bằng máy móc, hỗ trợ tất cả các dự án Wikimedia khác và bên ngoài.
+
+Tất cả những dự án này chia sẻ triết lý giống nhau: tri thức miễn phí, mở, cộng tác. Chúng tạo thành một hệ sinh thái tri thức toàn diện và miễn phí.
+
+Tác Động Của Wikipedia Đến Các Ngành Công Nghiệp Khác
+
+Wikipedia không chỉ là một bách khoa toàn thư - nó đã thay đổi cách thức hoạt động của nhiều ngành:
+
+Xuất bản và Tham khảo:
+Encyclopedia Britannica đã ngừng xuất bản bản in. Hàng chục bách khoa toàn thư khác đã biến mất. Các nhà xuất bản sách tham khảo phải tái phát minh mô hình kinh doanh của họ.
+
+Giáo dục:
+Giáo viên đã thay đổi cách họ dạy về nghiên cứu và đánh giá nguồn. Sinh viên có quyền truy cập vào tri thức mà trước đây chỉ có sẵn trong các thư viện đại học đắt tiền.
+
+Công nghệ:
+Google, Amazon Alexa, Siri, và các trợ lý AI khác phụ thuộc nhiều vào Wikipedia cho thông tin thực tế. Các nhà phát triển sử dụng API của Wikipedia để xây dựng ứng dụng.
+
+Báo chí:
+Các nhà báo sử dụng Wikipedia như điểm khởi đầu cho nghiên cứu. Một số tổ chức tin tức đã bắt đầu đóng góp cho Wikipedia để cải thiện độ chính xác của các bài viết liên quan đến lĩnh vực của họ.
+
+Thư viện:
+Các thư viện viên đã trở thành "Wikipedians-in-Residence" - giúp cải thiện Wikipedia bằng cách sử dụng bộ sưu tập thư viện của họ như nguồn.
+
+Kinh doanh:
+Các công ty giám sát các bài viết Wikipedia về họ như một phần của quản lý danh tiếng. Một số thuê chuyên gia để đảm bảo thông tin chính xác (theo cách tuân thủ các quy tắc của Wikipedia).
+
+Wikipedia đã chứng minh rằng "miễn phí" không chỉ phá vỡ một ngành - nó có thể định hình lại toàn bộ cách chúng ta nghĩ về tri thức, quyền truy cập, và giá trị.
+
+Những Thách Thức Kỹ Thuật Đằng Sau Wikipedia
+
+Vận hành một trong những trang web lớn nhất thế giới không đơn giản. Đây là một số thách thức kỹ thuật mà Wikipedia đối mặt:
+
+Quy mô:
+15 tỷ lượt xem trang mỗi tháng đòi hỏi cơ sở hạ tầng khổng lồ. Wikipedia sử dụng hàng trăm máy chủ ở nhiều trung tâm dữ liệu trên thế giới, với cân bằng tải phức tạp và bộ nhớ đệm để đảm bảo tốc độ nhanh.
+
+Lưu trữ:
+Mỗi phiên bản của mỗi bài viết được lưu giữ vĩnh viễn trong lịch sử. Với hàng tỷ chỉnh sửa, đây là một lượng dữ liệu khổng lồ cần được lưu trữ và có thể truy cập.
+
+Băng thông:
+Phục vụ hình ảnh, video, và văn bản cho hàng tỷ người dùng tiêu tốn băng thông khổng lồ. Wikipedia phải tối ưu hóa mọi thứ để giảm thiểu chi phí.
+
+Bảo mật:
+Là một mục tiêu có cấu hình cao, Wikipedia phải bảo vệ chống lại tấn công DDoS, hacking, và các mối đe dọa khác. Điều này đòi hỏi đầu tư liên tục vào bảo mật.
+
+Phần mềm MediaWiki:
+Phần mềm chạy Wikipedia phải được duy trì và cập nhật liên tục. Nó phải hỗ trợ hàng trăm ngôn ngữ, nhiều loại nội dung, và nhu cầu của hàng triệu biên tập viên.
+
+Khả năng tiếp cận:
+Wikipedia cam kết có thể truy cập được cho người khuyết tật - đòi hỏi thiết kế cẩn thận cho trình đọc màn hình, điều hướng bàn phím, và các công nghệ hỗ trợ khác.
+
+Đa ngôn ngữ:
+Hỗ trợ hơn 300 ngôn ngữ, bao gồm các ngôn ngữ viết từ phải sang trái như tiếng Ả Rập và Hê-bơ-rơ, đòi hỏi phức tạp kỹ thuật đáng kể.
+
+Hiệu suất:
+Wikipedia phải nhanh, ngay cả trên các kết nối chậm ở các nước đang phát triển. Điều này đòi hỏi tối ưu hóa liên tục và thiết kế tối giản.
+
+Tất cả những thách thức này được giải quyết với ngân sách tương đối khiêm tốn so với các trang web lớn khác. Google có ngân sách hàng tỷ đô la cho cơ sở hạ tầng; Wikipedia có khoảng 50 triệu đô la. Hiệu quả này là một phần của câu chuyện "miễn phí" - làm nhiều hơn với ít hơn.
+
+--- HẾT CHƯƠNG WIKIPEDIA: NỀN TẢNG TRI THỨC MIỄN PHÍ VĨ ĐẠI NHẤT ---
+
+--- HẾT CHƯƠNG ---
