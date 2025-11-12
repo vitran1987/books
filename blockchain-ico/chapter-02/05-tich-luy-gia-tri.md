@@ -1,4 +1,4 @@
-# Subsection 5: Value Accrual (Tích lũy giá trị)
+# Value Accrual (Tích lũy giá trị)
 
 ## Giới Thiệu: Câu Chuyện Về Binance Coin (BNB) - Từ Token Giảm Giá Đến Blockchain Độc Lập
 
@@ -377,26 +377,3 @@ Journey through value accrual mechanisms - from fee sharing to buyback-and-burn,
 Với những insights này, bạn giờ equipped to look at bất kỳ token nào - whether established giant or ICO pitch - và critically evaluate value accrual story. You understand difference between real và fake yield. You recognize red flags of Ponzinomics và unsustainable designs. You appreciate why simplicity often beats complexity. You know questions to ask và what answers to look for. And perhaps most important, you understand that behind all technical jargon và complex mechanisms, value accrual ultimately just means "How does this thing become more valuable over time as protocol succeeds?" - và good answer to that question always grounded in business fundamentals, not financial engineering tricks.
 
 Trong next subsection, chúng ta sẽ examine detailed case studies của specific token economics designs - both successful và failed - dissecting their mechanisms, analyzing their outcomes, và extracting practical lessons applicable to future projects. We'll see these principles applied in real world với real consequences, further deepening understanding of what separates sustainable tokenomics from unsustainable hype.
-
----
-
-**Những Điểm Mấu Chốt - Value Accrual:**
-
-1. Value accrual là khả năng token bắt giữ giá trị từ sự thành công của protocol - yếu tố quyết định giữa productive asset và speculation
-2. Fee sharing tạo real yield và direct cash flows cho holders - được chứng minh bởi GMX's 15-25% APR từ actual trading fees
-3. Buyback-and-burn mechanics giảm supply creating deflationary pressure - Ethereum đã burn 4.5 million ETH qua EIP-1559
-4. Real yield từ revenue bền vững vượt xa inflationary APY từ token emissions - 15% real APR defeats 1000% fake APY
-5. Vote escrow models biến governance thành financial primitive - Curve's veCRV controlling billions trong liquidity allocation
-6. Multiple demand drivers (ETH: gas, staking, collateral, NFTs, L2 security) robust hơn single-use tokens
-7. Treasury management phải focus on long-term value creation chứ không phải short-term metrics
-8. Ponzinomics (OHM, Terra, SAFUU) inevitably collapse khi new buyer flow stops - 95-99% losses common
-9. Seven golden principles: Revenue first, real yield, multiple drivers, supply control, aligned incentives, transparency, long-term thinking
-10. Future trends: RWA integration, MEV capture, cross-chain aggregation, ve-models 2.0, AI optimization, security tokens
-11. Simplicity beats complexity - nếu can't explain tokenomics in 5 minutes, probably flawed design
-12. Ultimate test: "Nếu không ai mua token trong 1 năm, nó vẫn valuable không?" - nếu yes vì sustainable revenue, đó là good value accrual
-
----
-
-*Tổng số từ subsection: ~18,000 từ tiếng Việt*
-*Số trang ước tính: 45-50 trang A4*
-*Hoàn thành: 100%*

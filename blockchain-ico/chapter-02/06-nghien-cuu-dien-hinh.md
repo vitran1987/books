@@ -1,4 +1,4 @@
-# Subsection 6: Nghiên Cứu Điển Hình - Khi Lý Thuyết Gặp Thực Tế
+# Nghiên Cứu Điển Hình - Khi Lý Thuyết Gặp Thực Tế
 
 ## Giới Thiệu: Học Từ Những Người Đi Trước
 

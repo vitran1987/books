@@ -1,4 +1,4 @@
-# Subsection 4: Tạo Động Lực (Incentive Mechanisms)
+# Tạo Động Lực (Incentive Mechanisms)
 
 ## Giới Thiệu: Câu Chuyện Về "DeFi Summer" 2020
 
@@ -51,6 +51,7 @@ Curve Finance đã cung cấp một câu trả lời thông minh hơn cho vấn 
 Curve Finance là một DEX chuyên về stablecoin swaps. Họ đã thiết kế liquidity mining một cách bền vững hơn:
 
 **CRV Tokenomics:**
+
 - LPs cung cấp thanh khoản → Nhận trading fees + CRV tokens
 - Muốn tối đa hóa CRV rewards? → Stake CRV thành veCRV (vote-escrowed CRV)
 - veCRV không thể transfer, chỉ có thể unlock sau 1-4 năm
@@ -68,6 +69,7 @@ Kết quả: Curve có TVL hơn **2,5 tỷ USD** và là nền tảng stablecoin
 Vấn đề của liquidity mining là nó không bền vững mãi mãi. Bạn không thể in token mãi mãi để trả LPs.
 
 Các chiến lược hiện đại:
+
 1. **Tapering rewards**: Giảm dần rewards theo thời gian khi protocol trưởng thành
 2. **Fee sharing**: Chuyển từ token rewards sang chia sẻ trading fees
 3. **Dual incentives**: Kết hợp token rewards + fee sharing
