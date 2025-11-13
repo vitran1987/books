@@ -5,7 +5,7 @@
 Chúng ta đã đi qua một chương dài và đầy thông tin về Token Economics - một trong những khía cạnh quan trọng nhất và cũng phức tạp nhất của thế giới blockchain và cryptocurrency.
 
 Hãy cùng nhìn lại những gì chúng ta đã học:
-﻿# Chương 2 — Kết Luận Chương: Token Economics dưới Góc Nhìn Câu Chuyện
+# Chương 2 — Kết Luận Chương: Token Economics dưới Góc Nhìn Câu Chuyện
 
 Vào một buổi tối mùa đông năm 2019, trong một cuộc họp nhỏ tại một quán cà phê ở trung tâm thành phố, hai người trẻ trao đổi về một ý tưởng: làm sao để một token không chỉ là tờ giấy kĩ thuật số cho nhà đầu tư mà thật sự trở thành "một nền kinh tế thu nhỏ" — có người dùng, có dòng doanh thu, và có khả năng tồn tại qua nhiều chu kỳ thị trường. Câu chuyện đó nghe có vẻ đơn giản, nhưng trong những năm sau đó nó trở thành chủ đề xuyên suốt của toàn bộ chương này.
 

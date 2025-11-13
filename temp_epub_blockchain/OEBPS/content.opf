@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:identifier id="bookid">blockchain-ico-20251113195935</dc:identifier>
+        <dc:title>Blockchain, ICO và Token Economics</dc:title>
+        <dc:creator>Blockchain Expert Team</dc:creator>
+        <dc:language>vi</dc:language>
+        <dc:date>2025-11-13</dc:date>
+        <dc:publisher>Blockchain Publishing</dc:publisher>
+        <dc:subject>Blockchain</dc:subject>
+        <dc:subject>ICO</dc:subject>
+        <dc:subject>Token Economics</dc:subject>
+        <dc:subject>Cryptocurrency</dc:subject>
+        <dc:subject>Smart Contracts</dc:subject>
+        <dc:description>Hướng dẫn toàn diện về Initial Coin Offering (ICO) và Token Economics, bao gồm lịch sử, quy trình, bài học thành công, thất bại, pháp lý, và thiết kế kinh tế token trong thực tế</dc:description>
+        <dc:rights>© 2025 Blockchain Expert Team</dc:rights>
+        <meta property="dcterms:modified">2025-11-13T19:59:35Z</meta>
+    </metadata>
+
+    <manifest>
+        <item id="nav" href="content/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+        <item id="title-page" href="content/title-page.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-001" href="content/section-001.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-002" href="content/section-002.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-003" href="content/section-003.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-004" href="content/section-004.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-005" href="content/section-005.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-006" href="content/section-006.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-007" href="content/section-007.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-008" href="content/section-008.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-009" href="content/section-009.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-010" href="content/section-010.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-011" href="content/section-011.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-012" href="content/section-012.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-013" href="content/section-013.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-014" href="content/section-014.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-015" href="content/section-015.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-016" href="content/section-016.xhtml" media-type="application/xhtml+xml"/>
+        <item id="css" href="styles/main.css" media-type="text/css"/>
+    </manifest>
+
+    <spine>
+        <itemref idref="title-page"/>
+        <itemref idref="nav"/>
+        <itemref idref="section-001"/>
+        <itemref idref="section-002"/>
+        <itemref idref="section-003"/>
+        <itemref idref="section-004"/>
+        <itemref idref="section-005"/>
+        <itemref idref="section-006"/>
+        <itemref idref="section-007"/>
+        <itemref idref="section-008"/>
+        <itemref idref="section-009"/>
+        <itemref idref="section-010"/>
+        <itemref idref="section-011"/>
+        <itemref idref="section-012"/>
+        <itemref idref="section-013"/>
+        <itemref idref="section-014"/>
+        <itemref idref="section-015"/>
+        <itemref idref="section-016"/>
+    </spine>
+
+    <guide>
+        <reference type="title-page" title="Title Page" href="content/title-page.xhtml"/>
+        <reference type="toc" title="Table of Contents" href="content/nav.xhtml"/>
+        <reference type="text" title="Start of Content" href="content/section-001.xhtml"/>
+    </guide>
+</package>

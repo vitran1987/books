@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:identifier id="bookid">harvard-handbook-20251104163647</dc:identifier>
+        <dc:title>Cẩm nang doanh nhân - HBR Handbook - Cảm nang quản trị toàn tập từ Harvard</dc:title>
+        <dc:creator>Harvard Business Review</dc:creator>
+        <dc:language>vi</dc:language>
+        <dc:date>2025-11-04</dc:date>
+        <dc:publisher>AI Book Converter</dc:publisher>
+        <dc:subject>Khởi nghiệp</dc:subject>
+        <dc:subject>Kinh doanh</dc:subject>
+        <dc:subject>Quản trị</dc:subject>
+        <dc:description>Cuốn sách cẩm nang toàn tập về khởi nghiệp từ Harvard Business Review, cung cấp kiến thức và công cụ cần thiết để thành lập và phát triển doanh nghiệp thành công.</dc:description>
+        <dc:rights>© Harvard Business Review</dc:rights>
+        <meta property="dcterms:modified">2025-11-04T16:36:47Z</meta>
+        
+    </metadata>
+
+    <manifest>
+                <item id="nav" href="content/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+        <item id="cover" href="content/cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="title-page" href="content/title-page.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-01" href="content/chapter-01.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-02" href="content/chapter-02.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-03" href="content/chapter-03.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-04" href="content/chapter-04.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-05" href="content/chapter-05.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-06" href="content/chapter-06.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-07" href="content/chapter-07.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-08" href="content/chapter-08.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-09" href="content/chapter-09.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-10" href="content/chapter-10.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-11" href="content/chapter-11.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-12" href="content/chapter-12.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-13" href="content/chapter-13.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-14" href="content/chapter-14.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-15" href="content/chapter-15.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-16" href="content/chapter-16.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-17" href="content/chapter-17.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-18" href="content/chapter-18.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-19" href="content/chapter-19.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-20" href="content/chapter-20.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-21" href="content/chapter-21.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-22" href="content/chapter-22.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-23" href="content/chapter-23.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-24" href="content/chapter-24.xhtml" media-type="application/xhtml+xml"/>
+        <item id="chapter-25" href="content/chapter-25.xhtml" media-type="application/xhtml+xml"/>
+        <item id="css" href="styles/main.css" media-type="text/css"/>
+    </manifest>
+
+    <spine>
+                <itemref idref="cover"/>
+        <itemref idref="title-page"/>
+        <itemref idref="nav"/>
+        <itemref idref="chapter-01"/>
+        <itemref idref="chapter-02"/>
+        <itemref idref="chapter-03"/>
+        <itemref idref="chapter-04"/>
+        <itemref idref="chapter-05"/>
+        <itemref idref="chapter-06"/>
+        <itemref idref="chapter-07"/>
+        <itemref idref="chapter-08"/>
+        <itemref idref="chapter-09"/>
+        <itemref idref="chapter-10"/>
+        <itemref idref="chapter-11"/>
+        <itemref idref="chapter-12"/>
+        <itemref idref="chapter-13"/>
+        <itemref idref="chapter-14"/>
+        <itemref idref="chapter-15"/>
+        <itemref idref="chapter-16"/>
+        <itemref idref="chapter-17"/>
+        <itemref idref="chapter-18"/>
+        <itemref idref="chapter-19"/>
+        <itemref idref="chapter-20"/>
+        <itemref idref="chapter-21"/>
+        <itemref idref="chapter-22"/>
+        <itemref idref="chapter-23"/>
+        <itemref idref="chapter-24"/>
+        <itemref idref="chapter-25"/>
+    </spine>
+
+    <guide>
+        <reference type="cover" title="Cover" href="content/cover.xhtml"/>
+        <reference type="title-page" title="Title Page" href="content/title-page.xhtml"/>
+        <reference type="toc" title="Table of Contents" href="content/nav.xhtml"/>
+        <reference type="text" title="Start of Content" href="content/chapter-01.xhtml"/>
+    </guide>
+</package>
