@@ -1,6 +1,6 @@
 ## 1.3 Quy Trình Tổ Chức Một ICO: Từ Ý Tưởng Đến Token Sale
 
-Để hiểu rõ hơn về cách một ICO thực sự hoạt động, không gì bằng việc đi qua một ví dụ cụ thể về cách một dự án đã thực hiện quá trình này từ đầu đến cuối. Hãy nhìn vào trường hợp của Brave Software và token BAT (Basic Attention Token) của họ, một trong những ICO được tổ chức tốt nhất và thành công nhất vào năm 2017.
+Sau khi hiểu về lịch sử ICO (phần 1.1) và các ưu điểm so với phương thức gây quỹ truyền thống (phần 1.2), câu hỏi tự nhiên tiếp theo là: một ICO thực sự được tổ chức như thế nào? Để hiểu rõ hơn về quy trình này, không gì bằng việc đi qua một ví dụ cụ thể về cách một dự án đã thực hiện từ đầu đến cuối. Hãy nhìn vào trường hợp của Brave Software và token BAT (Basic Attention Token) của họ, một trong những ICO được tổ chức tốt nhất và thành công nhất vào năm 2017.
 
 Brave là một trình duyệt web tập trung vào quyền riêng tư, được tạo ra bởi Brendan Eich, người đồng sáng lập Mozilla và là cha đẻ của ngôn ngữ lập trình JavaScript. Vào đầu năm 2017, Brave đã có khoảng một triệu người dùng sử dụng trình duyệt của họ, nhưng họ cần vốn để mở rộng và xây dựng một hệ sinh thái quảng cáo phi tập trung mới dựa trên blockchain. Thay vì đi theo con đường truyền thống là huy động vốn từ các quỹ đầu tư, Brave quyết định tổ chức một ICO để bán token BAT. Quyết định này không chỉ giúp họ huy động được vốn cần thiết mà còn tạo ra một cộng đồng người dùng đầu tư vào sự thành công của nền tảng.
 
