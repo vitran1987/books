@@ -20,7 +20,7 @@ class BlockchainICOEPUBGenerator:
         self.base_chapter_dir = Path(".")
         self.output_dir = Path("./epub-temp-blockchain-ico")
         self.epub_file = Path("./blockchain-ico-token-economics.epub")
-        self.cover_image = Path("./book_cover_blockchain.png")
+        self.cover_image = Path("./book_cover.png")
         self.book_id = f"blockchain-ico-{datetime.now().strftime('%Y%m%d%H%M%S')}"
         self.has_cover_image = False  # Track if cover image exists
         
@@ -54,6 +54,78 @@ class BlockchainICOEPUBGenerator:
                     {"file": "06-nghien-cuu-dien-hinh.md", "title": "Nghiên Cứu Điển Hình"},
                     {"file": "07-tong-hop-thiet-ke-thuc-te.md", "title": "Tổng Hợp Thiết Kế Thực Tế"},
                     {"file": "08-ket-luan-chuong.md", "title": "Kết Luận Chương"}
+                ]
+            },
+            {
+                "num": 3,
+                "title": "Sự Tiến Hóa Của Gây Quỹ Blockchain - Từ ICO Đến IEO",
+                "dir": "chapter-03",
+                "sections": [
+                    {"file": "01-ieo-initial-exchange-offering.md", "title": "IEO - Initial Exchange Offering"},
+                    {"file": "02-ido-initial-dex-offering.md", "title": "IDO - Initial DEX Offering"},
+                    {"file": "03-launchpads-and-airdrops.md", "title": "Launchpads và Airdrops"}
+                ]
+            },
+            {
+                "num": 4,
+                "title": "Pháp Lý Và Quy Định - Bài Học Từ SEC",
+                "dir": "chapter-04",
+                "sections": [
+                    {"file": "01-howey-test-and-sec.md", "title": "Howey Test và SEC"},
+                    {"file": "02-global-regulatory-landscape.md", "title": "Bối Cảnh Pháp Lý Toàn Cầu"},
+                    {"file": "03-compliance-strategies.md", "title": "Chiến Lược Tuân Thủ"}
+                ]
+            },
+            {
+                "num": 5,
+                "title": "DeFi - Tài Chính Phi Tập Trung",
+                "dir": "chapter-05",
+                "sections": [
+                    {"file": "01-defi-protocol-fundamentals.md", "title": "Nguyên Lý Cơ Bản DeFi Protocol"},
+                    {"file": "02-yield-farming-and-liquidity-mining.md", "title": "Yield Farming và Liquidity Mining"},
+                    {"file": "03-defi-risks-and-security.md", "title": "Rủi Ro DeFi và Bảo Mật"}
+                ]
+            },
+            {
+                "num": 6,
+                "title": "DAO - Tổ Chức Tự Trị Phi Tập Trung",
+                "dir": "chapter-06",
+                "sections": [
+                    {"file": "01-dao-governance-fundamentals.md", "title": "Nguyên Lý Quản Trị DAO"},
+                    {"file": "02-dao-case-studies-and-lessons.md", "title": "Nghiên Cứu Điển Hình DAO và Bài Học"}
+                ]
+            },
+            {
+                "num": 7,
+                "title": "NFT và Metaverse - Kinh Tế Sở Hữu Kỹ Thuật Số",
+                "dir": "chapter-07",
+                "sections": [
+                    {"file": "01-nft-fundamentals-and-mechanics.md", "title": "Nguyên Lý Cơ Bản và Cơ Chế NFT"},
+                    {"file": "02-nft-boom-bust-and-lessons.md", "title": "Chu Kỳ Bùng Nổ - Sụp Đổ NFT và Bài Học"}
+                ]
+            },
+            {
+                "num": 8,
+                "title": "Stablecoins - Đồng Tiền Ổn Định",
+                "dir": "chapter-08",
+                "sections": [
+                    {"file": "01-stablecoins-and-terra-case-study.md", "title": "Stablecoins và Nghiên Cứu Điển Hình Terra"}
+                ]
+            },
+            {
+                "num": 9,
+                "title": "RWA - Token Hóa Thế Giới Thực",
+                "dir": "chapter-09",
+                "sections": [
+                    {"file": "01-rwa-tokenization.md", "title": "Token Hóa Tài Sản Thế Giới Thực"}
+                ]
+            },
+            {
+                "num": 10,
+                "title": "Tương Lai - Từ Miễn Phí Đến Vô Hạn",
+                "dir": "chapter-10",
+                "sections": [
+                    {"file": "01-tuong-lai-va-ket-luan.md", "title": "Tương Lai và Kết Luận"}
                 ]
             }
         ]
@@ -289,11 +361,12 @@ class BlockchainICOEPUBGenerator:
     <h1>Blockchain, ICO và Token Economics</h1>
     <p class="subtitle">Hướng Dẫn Toàn Diện Về Phát Hành Đồng Tiền Lần Đầu và Thiết Kế Kinh Tế Token</p>
     <div class="publication-info">
-        <p><strong>Chủ đề:</strong> Blockchain, Cryptocurrency, ICO, Token Economics</p>
+        <p><strong>Chủ đề:</strong> Blockchain, Cryptocurrency, ICO, Token Economics, DeFi, DAO, NFT</p>
         <p><strong>Năm xuất bản:</strong> 2025</p>
         <p><strong>Ngôn ngữ:</strong> Tiếng Việt</p>
-        <p><strong>Số chương:</strong> 2 chương toàn diện với 16 phần</p>
-        <p><strong>Phạm vi:</strong> Từ lịch sử ICO đến thiết kế tokenomics thực tiễn</p>
+        <p><strong>Số chương:</strong> 10 chương toàn diện</p>
+        <p><strong>Phạm vi:</strong> Từ lịch sử ICO đến token hóa tài sản thực và tương lai blockchain</p>
+        <p><strong>Nội dung:</strong> ICO, Token Economics, IEO/IDO, Pháp lý, DeFi, DAO, NFT, Stablecoins, RWA, Future Trends</p>
     </div>
 </body>
 </html>'''
@@ -487,7 +560,7 @@ nav a:hover {
 
         # Metadata
         title = "Blockchain, ICO và Token Economics"
-        description = "Hướng dẫn toàn diện về Initial Coin Offering (ICO) và Token Economics, bao gồm lịch sử, quy trình, bài học thành công, thất bại, pháp lý, và thiết kế kinh tế token trong thực tế"
+        description = "Hướng dẫn toàn diện về Initial Coin Offering (ICO), Token Economics, và toàn bộ hệ sinh thái blockchain fundraising. Bao gồm 10 chương: ICO, Token Economics, IEO/IDO, Pháp lý, DeFi, DAO, NFT, Stablecoins, RWA Tokenization, và tương lai blockchain. Từ lịch sử, quy trình, bài học thành công/thất bại đến thiết kế kinh tế token, quản trị phi tập trung, và ứng dụng thực tế."
 
         # Build cover meta tag only if cover exists
         cover_meta = ''
@@ -582,8 +655,8 @@ nav a:hover {
     def generate(self):
         """Main generation process"""
         print("🚀 Starting Blockchain ICO & Token Economics EPUB generation...")
-        print("📊 Target: 2 chapters with 16 comprehensive sections")
-        print("� Topics: ICO revolution, fundraising, token types, tokenomics design")
+        print("📊 Target: 10 chapters with comprehensive sections")
+        print("📚 Topics: ICO, Token Economics, IEO/IDO, Regulations, DeFi, DAO, NFT, Stablecoins, RWA, Future")
         print("=" * 70)
 
         try:
@@ -602,11 +675,11 @@ nav a:hover {
             print("=" * 70)
             print("🎉 Blockchain ICO & Token Economics EPUB generation completed!")
             print(f"📚 Output file: {self.epub_file}")
-            print("📊 Structure: 2 chapters, 16 sections")
-            print("🔗 Content: ICO history, process, success stories, tokenomics design")
+            print("📊 Structure: 10 chapters covering full blockchain fundraising ecosystem")
+            print("🔗 Content: ICO, Token Economics, IEO/IDO, Legal, DeFi, DAO, NFT, Stablecoins, RWA, Future")
             print("✅ Optimized for reading experience")
             if not self.has_cover_image:
-                print("⚠️  Note: Generated without cover image (add book_cover_blockchain.png for cover)")
+                print("⚠️  Note: Generated without cover image (add book_cover.png for cover)")
             print("🔄 Ready for distribution")
 
         except Exception as e:
