@@ -29,6 +29,36 @@
 - Provide actionable business implementation guidance
 - Maintain narrative flow between sections (no lists of disconnected points)
 
+## Opening Pattern Rules (CRITICAL - NO EXCEPTIONS)
+
+**NEVER use repetitive time-based opening patterns such as:**
+- ❌ "Vào một buổi sáng/chiều/tối... ngày tháng năm, một người nào đó đang làm gì đó..."
+- ❌ "Vào ngày X tháng Y năm Z, [person] đã..."
+- ❌ "Vào tháng X năm Y, khi [situation]..."
+- ❌ Any variation starting with time/date markers followed by character introduction
+
+**ALWAYS use varied, engaging openings that emphasize:**
+- ✅ Character's emotional state, decision, or unusual situation (lead with the person/action)
+- ✅ Extraordinary nature of event or outcome (lead with impact/drama)
+- ✅ Crisis, tension, or conflict (lead with the problem)
+- ✅ Surprising statistics or achievements (lead with numbers)
+- ✅ Questions, doubts, or controversy (lead with uncertainty)
+- ✅ Immediate action in progress (drop readers into ongoing situation)
+- ✅ Revolutionary impact or transformation (lead with change)
+
+**Examples of GOOD openings:**
+- "Giao dịch phi thường xuất hiện trên mạng Ethereum khiến cả cộng đồng tài chính choáng váng..."
+- "Michael Chen cảm thấy lo lắng khi đặt 50 ETH vào ICO DeepVault..."
+- "Cuộc tấn công tinh vi nhất lịch sử DeFi vừa diễn ra..."
+- "Hàng nghìn người đồng loạt theo dõi livestream với hồi hộp nghẹt thở..."
+- "Blur marketplace phá vỡ thị trường NFT bằng cách biến royalties thành tùy chọn..."
+- "Thị trường NFT vẫn chỉ là góc nhỏ niche đầu 2021, rồi bùng nổ thành hiện tượng toàn cầu..."
+
+**If time/date context is needed:**
+- Place it AFTER the engaging opening hook
+- Weave it naturally into the second or third sentence
+- Use as supporting context, not as the primary opening element
+
 ## Quality Standards
 
 - All claims verified and sourced

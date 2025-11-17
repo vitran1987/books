@@ -52,8 +52,7 @@ class BlockchainICOEPUBGenerator:
                     {"file": "04-tao-dong-luc.md", "title": "Tạo Động Lực"},
                     {"file": "05-tich-luy-gia-tri.md", "title": "Tích Lũy Giá Trị"},
                     {"file": "06-nghien-cuu-dien-hinh.md", "title": "Nghiên Cứu Điển Hình"},
-                    {"file": "07-tong-hop-thiet-ke-thuc-te.md", "title": "Tổng Hợp Thiết Kế Thực Tế"},
-                    {"file": "08-ket-luan-chuong.md", "title": "Kết Luận Chương"}
+                    {"file": "07-ket-luan-chuong.md", "title": "Kết Luận Chương"}
                 ]
             },
             {
