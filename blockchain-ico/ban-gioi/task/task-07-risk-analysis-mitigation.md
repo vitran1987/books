@@ -4,6 +4,8 @@
 **Ưu tiên:** Cao  
 **Thời gian:** 6-7 ngày
 
+**FILE KẾT QUẢ:** `blockchain-ico\ban-gioi\internal-book\chuong-07-risk-analysis-mitigation.md`
+
 ---
 
 ## MỤC TIÊU

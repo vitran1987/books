@@ -4,6 +4,8 @@
 **Ưu tiên:** Rất Cao (Critical)  
 **Thời gian ước tính:** 6-8 ngày
 
+**FILE KẾT QUẢ:** `blockchain-ico\ban-gioi\internal-book\chuong-03-howey-test-legal-compliance.md`
+
 ---
 
 ## MỤC TIÊU CHƯƠNG

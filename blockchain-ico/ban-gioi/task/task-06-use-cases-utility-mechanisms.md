@@ -4,6 +4,8 @@
 **Ưu tiên:** Cao  
 **Thời gian:** 5-7 ngày
 
+**FILE KẾT QUẢ:** `blockchain-ico\ban-gioi\internal-book\chuong-06-use-cases-utility-mechanisms.md`
+
 ---
 
 ## MỤC TIÊU

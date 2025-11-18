@@ -4,6 +4,8 @@
 **Ưu tiên:** Cao  
 **Thời gian ước tính:** 6-8 ngày
 
+**FILE KẾT QUẢ:** `blockchain-ico\ban-gioi\internal-book\chuong-04-community-fundraising-strategy.md`
+
 ---
 
 ## MỤC TIÊU CHƯƠNG

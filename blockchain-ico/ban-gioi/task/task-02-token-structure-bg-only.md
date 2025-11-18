@@ -4,6 +4,8 @@
 **Ưu tiên:** Cao  
 **Thời gian ước tính:** 5-7 ngày
 
+**FILE KẾT QUẢ:** `blockchain-ico\ban-gioi\internal-book\chuong-02-token-structure-bg-only.md`
+
 ---
 
 ## MỤC TIÊU CHƯƠNG

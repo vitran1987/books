@@ -4,6 +4,8 @@
 **Ưu tiên:** Rất Cao  
 **Thời gian:** 6-8 ngày
 
+**FILE KẾT QUẢ:** `blockchain-ico\ban-gioi\internal-book\chuong-05-tokenomics-design-distribution.md`
+
 ---
 
 ## MỤC TIÊU
