@@ -41,6 +41,14 @@ class BlockchainICOEPUBGenerator:
                 "sections": [
                     {"file": "chuong-02-token-structure-bg-only.md", "title": "Cấu Trúc Token BG"}
                 ]
+            },
+            {
+                "num": 3, 
+                "title": "Tránh Howey Test - Pháp Lý và Tuân Thủ", 
+                "dir": ".",
+                "sections": [
+                    {"file": "chuong-03-howey-test-legal-compliance.md", "title": "Tránh Howey Test - Pháp Lý và Tuân Thủ"}
+                ]
             }
         ]
 
@@ -281,12 +289,12 @@ class BlockchainICOEPUBGenerator:
     <h1>BG Internal Book</h1>
     <p class="subtitle">Governance và Token Economics - Tài Liệu Nội Bộ</p>
     <div class="publication-info">
-        <p><strong>Chủ đề:</strong> Governance, Strategic Decision, BG Token Economics</p>
+        <p><strong>Chủ đề:</strong> Governance, Strategic Decision, BG Token Economics, Legal Compliance</p>
         <p><strong>Năm xuất bản:</strong> 2025</p>
         <p><strong>Ngôn ngữ:</strong> Tiếng Việt</p>
-        <p><strong>Số chương:</strong> 2 chương chuyên sâu</p>
-        <p><strong>Phạm vi:</strong> Quản trị, quyết định chiến lược và thiết kế tokenomics BG</p>
-        <p><strong>Nội dung:</strong> Governance &amp; Strategic Decision, Token Structure (BG Only)</p>
+        <p><strong>Số chương:</strong> 3 chương chuyên sâu</p>
+        <p><strong>Phạm vi:</strong> Quản trị, quyết định chiến lược, thiết kế tokenomics BG và tuân thủ pháp lý</p>
+        <p><strong>Nội dung:</strong> Governance &amp; Strategic Decision, Token Structure (BG Only), Howey Test &amp; Legal Compliance</p>
     </div>
 </body>
 </html>'''
@@ -480,7 +488,7 @@ nav a:hover {
 
         # Metadata
         title = "BG Internal Book - Governance và Token Economics"
-        description = "Tài liệu nội bộ về quản trị và cấu trúc token của BG. Bao gồm 2 chương: Governance và Quyết Định Chiến Lược, Cấu Trúc Token BG. Tập trung vào các quyết định quản trị, cơ chế ra quyết định chiến lược, và thiết kế tokenomics đặc thù cho hệ sinh thái BG."
+        description = "Tài liệu nội bộ về quản trị và cấu trúc token của BG. Bao gồm 3 chương: Governance và Quyết Định Chiến Lược, Cấu Trúc Token BG, Tránh Howey Test - Pháp Lý và Tuân Thủ. Tập trung vào các quyết định quản trị, cơ chế ra quyết định chiến lược, thiết kế tokenomics đặc thù cho hệ sinh thái BG, và chiến lược tuân thủ pháp lý để tránh bị phân loại là chứng khoán."
 
         # Build cover meta tag only if cover exists
         cover_meta = ''
@@ -506,6 +514,9 @@ nav a:hover {
         <dc:subject>BG Tokenomics</dc:subject>
         <dc:subject>Strategic Decision</dc:subject>
         <dc:subject>Internal Documentation</dc:subject>
+        <dc:subject>Howey Test</dc:subject>
+        <dc:subject>Legal Compliance</dc:subject>
+        <dc:subject>Securities Law</dc:subject>
         <dc:description>{description}</dc:description>
         <dc:rights>© 2025 BG Team - Internal Use Only</dc:rights>
         <meta property="dcterms:modified">{datetime.now().strftime('%Y-%m-%dT%H:%M:%SZ')}</meta>{cover_meta}
@@ -575,8 +586,8 @@ nav a:hover {
     def generate(self):
         """Main generation process"""
         print("🚀 Starting BG Internal Book EPUB generation...")
-        print("📊 Target: 2 chapters focused on BG governance and tokenomics")
-        print("📚 Topics: Governance & Strategic Decision, Token Structure (BG Only)")
+        print("📊 Target: 3 chapters focused on BG governance, tokenomics and legal compliance")
+        print("📚 Topics: Governance & Strategic Decision, Token Structure (BG Only), Howey Test & Legal Compliance")
         print("=" * 70)
 
         try:
@@ -595,8 +606,8 @@ nav a:hover {
             print("="  * 70)
             print("🎉 BG Internal Book EPUB generation completed!")
             print(f"📚 Output file: {self.epub_file}")
-            print("📊 Structure: 2 chapters focused on BG governance and tokenomics")
-            print("🔗 Content: Governance & Strategic Decision, Token Structure (BG Only)")
+            print("📊 Structure: 3 chapters focused on BG governance, tokenomics and legal compliance")
+            print("🔗 Content: Governance & Strategic Decision, Token Structure (BG Only), Howey Test & Legal Compliance")
             print("✅ Optimized for reading experience")
             if not self.has_cover_image:
                 print("⚠️  Note: Generated without cover image (add book_cover.png for cover)")
