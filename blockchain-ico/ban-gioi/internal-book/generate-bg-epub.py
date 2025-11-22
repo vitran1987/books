@@ -49,6 +49,54 @@ class BlockchainICOEPUBGenerator:
                 "sections": [
                     {"file": "chuong-03-howey-test-legal-compliance.md", "title": "Tránh Howey Test - Pháp Lý và Tuân Thủ"}
                 ]
+            },
+            {
+                "num": 4, 
+                "title": "Chiến Lược Gọi Vốn và Xây Dựng Cộng Đồng", 
+                "dir": ".",
+                "sections": [
+                    {"file": "chuong-04-community-fundraising-strategy.md", "title": "Chiến Lược Gọi Vốn và Xây Dựng Cộng Đồng"}
+                ]
+            },
+            {
+                "num": 5, 
+                "title": "Thiết Kế Tokenomics và Phân Phối", 
+                "dir": ".",
+                "sections": [
+                    {"file": "chuong-05-tokenomics-design-distribution.md", "title": "Thiết Kế Tokenomics và Phân Phối"}
+                ]
+            },
+            {
+                "num": 6, 
+                "title": "Use Cases và Cơ Chế Utility", 
+                "dir": ".",
+                "sections": [
+                    {"file": "chuong-06-use-cases-utility-mechanisms.md", "title": "Use Cases và Cơ Chế Utility"}
+                ]
+            },
+            {
+                "num": 7, 
+                "title": "Phân Tích Rủi Ro và Giảm Thiểu", 
+                "dir": ".",
+                "sections": [
+                    {"file": "chuong-07-risk-analysis-mitigation.md", "title": "Phân Tích Rủi Ro và Giảm Thiểu"}
+                ]
+            },
+            {
+                "num": 8, 
+                "title": "Lộ Trình Triển Khai", 
+                "dir": ".",
+                "sections": [
+                    {"file": "chuong-08-implementation-roadmap.md", "title": "Lộ Trình Triển Khai"}
+                ]
+            },
+            {
+                "num": 9, 
+                "title": "Tuân Thủ Luật Doanh Nghiệp Việt Nam", 
+                "dir": ".",
+                "sections": [
+                    {"file": "chuong-09-vietnam-enterprise-law-compliance.md", "title": "Tuân Thủ Luật Doanh Nghiệp Việt Nam"}
+                ]
             }
         ]
 
@@ -292,9 +340,9 @@ class BlockchainICOEPUBGenerator:
         <p><strong>Chủ đề:</strong> Governance, Strategic Decision, BG Token Economics, Legal Compliance</p>
         <p><strong>Năm xuất bản:</strong> 2025</p>
         <p><strong>Ngôn ngữ:</strong> Tiếng Việt</p>
-        <p><strong>Số chương:</strong> 3 chương chuyên sâu</p>
-        <p><strong>Phạm vi:</strong> Quản trị, quyết định chiến lược, thiết kế tokenomics BG và tuân thủ pháp lý</p>
-        <p><strong>Nội dung:</strong> Governance &amp; Strategic Decision, Token Structure (BG Only), Howey Test &amp; Legal Compliance</p>
+        <p><strong>Số chương:</strong> 9 chương chuyên sâu</p>
+        <p><strong>Phạm vi:</strong> Quản trị, quyết định chiến lược, thiết kế tokenomics BG, tuân thủ pháp lý, chiến lược gọi vốn, phân tích rủi ro và lộ trình triển khai</p>
+        <p><strong>Nội dung:</strong> Governance, Token Structure, Legal Compliance, Fundraising Strategy, Tokenomics Design, Use Cases, Risk Analysis, Implementation Roadmap, Vietnam Law Compliance</p>
     </div>
 </body>
 </html>'''
@@ -488,7 +536,7 @@ nav a:hover {
 
         # Metadata
         title = "BG Internal Book - Governance và Token Economics"
-        description = "Tài liệu nội bộ về quản trị và cấu trúc token của BG. Bao gồm 3 chương: Governance và Quyết Định Chiến Lược, Cấu Trúc Token BG, Tránh Howey Test - Pháp Lý và Tuân Thủ. Tập trung vào các quyết định quản trị, cơ chế ra quyết định chiến lược, thiết kế tokenomics đặc thù cho hệ sinh thái BG, và chiến lược tuân thủ pháp lý để tránh bị phân loại là chứng khoán."
+        description = "Tài liệu nội bộ toàn diện về quản trị và cấu trúc token của BG. Bao gồm 9 chương: Governance và Quyết Định Chiến Lược, Cấu Trúc Token BG, Tránh Howey Test - Pháp Lý và Tuân Thủ, Chiến Lược Gọi Vốn và Xây Dựng Cộng Đồng, Thiết Kế Tokenomics và Phân Phối, Use Cases và Cơ Chế Utility, Phân Tích Rủi Ro và Giảm Thiểu, Lộ Trình Triển Khai, và Tuân Thủ Luật Doanh Nghiệp Việt Nam. Tập trung vào các quyết định quản trị, cơ chế ra quyết định chiến lược, thiết kế tokenomics đặc thù cho hệ sinh thái BG, chiến lược tuân thủ pháp lý quốc tế và Việt Nam, cùng với lộ trình triển khai thực tế."
 
         # Build cover meta tag only if cover exists
         cover_meta = ''
@@ -586,8 +634,8 @@ nav a:hover {
     def generate(self):
         """Main generation process"""
         print("🚀 Starting BG Internal Book EPUB generation...")
-        print("📊 Target: 3 chapters focused on BG governance, tokenomics and legal compliance")
-        print("📚 Topics: Governance & Strategic Decision, Token Structure (BG Only), Howey Test & Legal Compliance")
+        print("📊 Target: 9 chapters covering comprehensive BG governance, tokenomics and compliance")
+        print("📚 Topics: Governance, Token Structure, Legal Compliance, Fundraising, Tokenomics Design, Use Cases, Risk Analysis, Implementation Roadmap, Vietnam Law")
         print("=" * 70)
 
         try:
@@ -606,8 +654,8 @@ nav a:hover {
             print("="  * 70)
             print("🎉 BG Internal Book EPUB generation completed!")
             print(f"📚 Output file: {self.epub_file}")
-            print("📊 Structure: 3 chapters focused on BG governance, tokenomics and legal compliance")
-            print("🔗 Content: Governance & Strategic Decision, Token Structure (BG Only), Howey Test & Legal Compliance")
+            print("📊 Structure: 9 chapters covering comprehensive BG governance, tokenomics and compliance")
+            print("🔗 Content: Governance, Token Structure, Legal Compliance, Fundraising, Tokenomics Design, Use Cases, Risk Analysis, Implementation Roadmap, Vietnam Law")
             print("✅ Optimized for reading experience")
             if not self.has_cover_image:
                 print("⚠️  Note: Generated without cover image (add book_cover.png for cover)")
