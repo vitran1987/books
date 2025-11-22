@@ -126,6 +126,14 @@ class BlockchainICOEPUBGenerator:
                 "sections": [
                     {"file": "01-tuong-lai-va-ket-luan.md", "title": "Tương Lai và Kết Luận"}
                 ]
+            },
+            {
+                "num": 11,
+                "title": "Token Tự Trị Và Khung Pháp Lý",
+                "dir": "chapter-11",
+                "sections": [
+                    {"file": "01-autonomous-tokens-and-legal-framework.md", "title": "Token Tự Trị và Khung Pháp Lý"}
+                ]
             }
         ]
 
@@ -363,9 +371,9 @@ class BlockchainICOEPUBGenerator:
         <p><strong>Chủ đề:</strong> Blockchain, Cryptocurrency, ICO, Token Economics, DeFi, DAO, NFT</p>
         <p><strong>Năm xuất bản:</strong> 2025</p>
         <p><strong>Ngôn ngữ:</strong> Tiếng Việt</p>
-        <p><strong>Số chương:</strong> 10 chương toàn diện</p>
-        <p><strong>Phạm vi:</strong> Từ lịch sử ICO đến token hóa tài sản thực và tương lai blockchain</p>
-        <p><strong>Nội dung:</strong> ICO, Token Economics, IEO/IDO, Pháp lý, DeFi, DAO, NFT, Stablecoins, RWA, Future Trends</p>
+        <p><strong>Số chương:</strong> 11 chương toàn diện</p>
+        <p><strong>Phạm vi:</strong> Từ lịch sử ICO đến token hóa tài sản thực, tương lai blockchain và token tự trị</p>
+        <p><strong>Nội dung:</strong> ICO, Token Economics, IEO/IDO, Pháp lý, DeFi, DAO, NFT, Stablecoins, RWA, Future, Autonomous Tokens</p>
     </div>
 </body>
 </html>'''
@@ -559,7 +567,7 @@ nav a:hover {
 
         # Metadata
         title = "Blockchain, ICO và Token Economics"
-        description = "Hướng dẫn toàn diện về Initial Coin Offering (ICO), Token Economics, và toàn bộ hệ sinh thái blockchain fundraising. Bao gồm 10 chương: ICO, Token Economics, IEO/IDO, Pháp lý, DeFi, DAO, NFT, Stablecoins, RWA Tokenization, và tương lai blockchain. Từ lịch sử, quy trình, bài học thành công/thất bại đến thiết kế kinh tế token, quản trị phi tập trung, và ứng dụng thực tế."
+        description = "Hướng dẫn toàn diện về Initial Coin Offering (ICO), Token Economics, và toàn bộ hệ sinh thái blockchain fundraising. Bao gồm 11 chương: ICO, Token Economics, IEO/IDO, Pháp lý, DeFi, DAO, NFT, Stablecoins, RWA Tokenization, Tương lai blockchain, và Token tự trị. Từ lịch sử, quy trình, bài học thành công/thất bại đến thiết kế kinh tế token, quản trị phi tập trung, và ứng dụng thực tế."
 
         # Build cover meta tag only if cover exists
         cover_meta = ''
@@ -654,8 +662,8 @@ nav a:hover {
     def generate(self):
         """Main generation process"""
         print("🚀 Starting Blockchain ICO & Token Economics EPUB generation...")
-        print("📊 Target: 10 chapters with comprehensive sections")
-        print("📚 Topics: ICO, Token Economics, IEO/IDO, Regulations, DeFi, DAO, NFT, Stablecoins, RWA, Future")
+        print("📊 Target: 11 chapters with comprehensive sections")
+        print("📚 Topics: ICO, Token Economics, IEO/IDO, Regulations, DeFi, DAO, NFT, Stablecoins, RWA, Future, Autonomous Tokens")
         print("=" * 70)
 
         try:
@@ -674,8 +682,8 @@ nav a:hover {
             print("=" * 70)
             print("🎉 Blockchain ICO & Token Economics EPUB generation completed!")
             print(f"📚 Output file: {self.epub_file}")
-            print("📊 Structure: 10 chapters covering full blockchain fundraising ecosystem")
-            print("🔗 Content: ICO, Token Economics, IEO/IDO, Legal, DeFi, DAO, NFT, Stablecoins, RWA, Future")
+            print("📊 Structure: 11 chapters covering full blockchain fundraising ecosystem")
+            print("🔗 Content: ICO, Token Economics, IEO/IDO, Legal, DeFi, DAO, NFT, Stablecoins, RWA, Future, Autonomous Tokens")
             print("✅ Optimized for reading experience")
             if not self.has_cover_image:
                 print("⚠️  Note: Generated without cover image (add book_cover.png for cover)")
