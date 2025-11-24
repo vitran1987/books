@@ -61,6 +61,50 @@
 - **Requirements**: Specific action plan, timeline
 - **Style**: Actionable roadmap
 
+## WRITING STYLE REFERENCE (MANDATORY)
+
+Before writing any content for this chapter, STUDY the writing style from:
+**Reference**: `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+### Style Requirements to Apply:
+
+1. **Opening Patterns**
+   - ✅ Lead with character, emotion, crisis, or achievement
+   - ✅ Vary opening styles across subsections
+   - ❌ NEVER use time-based openings ("Vào ngày X tháng Y...")
+
+2. **Narrative Structure**
+   - ✅ Long, flowing paragraphs with continuous narrative
+   - ✅ Story-based writing with real examples
+   - ❌ NO bullet points or list-style writing in main content
+
+3. **Verified Data**
+   - ✅ Specific companies, people, dates
+   - ✅ Concrete metrics and numbers
+   - ✅ Verified business outcomes
+   - ✅ Cite all sources
+
+4. **Business + Technical Balance**
+   - ✅ Lead with business value and human impact
+   - ✅ Support with technical details when needed
+   - ✅ Explain technology through outcomes, not just features
+
+5. **Tone**
+   - ✅ Conversational, friendly, accessible
+   - ✅ Speak as knowledgeable colleague
+   - ✅ Complex ideas explained clearly
+
+### Examples from Reference:
+
+**Character-Led Opening:**
+> "J.R. Willett đã từng là một kỹ sư phần mềm bình thường ở Seattle - không có danh tiếng trong giới khởi nghiệp..."
+
+**Data Integration:**
+> "Trong vòng một tháng, từ ngày 31 tháng 7 đến ngày 1 tháng 9 năm 2013, ông đã huy động được 5,120 Bitcoin từ hơn 500 nhà đầu tư trên khắp thế giới."
+
+**Business Impact:**
+> "Khi mainnet cuối cùng ra mắt vào năm 2020, nó đã thực sự hoạt động như đã hứa. Đến năm 2025, mạng Filecoin đã lưu trữ hơn 20 exabytes dữ liệu..."
+
 ## Writing Guidelines
 - Start each subsection with engaging scenario
 - Include 2-3 detailed case studies with metrics

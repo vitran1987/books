@@ -94,6 +94,43 @@
 
 **Style**: Concept glossary
 
+## WRITING STYLE REFERENCE (MANDATORY)
+
+Before writing any content for appendices, STUDY the writing style from:
+**Reference**: `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+### Style Requirements to Apply:
+
+1. **Opening Patterns (for case studies)**
+   - ✅ Lead with character, emotion, crisis, or achievement
+   - ✅ Vary opening styles across case studies
+   - ❌ NEVER use time-based openings ("Vào ngày X tháng Y...")
+
+2. **Narrative Structure (for case studies and explanations)**
+   - ✅ Long, flowing paragraphs with continuous narrative
+   - ✅ Story-based writing with real examples
+   - ✅ Appendix D (case studies) MUST use full narrative style
+   - ✅ Appendix E (technical concepts) use clear explanations with examples
+
+3. **Verified Data**
+   - ✅ Specific companies, people, dates
+   - ✅ Concrete metrics and numbers
+   - ✅ Verified business outcomes
+   - ✅ Cite all sources
+
+4. **Business + Technical Balance**
+   - ✅ Lead with business value and human impact
+   - ✅ Support with technical details when needed
+   - ✅ Explain technology through outcomes, not just features
+
+5. **Tone**
+   - ✅ Conversational, friendly, accessible
+   - ✅ Speak as knowledgeable colleague
+   - ✅ Complex ideas explained clearly
+
+Note: Appendices A-C can use more structured formats (checklists, templates, tables)
+but Appendix D (case studies) and E (technical explanations) should follow full narrative style.
+
 ## Writing Guidelines
 - Reference quality content
 - Easy to find information

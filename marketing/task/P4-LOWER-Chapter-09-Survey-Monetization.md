@@ -73,6 +73,39 @@
 - **Requirements**: Specific survey strategy for bangioi.vn
 - **Style**: Tactical plan
 
+## WRITING STYLE REFERENCE (MANDATORY)
+
+Before writing any content for this chapter, STUDY the writing style from:
+**Reference**: `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+### Style Requirements to Apply:
+
+1. **Opening Patterns**
+   - ✅ Lead with character, emotion, crisis, or achievement
+   - ✅ Vary opening styles across subsections
+   - ❌ NEVER use time-based openings ("Vào ngày X tháng Y...")
+
+2. **Narrative Structure**
+   - ✅ Long, flowing paragraphs with continuous narrative
+   - ✅ Story-based writing with real examples
+   - ❌ NO bullet points or list-style writing in main content
+
+3. **Verified Data**
+   - ✅ Specific companies, people, dates
+   - ✅ Concrete metrics and numbers
+   - ✅ Verified business outcomes
+   - ✅ Cite all sources
+
+4. **Business + Technical Balance**
+   - ✅ Lead with business value and human impact
+   - ✅ Support with technical details when needed
+   - ✅ Explain technology through outcomes, not just features
+
+5. **Tone**
+   - ✅ Conversational, friendly, accessible
+   - ✅ Speak as knowledgeable colleague
+   - ✅ Complex ideas explained clearly
+
 ## Writing Guidelines
 - Privacy and ethics critical
 - Focus on value creation

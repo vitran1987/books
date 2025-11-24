@@ -158,18 +158,42 @@
 
 ## WRITING METHODOLOGY
 
+### WRITING STYLE REFERENCE (MANDATORY)
+
+**ALL writers MUST study this reference before starting any chapter:**
+**Reference File**: `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+This file demonstrates the exact writing style required:
+- Character-led openings with emotional engagement
+- Long narrative paragraphs with continuous flow
+- Real examples with verified data (specific numbers, dates, companies)
+- Business impact leading technical details
+- Conversational, accessible tone throughout
+
 ### Content Requirements
-- ✅ Long narrative paragraphs (NO bullet lists)
+- ✅ Long narrative paragraphs (NO bullet lists in main content)
 - ✅ Real-life case studies with verified metrics
-- ✅ Trusted sources for all claims
-- ✅ Business + Technical balance
-- ✅ Conversational, engaging tone
+- ✅ Trusted sources for all claims (cite specific sources)
+- ✅ Business + Technical balance (business value first)
+- ✅ Conversational, engaging tone (colleague-to-colleague)
 - ✅ 5-8 subsections per chapter in separate files
 - ✅ EPUB-ready formatting (H1, H2, H3)
 
-### Opening Pattern Rules
-- ❌ NEVER: Time-based openings ("Vào ngày X...")
-- ✅ ALWAYS: Varied, engaging hooks (emotion, crisis, achievement, question)
+### Opening Pattern Rules (CRITICAL)
+- ❌ NEVER: Time-based openings ("Vào ngày X tháng Y năm Z...")
+- ✅ ALWAYS: Varied, engaging hooks:
+  - Character emotion or decision
+  - Crisis or extraordinary event
+  - Achievement or statistic
+  - Question or controversy
+  - Action in progress
+  
+### Examples from Reference File:
+**Good Opening**: "J.R. Willett đã từng là một kỹ sư phần mềm bình thường ở Seattle - không có danh tiếng trong giới khởi nghiệp..."
+
+**Data Integration**: "Trong vòng một tháng, từ ngày 31 tháng 7 đến ngày 1 tháng 9 năm 2013, ông đã huy động được 5,120 Bitcoin từ hơn 500 nhà đầu tư..."
+
+**Business Impact**: "Đến năm 2025, mạng Filecoin đã lưu trữ hơn 20 exabytes dữ liệu, phục vụ hàng nghìn khách hàng..."
 
 ### Technical Focus
 - ✅ High-level methods and strategies
