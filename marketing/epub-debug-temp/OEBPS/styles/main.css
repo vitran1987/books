@@ -1,0 +1,95 @@
+/* Marketing EdTech EPUB CSS Styles */
+body {
+    font-family: "Times New Roman", serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 1em;
+    color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #1a365d;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    line-height: 1.2;
+}
+
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.3em; }
+h4 { font-size: 1.1em; }
+
+p {
+    margin: 1em 0;
+    text-align: justify;
+}
+
+/* Bold text styling */
+strong {
+    font-weight: bold;
+    color: #1a365d;
+}
+
+.cover {
+    text-align: center;
+    padding: 0;
+}
+
+.cover-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.title-page {
+    text-align: center;
+    padding: 2em 1em;
+}
+
+.title-page h1 {
+    font-size: 2.5em;
+    color: #1a365d;
+    margin-bottom: 0.5em;
+}
+
+.subtitle {
+    font-size: 1.2em;
+    color: #2d3748;
+    font-style: italic;
+    margin-bottom: 2em;
+}
+
+.publication-info {
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.chapter-title {
+    border-bottom: 2px solid #4299e1;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+}
+
+.chapter-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Navigation styles */
+nav ol, nav ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+nav li {
+    margin: 0.5em 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #1a365d;
+}
+
+nav a:hover {
+    color: #4299e1;
+}

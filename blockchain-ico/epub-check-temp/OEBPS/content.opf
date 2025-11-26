@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:identifier id="bookid">blockchain-ico-20251122113647</dc:identifier>
+        <dc:title>Blockchain, ICO và Token Economics</dc:title>
+        <dc:creator>Blockchain Expert Team</dc:creator>
+        <dc:language>vi</dc:language>
+        <dc:date>2025-11-22</dc:date>
+        <dc:publisher>Blockchain Publishing</dc:publisher>
+        <dc:subject>Blockchain</dc:subject>
+        <dc:subject>ICO</dc:subject>
+        <dc:subject>Token Economics</dc:subject>
+        <dc:subject>Cryptocurrency</dc:subject>
+        <dc:subject>Smart Contracts</dc:subject>
+        <dc:description>Hướng dẫn toàn diện về Initial Coin Offering (ICO), Token Economics, và toàn bộ hệ sinh thái blockchain fundraising. Bao gồm 11 chương: ICO, Token Economics, IEO/IDO, Pháp lý, DeFi, DAO, NFT, Stablecoins, RWA Tokenization, Tương lai blockchain, và Token tự trị. Từ lịch sử, quy trình, bài học thành công/thất bại đến thiết kế kinh tế token, quản trị phi tập trung, và ứng dụng thực tế.</dc:description>
+        <dc:rights>© 2025 Blockchain Expert Team</dc:rights>
+        <meta property="dcterms:modified">2025-11-22T11:36:47Z</meta>
+        <meta name="cover" content="cover-image"/>
+    </metadata>
+
+    <manifest>
+        <item id="cover" href="content/cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="nav" href="content/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+        <item id="title-page" href="content/title-page.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-001" href="content/section-001.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-002" href="content/section-002.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-003" href="content/section-003.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-004" href="content/section-004.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-005" href="content/section-005.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-006" href="content/section-006.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-007" href="content/section-007.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-008" href="content/section-008.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-009" href="content/section-009.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-010" href="content/section-010.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-011" href="content/section-011.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-012" href="content/section-012.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-013" href="content/section-013.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-014" href="content/section-014.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-015" href="content/section-015.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-016" href="content/section-016.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-017" href="content/section-017.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-018" href="content/section-018.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-019" href="content/section-019.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-020" href="content/section-020.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-021" href="content/section-021.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-022" href="content/section-022.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-023" href="content/section-023.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-024" href="content/section-024.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-025" href="content/section-025.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-026" href="content/section-026.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-027" href="content/section-027.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-028" href="content/section-028.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-029" href="content/section-029.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-030" href="content/section-030.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-031" href="content/section-031.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-032" href="content/section-032.xhtml" media-type="application/xhtml+xml"/>
+        <item id="cover-image" href="images/cover.png" media-type="image/png" properties="cover-image"/>
+        <item id="css" href="styles/main.css" media-type="text/css"/>
+    </manifest>
+
+    <spine>
+        <itemref idref="cover"/>
+        <itemref idref="title-page"/>
+        <itemref idref="nav"/>
+        <itemref idref="section-001"/>
+        <itemref idref="section-002"/>
+        <itemref idref="section-003"/>
+        <itemref idref="section-004"/>
+        <itemref idref="section-005"/>
+        <itemref idref="section-006"/>
+        <itemref idref="section-007"/>
+        <itemref idref="section-008"/>
+        <itemref idref="section-009"/>
+        <itemref idref="section-010"/>
+        <itemref idref="section-011"/>
+        <itemref idref="section-012"/>
+        <itemref idref="section-013"/>
+        <itemref idref="section-014"/>
+        <itemref idref="section-015"/>
+        <itemref idref="section-016"/>
+        <itemref idref="section-017"/>
+        <itemref idref="section-018"/>
+        <itemref idref="section-019"/>
+        <itemref idref="section-020"/>
+        <itemref idref="section-021"/>
+        <itemref idref="section-022"/>
+        <itemref idref="section-023"/>
+        <itemref idref="section-024"/>
+        <itemref idref="section-025"/>
+        <itemref idref="section-026"/>
+        <itemref idref="section-027"/>
+        <itemref idref="section-028"/>
+        <itemref idref="section-029"/>
+        <itemref idref="section-030"/>
+        <itemref idref="section-031"/>
+        <itemref idref="section-032"/>
+    </spine>
+
+    <guide>
+        <reference type="cover" title="Cover" href="content/cover.xhtml"/>
+        <reference type="title-page" title="Title Page" href="content/title-page.xhtml"/>
+        <reference type="toc" title="Table of Contents" href="content/nav.xhtml"/>
+        <reference type="text" title="Start of Content" href="content/section-001.xhtml"/>
+    </guide>
+</package>

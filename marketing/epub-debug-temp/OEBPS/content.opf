@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:identifier id="bookid">marketing-edtech-20251126182224</dc:identifier>
+        <dc:title>Kiếm Tiền Từ Quảng Cáo Cho Nền Tảng Giáo Dục</dc:title>
+        <dc:creator>EdTech Marketing Expert Team</dc:creator>
+        <dc:language>vi</dc:language>
+        <dc:date>2025-11-26</dc:date>
+        <dc:publisher>EdTech Publishing</dc:publisher>
+        <dc:subject>Digital Advertising</dc:subject>
+        <dc:subject>EdTech Monetization</dc:subject>
+        <dc:subject>Google Adsense</dc:subject>
+        <dc:subject>Facebook Ads</dc:subject>
+        <dc:subject>AI Agents</dc:subject>
+        <dc:subject>Marketing Strategy</dc:subject>
+        <dc:description>Hướng dẫn toàn diện về kiếm tiền từ quảng cáo cho nền tảng giáo dục trực tuyến. Bao gồm 11 chương: Bản chất quảng cáo giáo dục, Thị trường Việt Nam, Google Adsense deep dive, Facebook Audience Network, Alternative platforms, Gamified advertising, Survey monetization, Sponsored content, AI agents strategies, và Analytics & optimization. Từ chiến lược cơ bản đến phương pháp kỹ thuật tiên tiến, AI automation, và lộ trình triển khai thực tế cho startup EdTech.</dc:description>
+        <dc:rights>© 2025 EdTech Marketing Expert Team</dc:rights>
+        <meta property="dcterms:modified">2025-11-26T18:22:24Z</meta>
+        <meta name="cover" content="cover-image"/>
+    </metadata>
+
+    <manifest>
+        <item id="cover" href="content/cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="nav" href="content/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+        <item id="title-page" href="content/title-page.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-001" href="content/section-001.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-002" href="content/section-002.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-003" href="content/section-003.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-004" href="content/section-004.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-005" href="content/section-005.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-006" href="content/section-006.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-007" href="content/section-007.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-008" href="content/section-008.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-009" href="content/section-009.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-010" href="content/section-010.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-011" href="content/section-011.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-012" href="content/section-012.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-013" href="content/section-013.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-014" href="content/section-014.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-015" href="content/section-015.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-016" href="content/section-016.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-017" href="content/section-017.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-018" href="content/section-018.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-019" href="content/section-019.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-020" href="content/section-020.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-021" href="content/section-021.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-022" href="content/section-022.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-023" href="content/section-023.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-024" href="content/section-024.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-025" href="content/section-025.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-026" href="content/section-026.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-027" href="content/section-027.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-028" href="content/section-028.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-029" href="content/section-029.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-030" href="content/section-030.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-031" href="content/section-031.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-032" href="content/section-032.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-033" href="content/section-033.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-034" href="content/section-034.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-035" href="content/section-035.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-036" href="content/section-036.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-037" href="content/section-037.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-038" href="content/section-038.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-039" href="content/section-039.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-040" href="content/section-040.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-041" href="content/section-041.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-042" href="content/section-042.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-043" href="content/section-043.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-044" href="content/section-044.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-045" href="content/section-045.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-046" href="content/section-046.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-047" href="content/section-047.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-048" href="content/section-048.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-049" href="content/section-049.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-050" href="content/section-050.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-051" href="content/section-051.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-052" href="content/section-052.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-053" href="content/section-053.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-054" href="content/section-054.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-055" href="content/section-055.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-056" href="content/section-056.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-057" href="content/section-057.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-058" href="content/section-058.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-059" href="content/section-059.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-060" href="content/section-060.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-061" href="content/section-061.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-062" href="content/section-062.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-063" href="content/section-063.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-064" href="content/section-064.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-065" href="content/section-065.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-066" href="content/section-066.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-067" href="content/section-067.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-068" href="content/section-068.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-069" href="content/section-069.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-070" href="content/section-070.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-071" href="content/section-071.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-072" href="content/section-072.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-073" href="content/section-073.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-074" href="content/section-074.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-075" href="content/section-075.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-076" href="content/section-076.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-077" href="content/section-077.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-078" href="content/section-078.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-079" href="content/section-079.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-080" href="content/section-080.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-081" href="content/section-081.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-082" href="content/section-082.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-083" href="content/section-083.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-084" href="content/section-084.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-085" href="content/section-085.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-086" href="content/section-086.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-087" href="content/section-087.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-088" href="content/section-088.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-089" href="content/section-089.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-090" href="content/section-090.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-091" href="content/section-091.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-092" href="content/section-092.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-093" href="content/section-093.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-094" href="content/section-094.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-095" href="content/section-095.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-096" href="content/section-096.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-097" href="content/section-097.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-098" href="content/section-098.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-099" href="content/section-099.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-100" href="content/section-100.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-101" href="content/section-101.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-102" href="content/section-102.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-103" href="content/section-103.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-104" href="content/section-104.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-105" href="content/section-105.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-106" href="content/section-106.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-107" href="content/section-107.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-108" href="content/section-108.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-109" href="content/section-109.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-110" href="content/section-110.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-111" href="content/section-111.xhtml" media-type="application/xhtml+xml"/>
+        <item id="section-112" href="content/section-112.xhtml" media-type="application/xhtml+xml"/>
+        <item id="cover-image" href="images/cover.png" media-type="image/png" properties="cover-image"/>
+        <item id="css" href="styles/main.css" media-type="text/css"/>
+    </manifest>
+
+    <spine>
+        <itemref idref="cover"/>
+        <itemref idref="title-page"/>
+        <itemref idref="nav"/>
+        <itemref idref="section-001"/>
+        <itemref idref="section-002"/>
+        <itemref idref="section-003"/>
+        <itemref idref="section-004"/>
+        <itemref idref="section-005"/>
+        <itemref idref="section-006"/>
+        <itemref idref="section-007"/>
+        <itemref idref="section-008"/>
+        <itemref idref="section-009"/>
+        <itemref idref="section-010"/>
+        <itemref idref="section-011"/>
+        <itemref idref="section-012"/>
+        <itemref idref="section-013"/>
+        <itemref idref="section-014"/>
+        <itemref idref="section-015"/>
+        <itemref idref="section-016"/>
+        <itemref idref="section-017"/>
+        <itemref idref="section-018"/>
+        <itemref idref="section-019"/>
+        <itemref idref="section-020"/>
+        <itemref idref="section-021"/>
+        <itemref idref="section-022"/>
+        <itemref idref="section-023"/>
+        <itemref idref="section-024"/>
+        <itemref idref="section-025"/>
+        <itemref idref="section-026"/>
+        <itemref idref="section-027"/>
+        <itemref idref="section-028"/>
+        <itemref idref="section-029"/>
+        <itemref idref="section-030"/>
+        <itemref idref="section-031"/>
+        <itemref idref="section-032"/>
+        <itemref idref="section-033"/>
+        <itemref idref="section-034"/>
+        <itemref idref="section-035"/>
+        <itemref idref="section-036"/>
+        <itemref idref="section-037"/>
+        <itemref idref="section-038"/>
+        <itemref idref="section-039"/>
+        <itemref idref="section-040"/>
+        <itemref idref="section-041"/>
+        <itemref idref="section-042"/>
+        <itemref idref="section-043"/>
+        <itemref idref="section-044"/>
+        <itemref idref="section-045"/>
+        <itemref idref="section-046"/>
+        <itemref idref="section-047"/>
+        <itemref idref="section-048"/>
+        <itemref idref="section-049"/>
+        <itemref idref="section-050"/>
+        <itemref idref="section-051"/>
+        <itemref idref="section-052"/>
+        <itemref idref="section-053"/>
+        <itemref idref="section-054"/>
+        <itemref idref="section-055"/>
+        <itemref idref="section-056"/>
+        <itemref idref="section-057"/>
+        <itemref idref="section-058"/>
+        <itemref idref="section-059"/>
+        <itemref idref="section-060"/>
+        <itemref idref="section-061"/>
+        <itemref idref="section-062"/>
+        <itemref idref="section-063"/>
+        <itemref idref="section-064"/>
+        <itemref idref="section-065"/>
+        <itemref idref="section-066"/>
+        <itemref idref="section-067"/>
+        <itemref idref="section-068"/>
+        <itemref idref="section-069"/>
+        <itemref idref="section-070"/>
+        <itemref idref="section-071"/>
+        <itemref idref="section-072"/>
+        <itemref idref="section-073"/>
+        <itemref idref="section-074"/>
+        <itemref idref="section-075"/>
+        <itemref idref="section-076"/>
+        <itemref idref="section-077"/>
+        <itemref idref="section-078"/>
+        <itemref idref="section-079"/>
+        <itemref idref="section-080"/>
+        <itemref idref="section-081"/>
+        <itemref idref="section-082"/>
+        <itemref idref="section-083"/>
+        <itemref idref="section-084"/>
+        <itemref idref="section-085"/>
+        <itemref idref="section-086"/>
+        <itemref idref="section-087"/>
+        <itemref idref="section-088"/>
+        <itemref idref="section-089"/>
+        <itemref idref="section-090"/>
+        <itemref idref="section-091"/>
+        <itemref idref="section-092"/>
+        <itemref idref="section-093"/>
+        <itemref idref="section-094"/>
+        <itemref idref="section-095"/>
+        <itemref idref="section-096"/>
+        <itemref idref="section-097"/>
+        <itemref idref="section-098"/>
+        <itemref idref="section-099"/>
+        <itemref idref="section-100"/>
+        <itemref idref="section-101"/>
+        <itemref idref="section-102"/>
+        <itemref idref="section-103"/>
+        <itemref idref="section-104"/>
+        <itemref idref="section-105"/>
+        <itemref idref="section-106"/>
+        <itemref idref="section-107"/>
+        <itemref idref="section-108"/>
+        <itemref idref="section-109"/>
+        <itemref idref="section-110"/>
+        <itemref idref="section-111"/>
+        <itemref idref="section-112"/>
+    </spine>
+
+    <guide>
+        <reference type="cover" title="Cover" href="content/cover.xhtml"/>
+        <reference type="title-page" title="Title Page" href="content/title-page.xhtml"/>
+        <reference type="toc" title="Table of Contents" href="content/nav.xhtml"/>
+        <reference type="text" title="Start of Content" href="content/section-001.xhtml"/>
+    </guide>
+</package>
