@@ -651,15 +651,36 @@
 
 ---
 
+## WRITING STYLE REQUIREMENTS
+
+**CRITICAL**: Learn and follow the writing style from `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+### Pure Vietnamese Language:
+- ✅ **Use ONLY pure Vietnamese** - no mixing English and Vietnamese  
+- ✅ Platform names: "Nền tảng n8n - hệ thống tự động hóa quy trình làm việc"
+- ✅ Tutorial steps fully in Vietnamese narrative form
+- ✅ Code variables can be English (standard) but ALL explanations in Vietnamese
+- ❌ NO English instructional text: not "Click vào button Save để lưu workflow"
+- ❌ Use "Nhấp vào nút Lưu để lưu lại quy trình làm việc"
+
+### Narrative Style:
+- ✅ Start platform sections with founder/creation story (like Mastercoin story)
+- ✅ Case studies told as full narratives: StepStone (2 weeks→2 hours journey)
+- ✅ Tutorial as journey with context why each step matters
+- ✅ Long paragraphs explaining decisions and impact
+- ❌ NO bullet-point tutorials: "Step 1: Install n8n, Step 2: Configure..."
+- ❌ Tell it as: "Bước đầu tiên trong hành trình xây dựng đội ngũ AI của bạn..."
+
 ## QUALITY CHECKLIST
 
 Each subsection must have:
-- [ ] Platform-specific details
-- [ ] Hands-on examples/tutorials
-- [ ] Code samples (where applicable)
-- [ ] Cost analysis
-- [ ] Real-world case studies
-- [ ] Visual diagrams
+- [ ] Platform details presented through origin stories and user journeys
+- [ ] Hands-on examples/tutorials with narrative flow and context
+- [ ] Code samples with complete Vietnamese explanations
+- [ ] Cost analysis woven into storytelling (not separate tables)
+- [ ] Real-world case studies as detailed narratives (Delivery Hero 200 hours saved story)
+- [ ] Visual diagrams with Vietnamese labels and narrative captions
+- [ ] **PURE VIETNAMESE** - absolutely NO English/Vietnamese mixing
 - [ ] 2,500-3,000 words length
 - [ ] Written in incremental 50-line chunks
 

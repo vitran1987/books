@@ -525,15 +525,36 @@
 
 ---
 
+## WRITING STYLE REQUIREMENTS
+
+**CRITICAL**: Learn and follow the writing style from `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+### Pure Vietnamese Language:
+- ✅ **Use ONLY pure Vietnamese** - no mixing English and Vietnamese
+- ✅ Model names with Vietnamese context: "Mô hình GPT-5.1 - hệ thống lập luận tiên tiến"
+- ✅ Benchmarks in Vietnamese: "Độ chính xác 95% trong bài toán AIME về toán học cấp độ Olympic"
+- ✅ Code comments in Vietnamese where appropriate
+- ❌ NO raw English terms: avoid "GPT-5.1 có performance tốt với accuracy 95%"
+- ❌ Use "hiệu năng" not "performance", "độ chính xác" not "accuracy"
+
+### Narrative Style:
+- ✅ Tell the story of each model's development breakthrough (like Ethereum story)
+- ✅ Real-world scenarios showing capabilities through user experiences
+- ✅ Technical concepts explained through storytelling, not definitions
+- ✅ Long paragraphs with detailed technical narratives
+- ❌ NO dry benchmark tables without context
+- ❌ NO specifications lists without real-world impact stories
+
 ## QUALITY CHECKLIST
 
 Each subsection must have:
-- [ ] Benchmark data with sources
-- [ ] Real-world examples
-- [ ] Cost analysis
-- [ ] Performance comparisons
-- [ ] Code examples (where applicable)
-- [ ] Visual diagrams/tables
+- [ ] Benchmark data with sources, presented through narrative context
+- [ ] Real-world examples told as detailed stories (not just mentions)
+- [ ] Cost analysis with Vietnamese financial terminology woven into narrative
+- [ ] Performance comparisons explained through user impact stories
+- [ ] Code examples with Vietnamese comments and explanations
+- [ ] Visual diagrams/tables with Vietnamese labels only
+- [ ] **PURE VIETNAMESE** - absolutely NO English/Vietnamese mixing
 - [ ] 2,500-3,000 words length
 - [ ] Written in incremental 50-line chunks
 

@@ -170,15 +170,33 @@
 
 ---
 
+## WRITING STYLE REQUIREMENTS
+
+**CRITICAL**: Learn from `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+### Pure Vietnamese Language:
+- ✅ **ONLY pure Vietnamese** - NO mixing
+- ✅ "mở rộng quy mô" not "scaling"
+- ✅ "thị trường khu vực" not "regional market"
+- ✅ "mô hình kinh doanh" not "business model"
+- ❌ NO English expansion jargon
+
+### Narrative Style:
+- ✅ Regional expansion as entrepreneurial conquest story
+- ✅ Cultural adaptation via market entry challenges and victories
+- ✅ Scaling journey through founder's growth experiences
+- ✅ Long paragraphs about cross-cultural business realities
+
 ## QUALITY CHECKLIST
 
 Each subsection must have:
-- [ ] Regional market analysis
-- [ ] Scaling strategies
-- [ ] Cost projections
-- [ ] Revenue models
-- [ ] Cultural considerations
-- [ ] Infrastructure diagrams
+- [ ] Regional markets explored through market entry narratives
+- [ ] Scaling strategies demonstrated via growth journey stories
+- [ ] Cost projections woven into financial planning narratives
+- [ ] Revenue models explained through business evolution stories
+- [ ] Cultural challenges shown through adaptation experiences
+- [ ] Infrastructure growth told through scaling challenges
+- [ ] **PURE VIETNAMESE** - NO English/Vietnamese mixing
 - [ ] 3,000-3,500 words length
 - [ ] Written in incremental 50-line chunks
 

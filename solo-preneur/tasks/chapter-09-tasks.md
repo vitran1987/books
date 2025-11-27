@@ -181,15 +181,33 @@
 
 ---
 
+## WRITING STYLE REQUIREMENTS
+
+**CRITICAL**: Learn from `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+### Pure Vietnamese Language:
+- ✅ **ONLY pure Vietnamese** - NO mixing
+- ✅ "kế toán" not "accounting", "pháp lý" not "legal"
+- ✅ "Thuế GTGT" not "VAT", "Thuế TNDN" not "CIT"
+- ✅ All financial/legal terms in proper Vietnamese
+- ❌ NO English business terminology
+
+### Narrative Style:
+- ✅ Solo entrepreneur's operations as daily journey (like Filecoin development journey)
+- ✅ Automation breakthroughs with before/after stories
+- ✅ Vietnamese business challenges through real scenarios
+- ✅ Long paragraphs explaining operational transformations
+
 ## QUALITY CHECKLIST
 
 Each subsection must have:
-- [ ] Automation workflows
-- [ ] Vietnamese business context
-- [ ] Cost savings analysis
-- [ ] Tool integrations (n8n, APIs)
-- [ ] Practical examples
-- [ ] Time savings metrics
+- [ ] Automation workflows shown through entrepreneur transformation stories
+- [ ] Vietnamese business context via real operational challenges
+- [ ] Cost savings demonstrated through detailed before/after narratives
+- [ ] Tool integrations (n8n, APIs) explained via automation success stories
+- [ ] Practical Vietnamese business examples with specific outcomes
+- [ ] Time savings shown through daily routine transformations
+- [ ] **PURE VIETNAMESE** - NO English/Vietnamese mixing
 - [ ] 2,500-3,000 words length
 - [ ] Written in incremental 50-line chunks
 

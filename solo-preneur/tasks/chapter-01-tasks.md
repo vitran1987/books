@@ -392,16 +392,42 @@ MAP Framework:
 
 ---
 
+## WRITING STYLE REQUIREMENTS
+
+**CRITICAL**: Learn and follow the writing style from `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+### Pure Vietnamese Language:
+- ✅ **Use ONLY pure Vietnamese** - NO mixing English and Vietnamese
+- ✅ Translate all technical terms: "hợp đồng thông minh" not "smart contracts"
+- ✅ "tác nhân AI" not "AI agents", "quy trình làm việc" not "workflow"
+- ❌ WRONG: "Chúng ta sẽ deploy application lên cloud server"
+- ✅ RIGHT: "Chúng ta sẽ triển khai ứng dụng lên máy chủ đám mây"
+
+### Narrative Style (Study blockchain-ico reference):
+- ✅ Long paragraphs with storytelling flow (like J.R. Willett story)
+- ✅ Start sections with human stories, emotions, challenges (NOT definitions)
+- ✅ Character-driven narratives: real founders, real struggles, real victories
+- ✅ Detailed examples: specific numbers, dates, companies, outcomes
+- ✅ Conversational tone: "bạn", "chúng ta", speak to reader directly
+- ❌ NO time-based openings: "Vào một buổi sáng ngày X tháng Y..."
+- ❌ NO bullet points for main content (use for specs/lists only)
+- ❌ NO dry explanations without human context
+
+### Example Opening Patterns:
+❌ BAD: "Vào ngày 27/11/2025, GitHub ra mắt Copilot với tính năng Coding Agents..."
+✅ GOOD: "Michael Chen cảm thấy tuyệt vọng khi nhìn vào danh sách 47 tính năng cần hoàn thiện trước khi sản phẩm ra mắt. Với tư cách một doanh nhân solo, anh chỉ có 10 giờ code mỗi ngày. Nhưng sáng ngày 27/11/2025, khi GitHub công bố Coding Agents mới, mọi thứ bắt đầu thay đổi..."
+
 ## QUALITY CHECKLIST
 
 Each subsection must have:
-- [ ] Opening story/case study (real, specific, compelling)
-- [ ] Data-driven insights (benchmarks, metrics, numbers)
-- [ ] Practical examples (how-to, not just what)
-- [ ] Visual aids planned (diagrams, charts, tables)
-- [ ] Vietnamese context where relevant
-- [ ] Cost analysis (prove ROI)
-- [ ] Actionable takeaways (what reader should do)
+- [ ] Opening story/case study (real person, real emotions, real challenge)
+- [ ] Data-driven insights woven into narrative (not separate tables)
+- [ ] Practical examples through storytelling (journey, not checklist)
+- [ ] Visual aids with Vietnamese labels only
+- [ ] Vietnamese EdTech context integrated naturally
+- [ ] Cost analysis presented through ROI stories
+- [ ] Actionable takeaways in narrative conclusion
+- [ ] **PURE VIETNAMESE** - absolutely NO English/Vietnamese mixing
 - [ ] 2,000-3,000 words length
 - [ ] Written in incremental 50-line chunks
 

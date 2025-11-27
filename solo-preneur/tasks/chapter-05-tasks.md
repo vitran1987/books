@@ -328,15 +328,36 @@
 
 ---
 
+## WRITING STYLE REQUIREMENTS
+
+**CRITICAL**: Learn and follow the writing style from `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+### Pure Vietnamese Language:
+- ✅ **Use ONLY pure Vietnamese** - no mixing English and Vietnamese
+- ✅ Development terms: "phát triển giao diện người dùng" (not "frontend dev")
+- ✅ "xây dựng API phía máy chủ" (not "backend development")
+- ✅ Code explanations fully in Vietnamese
+- ❌ NO: "Chúng ta sẽ implement feature này bằng React hooks"
+- ❌ Use: "Chúng ta sẽ triển khai tính năng này bằng cơ chế móc nối của React"
+
+### Narrative Style:
+- ✅ Development journey told as entrepreneurial story
+- ✅ Each component explained through real EdTech user scenarios
+- ✅ Bạn Giỏi example as continuous narrative thread throughout
+- ✅ Long paragraphs explaining architectural decisions through impact stories
+- ❌ NO dry code dumps: provide context, challenges, solutions narratively
+- ❌ NO technical specs without user/business impact stories
+
 ## QUALITY CHECKLIST
 
 Each subsection must have:
-- [ ] Complete code examples
-- [ ] Architecture diagrams
-- [ ] Step-by-step tutorials
-- [ ] Performance benchmarks
-- [ ] Cost analysis
-- [ ] Testing strategies
+- [ ] Complete code examples with Vietnamese comments and narrative explanations
+- [ ] Architecture diagrams with Vietnamese labels and storytelling captions
+- [ ] Step-by-step tutorials in narrative form (journey, not checklist)
+- [ ] Performance benchmarks explained through user experience stories
+- [ ] Cost analysis with Vietnamese financial terminology in narrative context
+- [ ] Testing strategies with Vietnamese explanations woven into development story
+- [ ] **PURE VIETNAMESE** - absolutely NO English/Vietnamese mixing
 - [ ] 2,500-3,000 words length
 - [ ] Written in incremental 50-line chunks
 

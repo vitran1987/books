@@ -273,15 +273,34 @@
 
 ---
 
+## WRITING STYLE REQUIREMENTS
+
+**CRITICAL**: Learn and follow writing style from `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+### Pure Vietnamese Language:
+- ✅ **ONLY pure Vietnamese** - NO English/Vietnamese mixing
+- ✅ Education terms: "chương trình giảng dạy" not "curriculum"
+- ✅ "giáo viên AI" not "AI tutor", "học sinh lớp 6" not "grade 6 student"
+- ✅ SGK = "Sách giáo khoa" fully explained in Vietnamese
+- ❌ ABSOLUTELY NO English in educational content
+
+### Narrative Style:
+- ✅ Tell stories of Vietnamese students, teachers, parents (like Ethereum investor stories)
+- ✅ Real classroom scenarios: specific schools, specific challenges, specific solutions
+- ✅ Cultural examples woven naturally (Vietnamese idioms, proverbs)
+- ✅ Long paragraphs about Vietnamese education system realities
+- ❌ NO dry curriculum lists without context
+
 ## QUALITY CHECKLIST
 
 Each subsection must have:
-- [ ] Vietnamese education context
-- [ ] SGK alignment
-- [ ] Gemini 3 Pro integration
-- [ ] Cultural considerations
-- [ ] Practical examples
-- [ ] Quality metrics
+- [ ] Vietnamese education context through rich student/teacher narratives
+- [ ] SGK alignment explained via real lesson examples
+- [ ] Gemini 3 Pro Vietnamese capabilities shown through actual conversations
+- [ ] Cultural considerations woven into student success stories
+- [ ] Practical examples from real Vietnamese classrooms
+- [ ] Quality metrics demonstrated through student outcomes
+- [ ] **PURE VIETNAMESE** - absolutely NO English/Vietnamese mixing
 - [ ] 2,500-3,000 words length
 - [ ] Written in incremental 50-line chunks
 

@@ -296,15 +296,34 @@
 
 ---
 
+## WRITING STYLE REQUIREMENTS
+
+**CRITICAL**: Learn from `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+### Pure Vietnamese Language:
+- ✅ **ONLY pure Vietnamese** - NO mixing
+- ✅ "triển khai" not "implementation"
+- ✅ "lộ trình" not "roadmap"
+- ✅ "cốt mốc" not "milestone"
+- ❌ NO English instructional language
+
+### Narrative Style:
+- ✅ Roadmap as hero's journey (solo entrepreneur's transformation)
+- ✅ Each milestone as victory story with challenges overcome
+- ✅ Implementation steps woven into entrepreneurial narrative
+- ✅ Long paragraphs motivating action through success vision
+- ✅ Vietnamese entrepreneur examples showing possible futures
+
 ## QUALITY CHECKLIST
 
 Each subsection must have:
-- [ ] Week-by-week action items
-- [ ] Specific timelines
-- [ ] Budget breakdowns
-- [ ] Success metrics
-- [ ] Code/workflow examples
-- [ ] Motivational narratives
+- [ ] Action items presented as journey steps with context and purpose
+- [ ] Timelines woven into entrepreneurial narrative arc
+- [ ] Budget analysis told through financial planning stories
+- [ ] Success metrics demonstrated via milestone achievement narratives
+- [ ] Code/workflows explained through implementation journey
+- [ ] Motivational narratives inspiring immediate action
+- [ ] **PURE VIETNAMESE** - NO English/Vietnamese mixing
 - [ ] 3,000-3,500 words length
 - [ ] Written in incremental 50-line chunks
 

@@ -171,15 +171,33 @@
 
 ---
 
+## WRITING STYLE REQUIREMENTS
+
+**CRITICAL**: Learn from `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+### Pure Vietnamese Language:
+- ✅ **ONLY pure Vietnamese** - NO English mixing
+- ✅ "tiếp thị nội dung" not "content marketing"
+- ✅ "tỷ lệ tương tác" not "engagement rate"
+- ✅ "chiến dịch quảng cáo" not "ad campaign"
+- ❌ NO English marketing jargon
+
+### Narrative Style:
+- ✅ Marketing campaigns as success/failure stories (like EOS journey)
+- ✅ Vietnamese market dynamics through entrepreneur experiences
+- ✅ Real EdTech marketing with specific numbers and outcomes
+- ✅ Long paragraphs about growth challenges and breakthroughs
+
 ## QUALITY CHECKLIST
 
 Each subsection must have:
-- [ ] Vietnamese market focus
-- [ ] AI automation workflows
-- [ ] Cost analysis
-- [ ] Performance metrics
-- [ ] Practical examples
-- [ ] n8n/automation tools
+- [ ] Vietnamese market context through entrepreneur journey narratives
+- [ ] AI automation workflows demonstrated via real campaign stories
+- [ ] Cost analysis woven into ROI success narratives
+- [ ] Performance metrics shown through campaign outcome stories
+- [ ] Practical Vietnamese EdTech examples with detailed results
+- [ ] Tools (n8n) explained through actual automation workflows
+- [ ] **PURE VIETNAMESE** - NO English/Vietnamese mixing
 - [ ] 2,500-3,000 words length
 - [ ] Written in incremental 50-line chunks
 

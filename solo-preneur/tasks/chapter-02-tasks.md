@@ -776,15 +776,35 @@ HITL Decision Matrix:
 
 ---
 
+## WRITING STYLE REQUIREMENTS
+
+**CRITICAL**: Learn and follow the writing style from `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+### Pure Vietnamese Language:
+- ✅ **Use ONLY pure Vietnamese** - no mixing English and Vietnamese
+- ✅ Translate technical terms: "tác nhân AI" (not "AI agent"), "quy trình làm việc" (not "workflow")
+- ✅ Tool names with Vietnamese context: "Nền tảng n8n - hệ thống tự động hóa"
+- ❌ NO English words in Vietnamese text
+- ❌ NO mixing like "Chúng ta sẽ setup các agents cho organization của bạn"
+
+### Narrative Style:
+- ✅ Long paragraphs with storytelling flow (see blockchain-ico reference)
+- ✅ Real organizational scenarios with specific details
+- ✅ Character-driven examples (solo entrepreneur's daily challenges)
+- ✅ Detailed workflows explained through narratives, not lists
+- ❌ NO dry organizational charts without human context
+- ❌ NO bullet-point process descriptions for main content
+
 ## QUALITY CHECKLIST
 
 Each subsection must have:
-- [ ] Clear organizational framework
-- [ ] Practical templates/examples
-- [ ] Visual diagrams (org charts, workflows)
-- [ ] Cost analysis
-- [ ] Real-world scenarios
-- [ ] Tool integration guides
+- [ ] Clear organizational framework told through stories
+- [ ] Practical templates/examples with narrative context
+- [ ] Visual diagrams with Vietnamese labels only
+- [ ] Cost analysis woven into storytelling
+- [ ] Real-world scenarios with detailed narratives (like Delivery Hero story)
+- [ ] Tool integration guides fully in Vietnamese
+- [ ] **PURE VIETNAMESE** - absolutely NO English/Vietnamese mixing
 - [ ] 2,000-3,000 words length
 - [ ] Written in incremental 50-line chunks
 

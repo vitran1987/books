@@ -158,14 +158,35 @@
 
 ---
 
+## WRITING STYLE REQUIREMENTS
+
+**CRITICAL**: Learn and follow the writing style from `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+### Pure Vietnamese Language:
+- ✅ **Use ONLY pure Vietnamese** - no mixing English and Vietnamese
+- ✅ Security terms: "bảo mật" (not "security"), "tuân thủ" (not "compliance")
+- ✅ "kiểm thử xâm nhập" (not "penetration testing")
+- ✅ Legal terms in proper Vietnamese, Vietnamese laws with official names
+- ❌ NO: "Chúng ta cần comply với GDPR regulations"
+- ❌ Use: "Chúng ta cần tuân thủ các quy định GDPR về bảo vệ dữ liệu"
+
+### Narrative Style:
+- ✅ Security incidents told as cautionary tales (like BitConnect story)
+- ✅ Compliance journey as narrative with challenges and solutions
+- ✅ Real breach examples with detailed storytelling and lessons learned
+- ✅ Long paragraphs explaining why security matters through real consequences
+- ❌ NO dry checklists: weave requirements into cautionary narratives
+- ❌ NO specification lists without real-world incident context
+
 ## QUALITY CHECKLIST
 
 Each subsection must have:
-- [ ] Security best practices
-- [ ] Compliance requirements
-- [ ] QA workflows
-- [ ] Code/policy examples
-- [ ] Vietnamese regulations
+- [ ] Security best practices presented through incident narratives
+- [ ] Compliance requirements in pure Vietnamese with storytelling context
+- [ ] QA workflows explained through real testing scenarios
+- [ ] Code/policy examples with Vietnamese documentation and context stories
+- [ ] Vietnamese regulations with proper legal terms and narrative explanations
+- [ ] **PURE VIETNAMESE** - absolutely NO English/Vietnamese mixing
 - [ ] 2,500-3,000 words length
 - [ ] Written in incremental 50-line chunks
 

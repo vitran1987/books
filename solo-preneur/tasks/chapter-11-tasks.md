@@ -188,15 +188,33 @@
 
 ---
 
+## WRITING STYLE REQUIREMENTS
+
+**CRITICAL**: Learn from `e:\Books\blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+### Pure Vietnamese Language:
+- ✅ **ONLY pure Vietnamese** - NO mixing
+- ✅ "trí tuệ nhân tạo tổng quát" not "AGI"
+- ✅ "tương lai" not "future", "tiến hóa" not "evolution"
+- ✅ All futurism terms in Vietnamese
+- ❌ NO English tech jargon
+
+### Narrative Style:
+- ✅ Future scenarios as vivid experiential stories (like Ethereum success vision)
+- ✅ 2030 Vietnamese entrepreneur painted as day-in-life narrative
+- ✅ Technology evolution told as historical progression story
+- ✅ Long paragraphs creating immersive future visions
+
 ## QUALITY CHECKLIST
 
 Each subsection must have:
-- [ ] Grounded speculation (trends-based)
-- [ ] Visionary yet practical
-- [ ] Vietnamese context included
-- [ ] Actionable insights
-- [ ] Inspiring narratives
-- [ ] Data-driven projections
+- [ ] Future speculation grounded in narrative extrapolation from present
+- [ ] Visionary scenarios told as immersive story experiences
+- [ ] Vietnamese context integrated into future narratives
+- [ ] Actionable insights embedded in visionary stories
+- [ ] Inspiring narratives of Vietnamese solo-entrepreneur futures
+- [ ] Data projections woven into predictive narratives
+- [ ] **PURE VIETNAMESE** - NO English/Vietnamese mixing
 - [ ] 3,000-3,500 words length
 - [ ] Written in incremental 50-line chunks
 
