@@ -13,13 +13,14 @@
 
 ## Writing Style (MANDATORY)
 
-1. **Long paragraphs with narrative flow** - Use story-based writing, NOT bullet points or short disconnected sentences
-2. **Real-life examples required** - Include verified case studies with specific companies, dates, and business metrics
-3. **Trusted sources mandatory** - Support all claims with facts, numbers, and statistics from credible sources
-4. **Business + Technical balance** - Lead with business value, support with technical details
-5. **Conversational tone** - Write as if speaking to a knowledgeable colleague, friendly and accessible
-6. **Subsection structure** - Each chapter must have 5-8 subsections, each in separate file (never single-file chapters)
-7. **EPUB-ready formatting** - Use proper heading hierarchy (H1, H2, H3) for table of contents generation
+1. **Pure Vietnamese language** - Write ONLY in Vietnamese, no mixing English and Vietnamese in the same content
+2. **Long paragraphs with narrative flow** - Use story-based writing, NOT bullet points or short disconnected sentences
+3. **Real-life examples required** - Include verified case studies with specific companies, dates, and business metrics
+4. **Trusted sources mandatory** - Support all claims with facts, numbers, and statistics from credible sources
+5. **Business + Technical balance** - Lead with business value, support with technical details
+6. **Conversational tone** - Write as if speaking to a knowledgeable colleague, friendly and accessible
+7. **Subsection structure** - Each chapter must have 5-8 subsections, each in separate file (never single-file chapters)
+8. **EPUB-ready formatting** - Use proper heading hierarchy (H1, H2, H3) for table of contents generation
 
 ## Content Requirements
 
@@ -65,3 +66,28 @@
 - Active voice, clear explanations
 - Concrete examples with business perspectives
 - Smooth transitions between subsections
+
+## Reference Writing Style (MANDATORY)
+
+**Study and emulate the writing style from:**
+- `blockchain-ico\chapter-01\01-lich-su-va-thanh-cong-ico.md`
+
+**Key characteristics to replicate:**
+- **Long narrative paragraphs** - Each subsection contains multiple paragraphs of 150-300 words that flow naturally
+- **Story-driven openings** - Start with compelling characters, situations, or drama (NOT time-based patterns)
+- **Detailed case studies** - Include specific names, dates, dollar amounts, and verifiable metrics
+- **Business context first** - Lead with "why this matters" before diving into technical details
+- **Smooth transitions** - Connect ideas between paragraphs using transition phrases
+- **Conversational yet authoritative** - Professional but accessible tone, as if explaining to a colleague
+- **Statistics integration** - Weave data and numbers naturally into narrative, with context
+- **Multiple perspectives** - Show both successes and failures, lessons from both
+- **Actionable insights** - End major sections with clear takeaways and implications
+
+**Pattern to follow from sample:**
+1. Open with engaging hook (character in situation, dramatic moment, or surprising fact)
+2. Expand with background context and significance
+3. Present detailed evidence (case studies, data, examples)
+4. Analyze implications and lessons learned
+5. Connect to broader themes or next section
+
+**This reference file demonstrates the EXACT tone, structure, and depth expected for all book chapters.**
