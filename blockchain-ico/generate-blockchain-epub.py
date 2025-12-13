@@ -20,7 +20,7 @@ class BlockchainICOEPUBGenerator:
         self.base_chapter_dir = Path(".")
         self.output_dir = Path("./epub-temp-blockchain-ico")
         self.epub_file = Path("./blockchain-ico-token-economics.epub")
-        self.cover_image = Path("./book_cover.png")
+        self.cover_image = Path("./book-cover.png")
         self.book_id = f"blockchain-ico-{datetime.now().strftime('%Y%m%d%H%M%S')}"
         self.has_cover_image = False  # Track if cover image exists
         
