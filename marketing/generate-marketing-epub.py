@@ -20,7 +20,7 @@ class MarketingEdTechEPUBGenerator:
         self.base_chapter_dir = Path("book")
         self.output_dir = Path("./epub-temp-marketing")
         self.epub_file = Path("./marketing-edtech-guide.epub")
-        self.cover_image = Path("./book_cover.png")
+        self.cover_image = Path("./book-cover.png")
         self.book_id = f"marketing-edtech-{datetime.now().strftime('%Y%m%d%H%M%S')}"
         self.has_cover_image = False  # Track if cover image exists
         
