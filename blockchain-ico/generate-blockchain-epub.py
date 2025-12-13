@@ -367,6 +367,7 @@ class BlockchainICOEPUBGenerator:
 <body class="title-page">
     <h1>Blockchain, ICO và Token Economics</h1>
     <p class="subtitle">Hướng Dẫn Toàn Diện Về Phát Hành Đồng Tiền Lần Đầu và Thiết Kế Kinh Tế Token</p>
+    <p class="author">Tác giả: Bạn Giỏi Research Lab</p>
     <div class="publication-info">
         <p><strong>Chủ đề:</strong> Blockchain, Cryptocurrency, ICO, Token Economics, DeFi, DAO, NFT</p>
         <p><strong>Năm xuất bản:</strong> 2025</p>
@@ -444,6 +445,13 @@ strong {
     font-size: 1.2em;
     color: #2d3748;
     font-style: italic;
+    margin-bottom: 1em;
+}
+
+.author {
+    font-size: 1.1em;
+    color: #1a365d;
+    font-weight: bold;
     margin-bottom: 2em;
 }
 
@@ -584,17 +592,17 @@ nav a:hover {
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
         <dc:identifier id="bookid">{self.book_id}</dc:identifier>
         <dc:title>{title}</dc:title>
-        <dc:creator>Blockchain Expert Team</dc:creator>
+        <dc:creator>Bạn Giỏi Research Lab</dc:creator>
         <dc:language>vi</dc:language>
         <dc:date>{datetime.now().strftime('%Y-%m-%d')}</dc:date>
-        <dc:publisher>Blockchain Publishing</dc:publisher>
+        <dc:publisher>Bạn Giỏi Research Lab</dc:publisher>
         <dc:subject>Blockchain</dc:subject>
         <dc:subject>ICO</dc:subject>
         <dc:subject>Token Economics</dc:subject>
         <dc:subject>Cryptocurrency</dc:subject>
         <dc:subject>Smart Contracts</dc:subject>
         <dc:description>{description}</dc:description>
-        <dc:rights>© 2025 Blockchain Expert Team</dc:rights>
+        <dc:rights>© 2025 Bạn Giỏi Research Lab</dc:rights>
         <meta property="dcterms:modified">{datetime.now().strftime('%Y-%m-%dT%H:%M:%SZ')}</meta>{cover_meta}
     </metadata>
 

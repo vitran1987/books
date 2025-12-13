@@ -320,6 +320,7 @@ class FreeBookEPUBGenerator:
 <body class="title-page">
     <h1>MIỄN PHÍ</h1>
     <p class="subtitle">Các công ty tài trí nhất kiếm lời ra sao ở mức giá bằng 0</p>
+    <p class="author">Tác giả: Bạn Giỏi Research Lab</p>
     <div class="publication-info">
         <p><strong>Tác giả:</strong> Chris Anderson</p>
         <p><strong>Năm xuất bản:</strong> 2025</p>
@@ -428,8 +429,15 @@ p:first-child {
     font-size: 1.2em;
     color: #7f8c8d;
     font-style: italic;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
     text-indent: 0;
+}
+
+.author {
+    font-size: 1.1em;
+    color: #1a365d;
+    font-weight: bold;
+    margin-bottom: 2em;
 }
 
 .publication-info {
@@ -613,15 +621,15 @@ nav a:hover {
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
         <dc:identifier id="bookid">{self.book_id}</dc:identifier>
         <dc:title>{title}</dc:title>
-        <dc:creator>Chris Anderson</dc:creator>
+        <dc:creator>Bạn Giỏi Research Lab</dc:creator>
         <dc:language>vi</dc:language>
         <dc:date>{datetime.now().strftime('%Y-%m-%d')}</dc:date>
-        <dc:publisher>AI Book Converter</dc:publisher>
+        <dc:publisher>Bạn Giỏi Research Lab</dc:publisher>
         <dc:subject>Kinh tế</dc:subject>
         <dc:subject>Kinh doanh</dc:subject>
         <dc:subject>Chiến lược</dc:subject>
         <dc:description>{description}</dc:description>
-        <dc:rights>© Chris Anderson</dc:rights>
+        <dc:rights>© 2025 Bạn Giỏi Research Lab</dc:rights>
         <meta property="dcterms:modified">{datetime.now().strftime('%Y-%m-%dT%H:%M:%SZ')}</meta>
         {f'<meta name="cover" content="cover-image"/>' if has_cover else ''}
     </metadata>

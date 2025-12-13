@@ -454,6 +454,7 @@ class MarketingEdTechEPUBGenerator:
 <body class="title-page">
     <h1>Kiếm Tiền Từ Quảng Cáo Cho Nền Tảng Giáo Dục</h1>
     <p class="subtitle">Hướng Dẫn Toàn Diện Về Google Adsense, Facebook Ads, AI Agents và Chiến Lược Monetization Sáng Tạo</p>
+    <p class="author">Tác giả: Bạn Giỏi Research Lab</p>
     <div class="publication-info">
         <p><strong>Chủ đề:</strong> Digital Advertising, EdTech Monetization, Google Adsense, AI Agents, Marketing Strategy</p>
         <p><strong>Năm xuất bản:</strong> 2025</p>
@@ -531,6 +532,13 @@ strong {
     font-size: 1.2em;
     color: #2d3748;
     font-style: italic;
+    margin-bottom: 1em;
+}
+
+.author {
+    font-size: 1.1em;
+    color: #1a365d;
+    font-weight: bold;
     margin-bottom: 2em;
 }
 
@@ -671,10 +679,10 @@ nav a:hover {
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
         <dc:identifier id="bookid">{self.book_id}</dc:identifier>
         <dc:title>{title}</dc:title>
-        <dc:creator>EdTech Marketing Expert Team</dc:creator>
+        <dc:creator>Bạn Giỏi Research Lab</dc:creator>
         <dc:language>vi</dc:language>
         <dc:date>{datetime.now().strftime('%Y-%m-%d')}</dc:date>
-        <dc:publisher>EdTech Publishing</dc:publisher>
+        <dc:publisher>Bạn Giỏi Research Lab</dc:publisher>
         <dc:subject>Digital Advertising</dc:subject>
         <dc:subject>EdTech Monetization</dc:subject>
         <dc:subject>Google Adsense</dc:subject>
@@ -682,7 +690,7 @@ nav a:hover {
         <dc:subject>AI Agents</dc:subject>
         <dc:subject>Marketing Strategy</dc:subject>
         <dc:description>{description}</dc:description>
-        <dc:rights>© 2025 EdTech Marketing Expert Team</dc:rights>
+        <dc:rights>© 2025 Bạn Giỏi Research Lab</dc:rights>
         <meta property="dcterms:modified">{datetime.now().strftime('%Y-%m-%dT%H:%M:%SZ')}</meta>{cover_meta}
     </metadata>
 

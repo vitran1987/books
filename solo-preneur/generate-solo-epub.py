@@ -406,6 +406,7 @@ class SoloPreneur_EPUBGenerator:
 <body class="title-page">
     <h1>Solo-Preneur với AI Agents: Xây Dựng Startup EdTech Một Mình</h1>
     <p class="subtitle">Hướng Dẫn Toàn Diện Về AI Orchestration, Automation, Development và Scaling Strategies</p>
+    <p class="author">Tác giả: Bạn Giỏi Research Lab</p>
     <div class="publication-info">
         <p><strong>Chủ đề:</strong> AI Agents, Solo-Preneur, EdTech Startup, Automation, Agentic AI</p>
         <p><strong>Năm xuất bản:</strong> 2025</p>
@@ -483,6 +484,13 @@ strong {
     font-size: 1.2em;
     color: #2d3748;
     font-style: italic;
+    margin-bottom: 1em;
+}
+
+.author {
+    font-size: 1.1em;
+    color: #1a365d;
+    font-weight: bold;
     margin-bottom: 2em;
 }
 
@@ -623,10 +631,10 @@ nav a:hover {
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
         <dc:identifier id="bookid">{self.book_id}</dc:identifier>
         <dc:title>{title}</dc:title>
-        <dc:creator>AI-Powered Solo-Preneur Expert Team</dc:creator>
+        <dc:creator>Bạn Giỏi Research Lab</dc:creator>
         <dc:language>vi</dc:language>
         <dc:date>{datetime.now().strftime('%Y-%m-%d')}</dc:date>
-        <dc:publisher>Solo-Preneur Publishing</dc:publisher>
+        <dc:publisher>Bạn Giỏi Research Lab</dc:publisher>
         <dc:subject>AI Agents</dc:subject>
         <dc:subject>Solo-Preneur</dc:subject>
         <dc:subject>EdTech Startup</dc:subject>
@@ -634,7 +642,7 @@ nav a:hover {
         <dc:subject>Automation</dc:subject>
         <dc:subject>AI Models</dc:subject>
         <dc:description>{description}</dc:description>
-        <dc:rights>© 2025 AI-Powered Solo-Preneur Expert Team</dc:rights>
+        <dc:rights>© 2025 Bạn Giỏi Research Lab</dc:rights>
         <meta property="dcterms:modified">{datetime.now().strftime('%Y-%m-%dT%H:%M:%SZ')}</meta>{cover_meta}
     </metadata>
 

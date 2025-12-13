@@ -11,6 +11,12 @@
 
 # Book Writing Instructions
 
+## Common Rules for All Books (MANDATORY)
+
+1. **Author Name**: All books authored by "Bạn Giỏi Research Lab"
+2. **Vietnamese Titles**: All book titles, chapter titles, and section titles MUST be in Vietnamese
+3. **Metadata Consistency**: Use "Bạn Giỏi Research Lab" in all EPUB metadata, title pages, and credits
+
 ## Writing Style (MANDATORY)
 
 1. **Pure Vietnamese language** - Write ONLY in Vietnamese, no mixing English and Vietnamese in the same content

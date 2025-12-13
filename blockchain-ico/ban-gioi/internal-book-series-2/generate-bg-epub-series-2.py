@@ -336,6 +336,7 @@ class BlockchainICOEPUBGenerator:
 <body class="title-page">
     <h1>BG Internal Book - Series 2</h1>
     <p class="subtitle">Cải Tiến Governance và Cơ Chế Token - Tài Liệu Nội Bộ</p>
+    <p class="author">Tác giả: Bạn Giỏi Research Lab</p>
     <div class="publication-info">
         <p><strong>Chủ đề:</strong> Governance Model Adjustment, Single Token Design, Flexible Supply, Dynamic Mechanisms</p>
         <p><strong>Năm xuất bản:</strong> 2025</p>
@@ -413,6 +414,13 @@ strong {
     font-size: 1.2em;
     color: #2d3748;
     font-style: italic;
+    margin-bottom: 1em;
+}
+
+.author {
+    font-size: 1.1em;
+    color: #1a365d;
+    font-weight: bold;
     margin-bottom: 2em;
 }
 
@@ -553,10 +561,10 @@ nav a:hover {
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
         <dc:identifier id="bookid">{self.book_id}</dc:identifier>
         <dc:title>{title}</dc:title>
-        <dc:creator>BG Team</dc:creator>
+        <dc:creator>Bạn Giỏi Research Lab</dc:creator>
         <dc:language>vi</dc:language>
         <dc:date>{datetime.now().strftime('%Y-%m-%d')}</dc:date>
-        <dc:publisher>BG Internal Publishing</dc:publisher>
+        <dc:publisher>Bạn Giỏi Research Lab</dc:publisher>
         <dc:subject>Governance Model Adjustment</dc:subject>
         <dc:subject>Single Token Design</dc:subject>
         <dc:subject>Flexible Supply Mechanism</dc:subject>
@@ -568,7 +576,7 @@ nav a:hover {
         <dc:subject>Vietnam Tax and Accounting</dc:subject>
         <dc:subject>Internal Documentation</dc:subject>
         <dc:description>{description}</dc:description>
-        <dc:rights>© 2025 BG Team - Internal Use Only</dc:rights>
+        <dc:rights>© 2025 Bạn Giỏi Research Lab</dc:rights>
         <meta property="dcterms:modified">{datetime.now().strftime('%Y-%m-%dT%H:%M:%SZ')}</meta>{cover_meta}
     </metadata>
 
