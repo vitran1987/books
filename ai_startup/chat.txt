@@ -1,0 +1,13 @@
+the book chapters are already developed in all phases but now we need to restructure the chapter content to be best align with the new direction in the below docs:
+book-project/00-book-planning/book-concept.md 
+book-project/00-book-planning/chapter-goals-dependencies.md
+book-project/00-book-planning/table-of-contents.md
+book-project/00-book-planning/content-brainstorming.md
+
+Please start the below tasks and update the respective chapter content:
+book-project/project-management/phase-1-chapter-development/chapter-05-tasks/P2-005-01-discovery.md
+book-project/project-management/phase-1-chapter-development/chapter-06-tasks/P2-006-01-discovery.md
+book-project/project-management/phase-1-chapter-development/chapter-07-tasks/P2-007-01-discovery.md
+book-project/project-management/phase-1-chapter-development/chapter-08-tasks/P2-008-01-discovery.md
+
+I expect the outcome delivarables are updated directly into the files in folder book-project/01-chapter-development/chapter-05-strategy/01-discovery of each chapter
